@@ -1,0 +1,1 @@
+compara 1.txt y 2.txt y devuelve una lista 3.txt con las entradas que solo existen en 1.txt
