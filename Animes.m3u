@@ -1,5 +1,4 @@
-
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 group-title="Blue Lock (2022)",S01E01 夢
 https://archive.org/download/blclk-84-lpasdfg-6514-gej-1-x-1/01/BLCLK84LPASDFG6514GEJ1X1.mkv
 #EXTINF:-1 group-title="Blue Lock (2022)",S01E02 かいぶつ
@@ -48,8 +47,6 @@ https://archive.org/download/blclk-84-lpasdfg-6514-gej-1-x-1/01/BLCLK84LPASDFG65
 https://archive.org/download/blclk-84-lpasdfg-6514-gej-1-x-1/01/BLCLK84LPASDFG6514GEJ1X23.mkv
 #EXTINF:-1 group-title="Blue Lock (2022)",S01E24 時は来たり
 https://archive.org/download/blclk-84-lpasdfg-6514-gej-1-x-1/01/BLCLK84LPASDFG6514GEJ1X24.mkv
-
-
 #EXTINF:-1 group-title="Dragon Ball (1986)",Capitulo 01
 https://archive.org/download/7_20200424/1.mp4
 #EXTINF:-1 group-title="Dragon Ball (1986)",Capitulo 02
@@ -356,9 +353,3 @@ https://archive.org/download/120_20200426/151.mp4
 https://archive.org/download/120_20200426/152.mp4
 #EXTINF:-1 group-title="Dragon Ball (1986)",Capitulo 153
 https://archive.org/download/120_20200426/153.mp4
-
-
-
-
-
-
