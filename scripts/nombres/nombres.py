@@ -7,84 +7,83 @@ import requests
 # =====================================================================
 API_KEY = "6f6ac958e9e94c4c42371ebba58f4e00" 
 BASE_URL = "https://themoviedb.org"
-# Base de URL para las imágenes de TMDB (w300 es un tamaño óptimo para reproductores IPTV)
-IMG_BASE_URL = "https://tmdb.org"
 
 def limpiar_nombre_canal(texto):
-    """Limpia marcas comunes de IPTV para realizar la búsqueda en TMDB."""
-    texto_limpio = re.sub(r'\[.*?\]', '', texto)
-    texto_limpio = re.sub(r'\(.*?\)', '', texto)
+    """
+    Limpia a fondo el nombre eliminando corchetes, paréntesis y años
+    para dejar solo el título puro que TMDB sí puede indexar.
+    """
+    texto_limpio = re.sub(r'\[.*?\]', '', texto)  # Elimina [ENG], [HD], etc.
+    texto_limpio = re.sub(r'\(.*?\)', '', texto)  # Elimina (2025), (1080p), etc.
     texto_limpio = re.sub(r'\.(mp4|mkv|avi|mov)$', '', texto_limpio, flags=re.IGNORECASE)
     texto_limpio = re.sub(r'[-_|:]', ' ', texto_limpio)
     return texto_limpio.strip()
 
+def hacer_peticion(url, parametros):
+    """Maneja las peticiones de forma segura emulando un navegador."""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept": "application/json"
+    }
+    parametros['api_key'] = API_KEY
+
+    try:
+        response = requests.get(url, params=parametros, headers=headers, timeout=10)
+        if response.status_code == 200:
+            return response.json()
+        return None
+    except Exception:
+        return None
+
 def buscar_datos_tmdb(nombre_video):
-    """
-    Busca en TMDB y devuelve un diccionario con:
-    título en inglés, año de lanzamiento y URL del póster.
-    """
     nombre_busqueda = limpiar_nombre_canal(nombre_video)
     if not nombre_busqueda:
         return None
 
+    # Parámetros óptimos para Español de México
     parametros = {
-        'api_key': API_KEY,
         'query': nombre_busqueda,
-        'language': 'en-US'
+        'language': 'es-MX',
+        'region': 'MX'
     }
 
-    try:
-        # 1. Intentar en catálogo de Películas
-        url_movie = f"{BASE_URL}/search/movie"
-        response = requests.get(url_movie, params=parametros, timeout=10)
-        if response.status_code == 200:
-            resultados = response.json().get('results', [])
-            if resultados:
-                data = resultados[0]
-                titulo = data.get('title')
-                # Extraer solo los primeros 4 dígitos del año (YYYY-MM-DD)
-                fecha = data.get('release_date', '')
-                anio = fecha[:4] if fecha else ""
-                # Construir la URL completa del póster
-                poster_path = data.get('poster_path')
-                poster_url = f"{IMG_BASE_URL}{poster_path}" if poster_path else None
-                
-                return {'titulo': titulo, 'anio': anio, 'poster': poster_url}
+    # 1. Buscar en Películas
+    data_movie = hacer_peticion(f"{BASE_URL}/search/movie", parametros)
+    if data_movie and data_movie.get('results'):
+        # CORRECCIÓN: Extraemos el primer elemento [0] de la lista de resultados
+        primer_resultado = data_movie['results'][0]
+        titulo = primer_resultado.get('title')
+        fecha = primer_resultado.get('release_date', '')
+        anio = fecha[:4] if fecha else ""
+        return {'titulo': titulo, 'anio': anio}
 
-        # 2. Intentar en catálogo de Series de TV
-        url_tv = f"{BASE_URL}/search/tv"
-        response = requests.get(url_tv, params=parametros, timeout=10)
-        if response.status_code == 200:
-            resultados = response.json().get('results', [])
-            if resultados:
-                data = resultados[0]
-                titulo = data.get('name')
-                fecha = data.get('first_air_date', '')
-                anio = fecha[:4] if fecha else ""
-                poster_path = data.get('poster_path')
-                poster_url = f"{IMG_BASE_URL}{poster_path}" if poster_path else None
-                
-                return {'titulo': titulo, 'anio': anio, 'poster': poster_url}
+    # 2. Buscar en Series de TV
+    data_tv = hacer_peticion(f"{BASE_URL}/search/tv", parametros)
+    if data_tv and data_tv.get('results'):
+        # CORRECCIÓN: Extraemos el primer elemento [0] de la lista de resultados
+        primer_resultado = data_tv['results'][0]
+        titulo = primer_resultado.get('name')
+        fecha = primer_resultado.get('first_air_date', '')
+        anio = fecha[:4] if fecha else ""
+        return {'titulo': titulo, 'anio': anio}
 
-    except Exception as e:
-        print(f" Error de conexión con TMDB: {e}")
-    
     return None
 
-def procesar_m3u(archivo_origen, archivo_destino):
+def procesar_m3u(archivo_origen, archivo_resultado, archivo_encontrados):
     try:
         with open(archivo_origen, 'r', encoding='utf-8') as origen:
             lineas = origen.readlines()
         
         lineas_resultado = []
+        lineas_encontrados = []
         
-        if lineas and lineas[0].startswith('#EXTM3U'):
+        # CORRECCIÓN: Analizar la primera línea [0] de la lista como string
+        inicio = 1 if lineas and lineas[0].startswith('#EXTM3U') else 0
+        if inicio == 1:
             lineas_resultado.append(lineas[0])
-            inicio = 1
-        else:
-            inicio = 0
+            lineas_encontrados.append(lineas[0])
 
-        print("Iniciando enriquecimiento de datos con TMDB...")
+        print("Iniciando búsqueda de títulos en TMDB (Español de México)...\n")
         
         for i in range(inicio, len(lineas)):
             linea = lineas[i]
@@ -94,52 +93,58 @@ def procesar_m3u(archivo_origen, archivo_destino):
                 if len(partes) == 2:
                     metadatos, nombre_original = partes[0], partes[1].strip()
                     
-                    print(f"Procesando: {nombre_original}...", end="", flush=True)
+                    print(f"Procesando: {nombre_original:<50}", end="", flush=True)
                     
                     info = buscar_datos_tmdb(nombre_original)
                     
+                    tiene_url = (i + 1 < len(lineas))
+                    linea_url = lineas[i + 1] if tiene_url else ""
+                    
                     if info:
-                        # 1. Formatear el nuevo nombre con el año si está disponible
                         nuevo_nombre = info['titulo']
                         if info['anio']:
                             nuevo_nombre = f"{nuevo_nombre} ({info['anio']})"
                         
-                        # 2. Inyectar el póster en las etiquetas de metadatos
-                        # Si ya tiene una etiqueta tvg-logo, la reemplazamos. Si no, la creamos.
-                        if info['poster']:
-                            if 'tvg-logo="' in metadatos:
-                                metadatos = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{info["poster"]}"', metadatos)
-                            else:
-                                # Insertar justo después de '#EXTINF:-1' o los metadatos numéricos iniciales
-                                metadatos = re.sub(r'(#EXTINF:[-0-9]*)', r'\1 tvg-logo="' + info['poster'] + '"', metadatos)
+                        nueva_linea_inf = f"{metadatos},{nuevo_nombre}\n"
+                        print(f" -> ¡Traducido!: {nuevo_nombre}")
                         
-                        # Reconstruir la línea final
-                        nueva_linea = f"{metadatos},{nuevo_nombre}\n"
-                        print(" -> ¡Encontrado y Actualizado!")
+                        lineas_resultado.append(nueva_linea_inf)
+                        if tiene_url:
+                            lineas_resultado.append(linea_url)
+                            
+                        lineas_encontrados.append(nueva_linea_inf)
+                        if tiene_url:
+                            lineas_encontrados.append(linea_url)
                     else:
-                        nueva_linea = linea
-                        print(" -> No encontrado en TMDB")
-                        
-                    lineas_resultado.append(nueva_linea)
+                        print(" -> No encontrado")
+                        lineas_resultado.append(linea)
+                        if tiene_url:
+                            lineas_resultado.append(linea_url)
                 else:
                     lineas_resultado.append(linea)
                 
-                time.sleep(0.2) # Respetar límites de la API
-            else:
-                lineas_resultado.append(linea)
-
-        with open(archivo_destino, 'w', encoding='utf-8') as destino:
-            destino.writelines(lineas_resultado)
+                time.sleep(0.25)
             
-        print(f"\n¡Éxito! Nueva lista generada en '{archivo_destino}'.")
+            elif i > 0 and lineas[i-1].startswith('#EXTINF:'):
+                continue
+            else:
+                if i != 0: 
+                    lineas_resultado.append(linea)
+
+        with open(archivo_resultado, 'w', encoding='utf-8') as dest_res:
+            dest_res.writelines(lineas_resultado)
+            
+        with open(archivo_encontrados, 'w', encoding='utf-8') as dest_enc:
+            dest_enc.writelines(lineas_encontrados)
+            
+        print(f"\n¡Proceso terminado con éxito!")
+        print(f"-> Lista General con cambios: '{archivo_resultado}'")
+        print(f"-> Lista de Solo Encontrados: '{archivo_encontrados}'")
 
     except FileNotFoundError:
-        print(f"Error: No se encontró '{archivo_origen}'.")
+        print(f"Error: No se encontró el archivo '{archivo_origen}' en esta carpeta.")
     except Exception as e:
         print(f"Error general en el proceso: {e}")
 
 if __name__ == "__main__":
-    if API_KEY == "TU_API_KEY_AQUI":
-        print("Error: Por favor coloca tu API Key de TMDB.")
-    else:
-        procesar_m3u('origen.m3u', 'resultado.m3u')
+    procesar_m3u('origen.m3u', 'resultado.m3u', 'encontrados.m3u')
