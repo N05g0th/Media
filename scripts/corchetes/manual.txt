@@ -1,0 +1,1 @@
+analisa list.m3u y devuelve resultado.m3u con todos los enlaces que contienen [] y sin.m3u con los que no tienen
