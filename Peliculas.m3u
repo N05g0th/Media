@@ -1,5 +1,12 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 group-title="Peliculas",Mortal Kombat 2 (2026) [DUAL]
+https://archive.org/download/01_20260701_20260701_1722/project/01.mkv
+#EXTINF:-1 group-title="Peliculas",Flags of Our Fathers (2006)[ENG]
+https://archive.org/download/01_20260701_20260701_1722/project/02.mkv
+#EXTINF:-1 group-title="Peliculas",Letters from Iwo Jima (2006)[DUAL]
+https://archive.org/download/01_20260701_20260701_1722/project/03.mkv
+
 #EXTINF:-1 group-title="Peliculas",Obsesión (2026) [DUAL]
 https://archive.org/download/02_20260701/handbrake/01.mkv
 #EXTINF:-1 group-title="Peliculas",Reyes de la calle (2008) [DUAL]
@@ -12,7 +19,6 @@ https://archive.org/download/02_20260701/handbrake/04.mkv
 https://archive.org/download/02_20260701/handbrake/05.mkv
 #EXTINF:-1 group-title="Peliculas",El poder del talismán (2003) [DUAL]
 https://archive.org/download/02_20260701/handbrake/06.mkv
-
 #EXTINF:-1 group-title="Peliculas",007: Quantum (2008)
 http://archive.org/download/mio53_yopmail_6/6.mp4
 #EXTINF:-1 group-title="Peliculas",12 Hours Shift (2020)
