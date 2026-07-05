@@ -1,4 +1,15 @@
 ﻿#EXTM3U
+#EXTINF:-1,La era de hielo (2002)
+https://archive.org/download/01_20260705_20260705_1846/SERVERS/02.mp4
+#EXTINF:-1,La era de hielo 2 (2006)
+https://archive.org/download/01_20260705_20260705_1846/SERVERS/03.mp4
+#EXTINF:-1,La era de hielo 3 (2009)
+https://archive.org/download/01_20260705_20260705_1846/SERVERS/04.mp4
+#EXTINF:-1,La era de hielo 4 (2012)
+https://archive.org/download/01_20260705_20260705_1846/SERVERS/05.mp4
+#EXTINF:-1,La era de hielo 5 Choque de mundos (2016)
+https://archive.org/download/01_20260705_20260705_1846/SERVERS/06.mp4
+
 #EXTINF:-1,Supermonstruos: Día de los Monstruos (2020) (2020)
 https://archive.org/download/tutoriales_202506/TutorialesLinux/08.mp4
 #EXTINF:-1,Peter Pan (1953)
