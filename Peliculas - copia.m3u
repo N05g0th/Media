@@ -1,4 +1,45 @@
 ﻿#EXTM3U
+#EXTINF:-1,The Lord Of The Rings 1 The Fellowship Of The Ring (2001)
+https://archive.org/download/021_20200427/021.mkv
+#EXTINF:-1,The Lord Of The Rings 2 The Two Towers (2002)
+https://archive.org/download/022_20200427/022.mkv
+#EXTINF:-1,The Lord Of The Rings 2 The Two Towers (2002)
+http://archive.org/download/0trece/8.mp4
+#EXTINF:-1,The Lord Of The Rings 3 The Return Of The King (2003)
+http://archive.org/download/0trece/9.mp4
+#EXTINF:-1,The Lord Of The Rings 3 The Return Of The King (2003)
+https://archive.org/download/023_20200427/023.mkv
+#EXTINF:-1,The Lovebirds
+https://dl.dropboxusercontent.com/s/praw50i7boz8qid/the.lovebirds.2020.mp4
+#EXTINF:-1,The Map Of Tiny Perfect Things (2021)
+https://archive.org/download/esd_20210305/3lm4p4d3l0s1nt4nt3s.mp4
+#EXTINF:-1,The Marine (2006)
+https://archive.org/download/elmari2dvdlat/mrne/elmari1dvdlat.avi
+#EXTINF:-1,The Marine 2 (2009)
+https://archive.org/download/elmari2dvdlat/mrne/elmari2dvdlat.avi
+#EXTINF:-1,The Marine 3 - Homefront (2013)
+https://archive.org/download/elmari2dvdlat/mrne/elmarin3dvdlat.avi
+#EXTINF:-1,The Marine 4 - Moving Target (2015)
+https://archive.org/download/elmari2dvdlat/mrne/elmarin4dvdlat.avi
+#EXTINF:-1,The Marvels (2023) [DUAL]
+https://archive.org/download/servers_202605/Linux/03.mkv
+#EXTINF:-1,The Matrix (1999) [DUAL]
+https://archive.org/download/09_20260430_20260430_1951/editores/10.mp4
+#EXTINF:-1,The Matrix Reloaded (2003) [DUAL]
+https://archive.org/download/09_20260430_20260430_1951/editores/11.mp4
+#EXTINF:-1,The Matrix Resurrections (2021) [DUAL]
+https://archive.org/download/09_20260430_20260430_1951/editores/13.mp4
+#EXTINF:-1,The Matrix Revolutions (2003) [DUAL]
+https://archive.org/download/09_20260430_20260430_1951/editores/12.mp4
+#EXTINF:-1,The Messengers (2007) [Esp]
+https://archive.org/download/12_20260425_202604/unix/08.mp4
+#EXTINF:-1,The Messengers (2007) [Esp]
+https://archive.org/download/9_20250723_20250723/linux/12.mp4
+#EXTINF:-1,The Misfits los Inadaptados
+https://archive.org/download/00chayo/rt/m1sf1t.mp4
+#EXTINF:-1,The Monkey (2025) [Dual]
+https://archive.org/download/01_20250624_20250624_1917/pascal/12.mp4
+
 #EXTINF:-1,Waterworld
 https://archive.org/download/003_20200426_202004/003.mkv
 #EXTINF:-1,Wayang Puaka (2023) [Dual]
@@ -45,8 +86,6 @@ https://archive.org/download/01_20241006/linux/02.mp4
 https://ia601504.us.archive.org/20/items/4915812364894339407/1_4915812364894339407.mp4
 #EXTINF:-1,Woman Of The Hour (2024) [Dual]
 https://archive.org/download/5432_20241222/sabayon/3454212.mp4
-
->>>>>>> d46b7759aa7e4d6274a7d8405e7d32086aa1acf0
 #EXTINF:-1,The Heist Of The Century (2020)
 https://dl.dropboxusercontent.com/s/u2s8jabw42d058v/el.robo.del.siglo.mp4
 #EXTINF:-1,The Holiday (2006) [DUAL]
@@ -101,46 +140,7 @@ https://archive.org/download/05_20251202_202512/Linux/07.mp4
 https://archive.org/download/09_20260430_20260430_1951/editores/09.mkv
 #EXTINF:-1,The Live Inside Us (2020) (Subtitulada)
 http://ia601509.us.archive.org/15/items/000_20201016/00008.mp4
-#EXTINF:-1,The Lord Of The Rings 1 The Fellowship Of The Ring (2001)
-https://archive.org/download/021_20200427/021.mkv
-#EXTINF:-1,The Lord Of The Rings 2 The Two Towers (2002)
-https://archive.org/download/022_20200427/022.mkv
-#EXTINF:-1,The Lord Of The Rings 2 The Two Towers (2002)
-http://archive.org/download/0trece/8.mp4
-#EXTINF:-1,The Lord Of The Rings 3 The Return Of The King (2003)
-http://archive.org/download/0trece/9.mp4
-#EXTINF:-1,The Lord Of The Rings 3 The Return Of The King (2003)
-https://archive.org/download/023_20200427/023.mkv
-#EXTINF:-1,The Lovebirds
-https://dl.dropboxusercontent.com/s/praw50i7boz8qid/the.lovebirds.2020.mp4
-#EXTINF:-1,The Map Of Tiny Perfect Things (2021)
-https://archive.org/download/esd_20210305/3lm4p4d3l0s1nt4nt3s.mp4
-#EXTINF:-1,The Marine (2006)
-https://archive.org/download/elmari2dvdlat/mrne/elmari1dvdlat.avi
-#EXTINF:-1,The Marine 2 (2009)
-https://archive.org/download/elmari2dvdlat/mrne/elmari2dvdlat.avi
-#EXTINF:-1,The Marine 3 - Homefront (2013)
-https://archive.org/download/elmari2dvdlat/mrne/elmarin3dvdlat.avi
-#EXTINF:-1,The Marine 4 - Moving Target (2015)
-https://archive.org/download/elmari2dvdlat/mrne/elmarin4dvdlat.avi
-#EXTINF:-1,The Marvels (2023) [DUAL]
-https://archive.org/download/servers_202605/Linux/03.mkv
-#EXTINF:-1,The Matrix (1999) [DUAL]
-https://archive.org/download/09_20260430_20260430_1951/editores/10.mp4
-#EXTINF:-1,The Matrix Reloaded (2003) [DUAL]
-https://archive.org/download/09_20260430_20260430_1951/editores/11.mp4
-#EXTINF:-1,The Matrix Resurrections (2021) [DUAL]
-https://archive.org/download/09_20260430_20260430_1951/editores/13.mp4
-#EXTINF:-1,The Matrix Revolutions (2003) [DUAL]
-https://archive.org/download/09_20260430_20260430_1951/editores/12.mp4
-#EXTINF:-1,The Messengers (2007) [Esp]
-https://archive.org/download/12_20260425_202604/unix/08.mp4
-#EXTINF:-1,The Messengers (2007) [Esp]
-https://archive.org/download/9_20250723_20250723/linux/12.mp4
-#EXTINF:-1,The Misfits los Inadaptados
-https://archive.org/download/00chayo/rt/m1sf1t.mp4
-#EXTINF:-1,The Monkey (2025) [Dual]
-https://archive.org/download/01_20250624_20250624_1917/pascal/12.mp4
+
 #EXTINF:-1,The Most Precious Of Cargoes (2024) [Dual]
 https://archive.org/download/01_20250625_20250625_1655/temp/05.mp4
 #EXTINF:-1,The Night Comes For Us
