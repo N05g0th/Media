@@ -2,479 +2,225 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Reproductor M3U Universal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor Smart TV (Archive & Dropbox)</title>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-            background: #0a0a0a;
-            color: #eee;
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 12px;
-        }
-        .container {
-            max-width: 1100px;
-            width: 100%;
-            background: #1a1a1a;
-            border-radius: 20px;
+            font-family: Arial, sans-serif;
+            background-color: #111;
+            color: #fff;
+            margin: 0;
             padding: 20px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.9);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
+
         h1 {
             font-size: 1.8rem;
-            font-weight: 400;
-            letter-spacing: 1px;
-            margin-bottom: 16px;
-            text-align: center;
-            color: #ffd700;
-            text-shadow: 0 2px 10px rgba(255, 215, 0, 0.2);
+            margin-bottom: 20px;
+            color: #E50914;
         }
-        .player-wrapper {
-            position: relative;
+
+        .container {
+            display: flex;
+            flex-direction: row;
             width: 100%;
-            padding-top: 56.25%;
-            background: #000;
-            border-radius: 16px;
-            overflow: hidden;
-            box-shadow: 0 8px 30px rgba(0,0,0,0.7);
+            max-width: 1200px;
+            gap: 20px;
         }
-        .player-wrapper video {
-            position: absolute;
-            top: 0;
-            left: 0;
+
+        .player-box {
+            flex: 2;
+            background: #000;
+            border-radius: 8px;
+            overflow: hidden;
+            aspect-ratio: 16/9;
+        }
+
+        video {
             width: 100%;
             height: 100%;
             background: #000;
         }
-        /* Subtítulos amarillos con mejor contraste */
-        .player-wrapper video::cue {
-            color: #FFD700 !important;
-            background-color: rgba(0, 0, 0, 0.75) !important;
-            font-size: 1.2em !important;
-            font-weight: bold !important;
-            text-shadow: 0 0 10px rgba(0,0,0,0.95) !important;
-            font-family: 'Arial', sans-serif !important;
-            padding: 4px 8px !important;
-            border-radius: 4px !important;
-        }
-        .controls-panel {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin: 16px 0 14px;
-            align-items: center;
-            justify-content: center;
-        }
-        .controls-panel select, .controls-panel button {
-            background: #2a2a2a;
-            border: 1px solid #444;
-            color: #eee;
-            padding: 10px 18px;
-            border-radius: 40px;
-            font-size: 0.95rem;
-            cursor: pointer;
-            outline: none;
-            transition: all 0.2s;
-            min-width: 110px;
-            appearance: none;
-            -webkit-appearance: none;
-            background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="%23aaaaaa" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>');
-            background-repeat: no-repeat;
-            background-position: right 12px center;
-            background-size: 12px;
-        }
-        .controls-panel select:hover, .controls-panel button:hover {
-            background-color: #3a3a3a;
-            border-color: #ffd700;
-        }
-        .controls-panel button.primary {
-            background: #ffd700;
-            color: #111;
-            border-color: #ffd700;
-            font-weight: 600;
-            background-image: none;
-        }
-        .controls-panel button.primary:hover {
-            background: #ffe44d;
-            transform: scale(1.02);
-        }
-        .playlist-container {
-            max-height: 280px;
+
+        .playlist-box {
+            flex: 1;
+            background: #222;
+            border-radius: 8px;
+            padding: 15px;
+            max-height: 500px;
             overflow-y: auto;
-            background: #121212;
-            border-radius: 14px;
-            padding: 6px 4px;
-            border: 1px solid #2a2a2a;
-            margin-top: 4px;
         }
-        .playlist-container ul {
+
+        .playlist-box h2 {
+            font-size: 1.2rem;
+            margin-top: 0;
+            border-bottom: 1px solid #444;
+            padding-bottom: 10px;
+        }
+
+        .playlist-ul {
             list-style: none;
             padding: 0;
             margin: 0;
         }
-        .playlist-container li {
-            padding: 10px 14px;
-            border-bottom: 1px solid #222;
-            cursor: pointer;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            border-radius: 8px;
-            margin: 2px 4px;
-            transition: background 0.15s;
-        }
-        .playlist-container li:hover { background: #2a2a2a; }
-        .playlist-container li.active {
-            background: #2a2a2a;
-            border-left: 4px solid #ffd700;
-            padding-left: 10px;
-        }
-        .playlist-container li .title {
-            font-size: 0.9rem;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            max-width: 70%;
-        }
-        .playlist-container li .badge {
-            font-size: 0.7rem;
-            background: #333;
-            padding: 3px 10px;
-            border-radius: 30px;
-            color: #aaa;
-            white-space: nowrap;
-        }
-        .playlist-container li.active .badge { background: #ffd700; color: #111; }
-        .status-msg {
-            text-align: center;
-            padding: 10px;
-            color: #aaa;
-            font-size: 0.85rem;
-        }
-        .playlist-container::-webkit-scrollbar { width: 5px; }
-        .playlist-container::-webkit-scrollbar-track { background: #1a1a1a; border-radius: 10px; }
-        .playlist-container::-webkit-scrollbar-thumb { background: #444; border-radius: 10px; }
-        .playlist-container::-webkit-scrollbar-thumb:hover { background: #666; }
 
-        @media (max-width: 640px) {
-            .controls-panel { flex-direction: column; align-items: stretch; }
-            .controls-panel select, .controls-panel button { width: 100%; }
-            .playlist-container li .title { max-width: 60%; }
+        .playlist-item {
+            padding: 12px;
+            border-bottom: 1px solid #333;
+            cursor: pointer;
+            transition: background 0.2s;
+            font-size: 0.95rem;
         }
-        @media (min-width: 1200px) {
-            .container { padding: 30px; }
-            .controls-panel select, .controls-panel button { font-size: 1.05rem; padding: 12px 22px; }
-            h1 { font-size: 2.2rem; }
+
+        .playlist-item:hover, .playlist-item.active {
+            background-color: #E50914;
+            color: white;
+            font-weight: bold;
+        }
+
+        .playlist-item:focus {
+            background-color: #ff333a;
+            outline: none;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
         }
     </style>
 </head>
 <body>
+
+    <h1>Mi Catálogo de Películas</h1>
+
     <div class="container">
-        <h1>🎬 Reproductor M3U · Subs Amarillos</h1>
-        <div class="player-wrapper">
-            <video id="videoPlayer" controls preload="metadata" crossorigin="anonymous" playsinline>
-                <track kind="subtitles" srclang="es" label="Español" default>
+        <!-- Reproductor Nativo de HTML5 -->
+        <div class="player-box">
+            <video 
+                id="main-player" 
+                controls 
+                autoplay
+                preload="auto"
+                playsinline>
+                Tu navegador no soporta reproducción de video.
             </video>
         </div>
-        <div class="controls-panel">
-            <select id="audioSelect" aria-label="Pista de audio">
-                <option value="default">🎧 Audio predeterminado</option>
-            </select>
-            <select id="subtitleSelect" aria-label="Subtítulos">
-                <option value="default">📝 Subtítulos predeterminados</option>
-            </select>
-            <button id="loadPlaylistBtn" class="primary">⟳ Recargar lista</button>
-        </div>
-        <div class="playlist-container">
-            <ul id="playlistList"></ul>
-            <div class="status-msg" id="statusMsg">📡 Cargando lista de películas...</div>
+
+        <!-- Lista de Películas -->
+        <div class="playlist-box">
+            <h2>Lista de Películas</h2>
+            <ul id="playlist" class="playlist-ul">
+                <li class="playlist-item">Cargando lista...</li>
+            </ul>
         </div>
     </div>
+
     <script>
-        (function() {
-            const M3U_URL = 'https://raw.githubusercontent.com/N05g0th/Media/refs/heads/main/Peliculas.m3u';
-            const video = document.getElementById('videoPlayer');
-            const audioSelect = document.getElementById('audioSelect');
-            const subtitleSelect = document.getElementById('subtitleSelect');
-            const playlistList = document.getElementById('playlistList');
-            const statusMsg = document.getElementById('statusMsg');
-            const loadBtn = document.getElementById('loadPlaylistBtn');
+        const m3uUrl = 'https://raw.githubusercontent.com/N05g0th/Media/refs/heads/main/Peliculas.m3u8';
+        const videoPlayer = document.getElementById('main-player');
+        const playlistElement = document.getElementById('playlist');
 
-            let mediaItems = [];
-            let currentIndex = -1;
+        document.addEventListener('DOMContentLoaded', fetchM3U);
 
-            // --- Parseo M3U mejorado ---
-            function parseM3U(data) {
-                const lines = data.split(/\r?\n/);
-                const items = [];
-                let currentTitle = '';
-                let currentInfo = '';
-                for (let i = 0; i < lines.length; i++) {
-                    const line = lines[i].trim();
-                    if (line.startsWith('#EXTINF:')) {
-                        const commaIndex = line.indexOf(',');
-                        if (commaIndex !== -1) {
-                            currentTitle = line.substring(commaIndex + 1).trim();
-                        } else {
-                            currentTitle = 'Sin título';
-                        }
-                        currentInfo = line.substring(8, commaIndex !== -1 ? commaIndex : line.length).trim();
-                    } else if (line && !line.startsWith('#') && currentTitle) {
-                        const url = line;
-                        let cleanTitle = currentTitle;
-                        // Eliminar duplicados de extensión o info extra
-                        const lang = extractLang(cleanTitle + ' ' + currentInfo);
-                        items.push({
-                            title: cleanTitle,
-                            url: url,
-                            info: currentInfo,
-                            lang: lang,
-                            // Detectar formato para mostrar icono
-                            ext: url.split('.').pop().toLowerCase().split('?')[0] || ''
-                        });
-                        currentTitle = '';
-                        currentInfo = '';
-                    }
-                }
-                return items;
+        async function fetchM3U() {
+            try {
+                const response = await fetch(m3uUrl);
+                if (!response.ok) throw new Error('Error al cargar M3U');
+                const data = await response.text();
+                const movies = parseM3U(data);
+                renderPlaylist(movies);
+            } catch (error) {
+                console.error(error);
+                playlistElement.innerHTML = '<li class="playlist-item">Error al cargar la lista M3U.</li>';
             }
+        }
 
-            function extractLang(text) {
-                const lower = text.toLowerCase();
-                if (lower.includes('[dual]')) return 'Dual';
-                if (lower.includes('[esp]')) return 'Esp';
-                if (lower.includes('[eng]')) return 'Eng';
-                if (lower.includes('[lat]')) return 'Lat';
-                if (lower.includes('[ger]')) return 'Ger';
-                if (lower.includes('[fr]')) return 'Fr';
-                if (lower.includes('[tur]')) return 'Tur';
-                if (lower.includes('[cast]')) return 'Cast';
-                return '';
-            }
+        function parseM3U(data) {
+            const lines = data.split('\n');
+            const movies = [];
+            let currentTitle = '';
 
-            // --- Cargar y mostrar playlist ---
-            function loadPlaylist() {
-                statusMsg.textContent = '⏳ Descargando lista M3U...';
-                fetch(M3U_URL)
-                    .then(res => {
-                        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-                        return res.text();
-                    })
-                    .then(data => {
-                        mediaItems = parseM3U(data);
-                        if (mediaItems.length === 0) {
-                            statusMsg.textContent = '⚠️ No se encontraron enlaces en el M3U.';
-                            playlistList.innerHTML = '';
-                            return;
-                        }
-                        statusMsg.textContent = `✅ ${mediaItems.length} películas cargadas.`;
-                        renderPlaylist(mediaItems);
-                        if (mediaItems.length > 0) {
-                            playItem(0);
-                        }
-                    })
-                    .catch(err => {
-                        console.error('Error al cargar M3U:', err);
-                        statusMsg.textContent = '❌ Error al cargar la lista. Revisa consola.';
-                        playlistList.innerHTML = '';
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (line.startsWith('#EXTINF:')) {
+                    const commaIndex = line.lastIndexOf(',');
+                    currentTitle = commaIndex !== -1 ? line.substring(commaIndex + 1).trim() : 'Video';
+                } else if (line && !line.startsWith('#')) {
+                    movies.push({
+                        title: currentTitle || 'Video alternativo',
+                        url: formatUrl(line)
                     });
+                    currentTitle = '';
+                }
+            }
+            return movies;
+        }
+
+        // Corrige URLs de Dropbox y Archive para evitar bloqueos
+        function formatUrl(url) {
+            let cleanUrl = url.trim();
+            
+            // Forzar descarga directa en Dropbox
+            if (cleanUrl.includes('dropbox.com')) {
+                cleanUrl = cleanUrl.replace('?dl=0', '').replace('?dl=1', '');
+                cleanUrl = cleanUrl + '?raw=1';
+            }
+            
+            // Para Archive.org, si la URL va a la página de detalles, intentamos asegurar que apunte al stream directo
+            if (cleanUrl.includes('archive.org/details/')) {
+                cleanUrl = cleanUrl.replace('archive.org/details/', 'archive.org/download/');
+            }
+            
+            return cleanUrl;
+        }
+
+        function renderPlaylist(movies) {
+            playlistElement.innerHTML = '';
+            if (movies.length === 0) {
+                playlistElement.innerHTML = '<li class="playlist-item">No se encontraron videos.</li>';
+                return;
             }
 
-            function renderPlaylist(items) {
-                const ul = playlistList;
-                ul.innerHTML = '';
-                items.forEach((item, index) => {
-                    const li = document.createElement('li');
-                    li.dataset.index = index;
-                    const titleSpan = document.createElement('span');
-                    titleSpan.className = 'title';
-                    titleSpan.textContent = item.title || 'Sin título';
-                    const badge = document.createElement('span');
-                    badge.className = 'badge';
-                    const ext = item.ext || '🎬';
-                    badge.textContent = item.lang || ext.toUpperCase();
-                    li.appendChild(titleSpan);
-                    li.appendChild(badge);
-                    li.addEventListener('click', () => playItem(index));
-                    ul.appendChild(li);
+            movies.forEach((movie) => {
+                const li = document.createElement('li');
+                li.className = 'playlist-item';
+                li.textContent = movie.title;
+                li.setAttribute('tabindex', '0');
+
+                li.addEventListener('click', () => playVideo(movie.url, li));
+                li.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter') playVideo(movie.url, li);
                 });
-                if (items.length > 0) highlightActive(0);
-            }
 
-            function highlightActive(index) {
-                const items = playlistList.querySelectorAll('li');
-                items.forEach((li, i) => {
-                    li.classList.toggle('active', i === index);
-                });
-            }
-
-            // --- Reproducir con detección de pistas ---
-            function playItem(index) {
-                if (index < 0 || index >= mediaItems.length) return;
-                const item = mediaItems[index];
-                if (!item || !item.url) return;
-
-                currentIndex = index;
-                highlightActive(index);
-                statusMsg.textContent = `▶️ Cargando: ${item.title}`;
-
-                // Resetear selects
-                audioSelect.innerHTML = '<option value="default">🎧 Audio predeterminado</option>';
-                subtitleSelect.innerHTML = '<option value="default">📝 Subtítulos predeterminados</option>';
-
-                // Cargar video
-                video.src = item.url;
-                video.load();
-
-                // Intentar reproducir
-                const playPromise = video.play();
-                if (playPromise !== undefined) {
-                    playPromise.catch(err => {
-                        console.log('Autoplay bloqueado:', err);
-                        statusMsg.textContent = `⏸️ Pausa: ${item.title} (pulsa play)`;
-                    });
-                }
-
-                // Detectar pistas cuando estén disponibles
-                video.onloadedmetadata = function() {
-                    statusMsg.textContent = `▶️ Reproduciendo: ${item.title}`;
-                    populateTracks();
-                };
-
-                // Fallback: si no hay metadata después de 4s, intentar de nuevo
-                setTimeout(() => {
-                    if (video.readyState < 1) {
-                        // Algunos navegadores no disparan onloadedmetadata para ciertos formatos
-                        // Intentamos leer tracks de todas formas
-                        populateTracks();
-                    }
-                }, 4000);
-
-                // Si el video falla al cargar
-                video.onerror = function(e) {
-                    console.error('Error de video:', e);
-                    statusMsg.textContent = `❌ Error al reproducir: ${item.title}`;
-                };
-            }
-
-            // --- Poblar pistas de audio y subtítulos (mejorado) ---
-            function populateTracks() {
-                // Limpiar selects
-                audioSelect.innerHTML = '<option value="default">🎧 Audio predeterminado</option>';
-                subtitleSelect.innerHTML = '<option value="default">📝 Subtítulos predeterminados</option>';
-
-                // --- Pistas de audio (solo si existen) ---
-                try {
-                    const audioTracks = video.audioTracks;
-                    if (audioTracks && audioTracks.length > 0) {
-                        for (let i = 0; i < audioTracks.length; i++) {
-                            const track = audioTracks[i];
-                            const label = track.label || `Audio ${i+1}`;
-                            const lang = track.language ? `(${track.language})` : '';
-                            const opt = document.createElement('option');
-                            opt.value = i;
-                            opt.textContent = `${label} ${lang}`.trim();
-                            if (track.enabled) opt.selected = true;
-                            audioSelect.appendChild(opt);
-                        }
-                    } else {
-                        // Si no hay pistas, mostramos opción única
-                        audioSelect.innerHTML = '<option value="default">🎧 Pista única (predet.)</option>';
-                    }
-                } catch (e) {
-                    // Algunos navegadores no soportan audioTracks en archivos simples
-                    audioSelect.innerHTML = '<option value="default">🎧 Pista única</option>';
-                }
-
-                // --- Pistas de subtítulos (textTracks) ---
-                try {
-                    const textTracks = video.textTracks;
-                    let hasSubtitles = false;
-                    if (textTracks && textTracks.length > 0) {
-                        for (let i = 0; i < textTracks.length; i++) {
-                            const track = textTracks[i];
-                            // Solo subtítulos o captions
-                            if (track.kind === 'subtitles' || track.kind === 'captions') {
-                                hasSubtitles = true;
-                                const label = track.label || `Subtítulo ${i+1}`;
-                                const lang = track.language ? `(${track.language})` : '';
-                                const opt = document.createElement('option');
-                                opt.value = i;
-                                opt.textContent = `${label} ${lang}`.trim();
-                                if (track.mode === 'showing') opt.selected = true;
-                                subtitleSelect.appendChild(opt);
-                            }
-                        }
-                    }
-                    if (!hasSubtitles) {
-                        subtitleSelect.innerHTML = '<option value="default">📝 Sin subtítulos</option>';
-                    }
-                } catch (e) {
-                    subtitleSelect.innerHTML = '<option value="default">📝 Sin subtítulos</option>';
-                }
-
-                // Asegurar que los subtítulos tengan estilo amarillo (ya está en CSS)
-            }
-
-            // --- Eventos para cambiar pistas ---
-            audioSelect.addEventListener('change', function() {
-                const val = this.value;
-                if (val === 'default') return;
-                const index = parseInt(val);
-                if (isNaN(index)) return;
-                try {
-                    const audioTracks = video.audioTracks;
-                    if (audioTracks && audioTracks.length > index) {
-                        for (let i = 0; i < audioTracks.length; i++) {
-                            audioTracks[i].enabled = (i === index);
-                        }
-                        console.log('Audio cambiado a pista:', index);
-                    }
-                } catch (e) {
-                    console.warn('No se pudo cambiar audio:', e);
-                }
+                playlistElement.appendChild(li);
             });
+        }
 
-            subtitleSelect.addEventListener('change', function() {
-                const val = this.value;
-                if (val === 'default') return;
-                const index = parseInt(val);
-                if (isNaN(index)) return;
-                try {
-                    const textTracks = video.textTracks;
-                    if (textTracks && textTracks.length > index) {
-                        for (let i = 0; i < textTracks.length; i++) {
-                            const track = textTracks[i];
-                            if (track.kind === 'subtitles' || track.kind === 'captions') {
-                                track.mode = (i === index) ? 'showing' : 'hidden';
-                            }
-                        }
-                        console.log('Subtítulos cambiados a pista:', index);
-                    }
-                } catch (e) {
-                    console.warn('No se pudo cambiar subtítulo:', e);
-                }
-            });
+        function playVideo(url, element) {
+            document.querySelectorAll('.playlist-item').forEach(item => item.classList.remove('active'));
+            element.classList.add('active');
 
-            // --- Botón recargar ---
-            loadBtn.addEventListener('click', loadPlaylist);
+            // Limpiar tracks previos (subtítulos antiguos)
+            while (videoPlayer.firstChild) {
+                videoPlayer.removeChild(videoPlayer.firstChild);
+            }
 
-            // --- Inicializar ---
-            loadPlaylist();
+            // Asignar la nueva URL
+            videoPlayer.src = url;
+            videoPlayer.load();
+            
+            // Intentar reproducir
+            videoPlayer.play().catch(error => console.log("Error de autoreproducción:", error));
 
-            // --- Soporte para TV: tecla R para recargar ---
-            window.addEventListener('keydown', (e) => {
-                if (e.key === 'r' || e.key === 'R') {
-                    loadPlaylist();
-                }
-            });
-
-            console.log('Reproductor M3U Universal cargado. Subtítulos en amarillo.');
-        })();
+            // Habilitar pistas de audio nativas si la TV las soporta en el contenedor
+            if (videoPlayer.audioTracks) {
+                // Esto permite a los OS de las TVs (Tizen/webOS) mapear los flujos de audio al botón del control remoto
+                console.log("Pistas de audio detectadas de forma nativa:", videoPlayer.audioTracks.length);
+            }
+        }
     </script>
 </body>
 </html>
