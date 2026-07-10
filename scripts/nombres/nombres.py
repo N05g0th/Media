@@ -1,150 +1,205 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+renombrar_m3u_tmdb.py
+
+Lee una lista M3U, busca cada título en TMDB (idioma es-MX) y reescribe
+el título de cada #EXTINF con el formato:
+
+    Nombre (año)
+
+Uso:
+    python renombrar_m3u_tmdb.py
+    python renombrar_m3u_tmdb.py --entrada origen.m3u --salida salida.m3u
+    python renombrar_m3u_tmdb.py --api-key TU_API_KEY
+
+Requiere:
+    pip install requests
+"""
+
+import argparse
 import re
+import sys
 import time
-import requests
+import unicodedata
+from pathlib import Path
 
-# =====================================================================
-# CONFIGURACIÓN
-# =====================================================================
-API_KEY = "6f6ac958e9e94c4c42371ebba58f4e00" 
-BASE_URL = "https://themoviedb.org"
+try:
+    import requests
+except ImportError:
+    sys.exit("Falta la librería 'requests'. Instálala con: pip install requests")
 
-def limpiar_nombre_canal(texto):
-    """
-    Limpia a fondo el nombre eliminando corchetes, paréntesis y años
-    para dejar solo el título puro que TMDB sí puede indexar.
-    """
-    texto_limpio = re.sub(r'\[.*?\]', '', texto)  # Elimina [ENG], [HD], etc.
-    texto_limpio = re.sub(r'\(.*?\)', '', texto)  # Elimina (2025), (1080p), etc.
-    texto_limpio = re.sub(r'\.(mp4|mkv|avi|mov)$', '', texto_limpio, flags=re.IGNORECASE)
-    texto_limpio = re.sub(r'[-_|:]', ' ', texto_limpio)
-    return texto_limpio.strip()
+TMDB_API_KEY_DEFAULT = "6f6ac958e9e94c4c42371ebba58f4e00"
+TMDB_SEARCH_URL = "https://api.themoviedb.org/3/search/movie"
 
-def hacer_peticion(url, parametros):
-    """Maneja las peticiones de forma segura emulando un navegador."""
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "Accept": "application/json"
-    }
-    parametros['api_key'] = API_KEY
+TAG_RE = re.compile(r"\[([^\]]+)\]")
+YEAR_RE = re.compile(r"\((\d{4})\)")
+EXTINF_RE = re.compile(r"^#EXTINF:(-?\d+)\s*,(.*)$")
 
-    try:
-        response = requests.get(url, params=parametros, headers=headers, timeout=10)
-        if response.status_code == 200:
-            return response.json()
-        return None
-    except Exception:
-        return None
 
-def buscar_datos_tmdb(nombre_video):
-    nombre_busqueda = limpiar_nombre_canal(nombre_video)
-    if not nombre_busqueda:
-        return None
+def quitar_acentos(texto):
+    nfkd = unicodedata.normalize("NFKD", texto)
+    return "".join(c for c in nfkd if not unicodedata.combining(c))
 
-    # Parámetros óptimos para Español de México
-    parametros = {
-        'query': nombre_busqueda,
-        'language': 'es-MX',
-        'region': 'MX'
-    }
 
-    # 1. Buscar en Películas
-    data_movie = hacer_peticion(f"{BASE_URL}/search/movie", parametros)
-    if data_movie and data_movie.get('results'):
-        # CORRECCIÓN: Extraemos el primer elemento [0] de la lista de resultados
-        primer_resultado = data_movie['results'][0]
-        titulo = primer_resultado.get('title')
-        fecha = primer_resultado.get('release_date', '')
-        anio = fecha[:4] if fecha else ""
-        return {'titulo': titulo, 'anio': anio}
+def limpiar_titulo(titulo_crudo):
+    """Quita etiquetas [Dual]/[Eng]/etc. y el año entre paréntesis para
+    obtener una consulta de búsqueda limpia, y devuelve también el año
+    (si estaba) como pista para TMDB."""
+    titulo = TAG_RE.sub("", titulo_crudo)
+    anio_pista = None
+    m = YEAR_RE.search(titulo)
+    if m:
+        anio_pista = m.group(1)
+        titulo = titulo.replace(m.group(0), "")
+    titulo = re.sub(r"\(\s*\)", "", titulo)
+    titulo = re.sub(r"\s{2,}", " ", titulo).strip(" -:")
+    return titulo, anio_pista
 
-    # 2. Buscar en Series de TV
-    data_tv = hacer_peticion(f"{BASE_URL}/search/tv", parametros)
-    if data_tv and data_tv.get('results'):
-        # CORRECCIÓN: Extraemos el primer elemento [0] de la lista de resultados
-        primer_resultado = data_tv['results'][0]
-        titulo = primer_resultado.get('name')
-        fecha = primer_resultado.get('first_air_date', '')
-        anio = fecha[:4] if fecha else ""
-        return {'titulo': titulo, 'anio': anio}
 
-    return None
+def parsear_m3u(ruta):
+    """Devuelve una lista de dicts: {extinf_dur, titulo_crudo, url, extra_lineas}"""
+    lineas = ruta.read_text(encoding="utf-8-sig", errors="replace").splitlines()
+    entradas = []
+    cabecera = []
+    i = 0
+    # conserva la cabecera (#EXTM3U y comentarios previos al primer EXTINF)
+    while i < len(lineas) and not lineas[i].strip().startswith("#EXTINF"):
+        if lineas[i].strip():
+            cabecera.append(lineas[i])
+        i += 1
 
-def procesar_m3u(archivo_origen, archivo_resultado, archivo_encontrados):
-    try:
-        with open(archivo_origen, 'r', encoding='utf-8') as origen:
-            lineas = origen.readlines()
-        
-        lineas_resultado = []
-        lineas_encontrados = []
-        
-        # CORRECCIÓN: Analizar la primera línea [0] de la lista como string
-        inicio = 1 if lineas and lineas[0].startswith('#EXTM3U') else 0
-        if inicio == 1:
-            lineas_resultado.append(lineas[0])
-            lineas_encontrados.append(lineas[0])
+    while i < len(lineas):
+        linea = lineas[i].strip()
+        if linea.startswith("#EXTINF"):
+            match = EXTINF_RE.match(linea)
+            duracion = match.group(1) if match else "-1"
+            titulo_crudo = match.group(2).strip() if match else ""
+            j = i + 1
+            while j < len(lineas) and lineas[j].strip() == "":
+                j += 1
+            url = lineas[j].strip() if j < len(lineas) else ""
+            entradas.append({
+                "duracion": duracion,
+                "titulo_crudo": titulo_crudo,
+                "url": url,
+            })
+            i = j + 1
+        else:
+            i += 1
+    return cabecera, entradas
 
-        print("Iniciando búsqueda de títulos en TMDB (Español de México)...\n")
-        
-        for i in range(inicio, len(lineas)):
-            linea = lineas[i]
-            
-            if linea.startswith('#EXTINF:'):
-                partes = linea.split(',', 1)
-                if len(partes) == 2:
-                    metadatos, nombre_original = partes[0], partes[1].strip()
-                    
-                    print(f"Procesando: {nombre_original:<50}", end="", flush=True)
-                    
-                    info = buscar_datos_tmdb(nombre_original)
-                    
-                    tiene_url = (i + 1 < len(lineas))
-                    linea_url = lineas[i + 1] if tiene_url else ""
-                    
-                    if info:
-                        nuevo_nombre = info['titulo']
-                        if info['anio']:
-                            nuevo_nombre = f"{nuevo_nombre} ({info['anio']})"
-                        
-                        nueva_linea_inf = f"{metadatos},{nuevo_nombre}\n"
-                        print(f" -> ¡Traducido!: {nuevo_nombre}")
-                        
-                        lineas_resultado.append(nueva_linea_inf)
-                        if tiene_url:
-                            lineas_resultado.append(linea_url)
-                            
-                        lineas_encontrados.append(nueva_linea_inf)
-                        if tiene_url:
-                            lineas_encontrados.append(linea_url)
-                    else:
-                        print(" -> No encontrado")
-                        lineas_resultado.append(linea)
-                        if tiene_url:
-                            lineas_resultado.append(linea_url)
-                else:
-                    lineas_resultado.append(linea)
-                
-                time.sleep(0.25)
-            
-            elif i > 0 and lineas[i-1].startswith('#EXTINF:'):
+
+def buscar_en_tmdb(sesion, api_key, titulo, anio_pista, reintentos=3):
+    """Busca en TMDB (es-MX). Devuelve (titulo_es, anio) o (None, None)."""
+
+    def consulta(con_anio):
+        params = {
+            "api_key": api_key,
+            "language": "es-MX",
+            "include_adult": "false",
+            "query": titulo,
+        }
+        if con_anio and anio_pista:
+            params["year"] = anio_pista
+        for intento in range(reintentos):
+            try:
+                r = sesion.get(TMDB_SEARCH_URL, params=params, timeout=15)
+            except requests.RequestException:
+                time.sleep(1.5 * (intento + 1))
                 continue
-            else:
-                if i != 0: 
-                    lineas_resultado.append(linea)
+            if r.status_code == 429:
+                espera = float(r.headers.get("Retry-After", "1"))
+                time.sleep(espera + 0.5)
+                continue
+            if not r.ok:
+                time.sleep(1 * (intento + 1))
+                continue
+            return r.json().get("results", [])
+        return []
 
-        with open(archivo_resultado, 'w', encoding='utf-8') as dest_res:
-            dest_res.writelines(lineas_resultado)
-            
-        with open(archivo_encontrados, 'w', encoding='utf-8') as dest_enc:
-            dest_enc.writelines(lineas_encontrados)
-            
-        print(f"\n¡Proceso terminado con éxito!")
-        print(f"-> Lista General con cambios: '{archivo_resultado}'")
-        print(f"-> Lista de Solo Encontrados: '{archivo_encontrados}'")
+    resultados = consulta(con_anio=True)
+    if not resultados and anio_pista:
+        resultados = consulta(con_anio=False)
+    if not resultados:
+        return None, None
 
-    except FileNotFoundError:
-        print(f"Error: No se encontró el archivo '{archivo_origen}' en esta carpeta.")
-    except Exception as e:
-        print(f"Error general en el proceso: {e}")
+    top = resultados[0]
+    titulo_es = (top.get("title") or top.get("original_title") or "").strip()
+    fecha = top.get("release_date") or ""
+    anio = fecha[:4] if len(fecha) >= 4 else anio_pista
+    if not titulo_es:
+        return None, None
+    return titulo_es, anio
+
+
+def formatear_titulo(titulo_es, anio):
+    if anio:
+        return f"{titulo_es} ({anio})"
+    return titulo_es
+
+
+def main():
+    ap = argparse.ArgumentParser(description="Renombra títulos de una lista M3U usando TMDB (es-MX).")
+    ap.add_argument("--entrada", default="origen.m3u", help="Ruta del M3U de entrada (default: origen.m3u)")
+    ap.add_argument("--salida", default="salida.m3u", help="Ruta del M3U de salida (default: salida.m3u)")
+    ap.add_argument("--api-key", default=TMDB_API_KEY_DEFAULT, help="API key de TMDB (v3 auth)")
+    ap.add_argument("--pausa", type=float, default=0.05, help="Pausa en segundos entre peticiones (default: 0.05)")
+    ap.add_argument("--log-no-encontrados", default="no_encontrados.txt",
+                     help="Archivo donde se listan los títulos que no se pudieron emparejar")
+    args = ap.parse_args()
+
+    ruta_entrada = Path(args.entrada)
+    if not ruta_entrada.exists():
+        sys.exit(f"No se encontró el archivo de entrada: {ruta_entrada}")
+
+    cabecera, entradas = parsear_m3u(ruta_entrada)
+    if not entradas:
+        sys.exit("No se encontraron entradas #EXTINF en el archivo.")
+
+    print(f"Leídas {len(entradas)} entradas de {ruta_entrada.name}")
+
+    sesion = requests.Session()
+    cache = {}
+    no_encontrados = []
+    salida_lineas = list(cabecera) if cabecera else ["#EXTM3U"]
+
+    total = len(entradas)
+    for idx, entrada in enumerate(entradas, start=1):
+        titulo_crudo = entrada["titulo_crudo"]
+        url = entrada["url"]
+        titulo_busqueda, anio_pista = limpiar_titulo(titulo_crudo)
+
+        clave = (quitar_acentos(titulo_busqueda.lower()), anio_pista)
+        if clave in cache:
+            titulo_es, anio = cache[clave]
+        else:
+            titulo_es, anio = buscar_en_tmdb(sesion, args.api_key, titulo_busqueda, anio_pista)
+            cache[clave] = (titulo_es, anio)
+            time.sleep(args.pausa)
+
+        if titulo_es:
+            nuevo_titulo = formatear_titulo(titulo_es, anio)
+        else:
+            nuevo_titulo = formatear_titulo(titulo_busqueda, anio_pista) if titulo_busqueda else titulo_crudo
+            no_encontrados.append(titulo_crudo)
+
+        salida_lineas.append(f"#EXTINF:{entrada['duracion']},{nuevo_titulo}")
+        salida_lineas.append(url)
+
+        estado = "OK " if titulo_es else "SIN COINCIDENCIA"
+        print(f"[{idx}/{total}] {estado} — {titulo_crudo!r} -> {nuevo_titulo!r}")
+
+    ruta_salida = Path(args.salida)
+    ruta_salida.write_text("\n".join(salida_lineas) + "\n", encoding="utf-8")
+    print(f"\nListo. Archivo generado: {ruta_salida.resolve()}")
+
+    if no_encontrados:
+        ruta_log = Path(args.log_no_encontrados)
+        ruta_log.write_text("\n".join(no_encontrados) + "\n", encoding="utf-8")
+        print(f"{len(no_encontrados)} títulos sin coincidencia en TMDB (se conservó su nombre original).")
+        print(f"Listado guardado en: {ruta_log.resolve()}")
+
 
 if __name__ == "__main__":
-    procesar_m3u('origen.m3u', 'resultado.m3u', 'encontrados.m3u')
+    main()
