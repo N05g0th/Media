@@ -6,7 +6,10 @@ renombrar_m3u_tmdb.py
 Lee una lista M3U, busca cada título en TMDB (idioma es-MX) y reescribe
 el título de cada #EXTINF con el formato:
 
-    Nombre (año)
+    Nombre (año) [Etiqueta1] [Etiqueta2]
+
+Las etiquetas originales entre corchetes (p. ej. [Dual], [Eng]) se
+conservan y se colocan al final del título nuevo.
 
 Uso:
     python renombrar_m3u_tmdb.py
@@ -44,8 +47,10 @@ def quitar_acentos(texto):
 
 def limpiar_titulo(titulo_crudo):
     """Quita etiquetas [Dual]/[Eng]/etc. y el año entre paréntesis para
-    obtener una consulta de búsqueda limpia, y devuelve también el año
-    (si estaba) como pista para TMDB."""
+    obtener una consulta de búsqueda limpia. Devuelve también el año
+    (si estaba) y la lista de etiquetas originales, en el orden en que
+    aparecían, para poder regresarlas al título final."""
+    etiquetas = TAG_RE.findall(titulo_crudo)
     titulo = TAG_RE.sub("", titulo_crudo)
     anio_pista = None
     m = YEAR_RE.search(titulo)
@@ -54,7 +59,7 @@ def limpiar_titulo(titulo_crudo):
         titulo = titulo.replace(m.group(0), "")
     titulo = re.sub(r"\(\s*\)", "", titulo)
     titulo = re.sub(r"\s{2,}", " ", titulo).strip(" -:")
-    return titulo, anio_pista
+    return titulo, anio_pista, etiquetas
 
 
 def parsear_m3u(ruta):
@@ -133,10 +138,12 @@ def buscar_en_tmdb(sesion, api_key, titulo, anio_pista, reintentos=3):
     return titulo_es, anio
 
 
-def formatear_titulo(titulo_es, anio):
-    if anio:
-        return f"{titulo_es} ({anio})"
-    return titulo_es
+def formatear_titulo(titulo_es, anio, etiquetas=None):
+    base = f"{titulo_es} ({anio})" if anio else titulo_es
+    if etiquetas:
+        sufijo = " ".join(f"[{e}]" for e in etiquetas)
+        return f"{base} {sufijo}"
+    return base
 
 
 def main():
@@ -168,7 +175,7 @@ def main():
     for idx, entrada in enumerate(entradas, start=1):
         titulo_crudo = entrada["titulo_crudo"]
         url = entrada["url"]
-        titulo_busqueda, anio_pista = limpiar_titulo(titulo_crudo)
+        titulo_busqueda, anio_pista, etiquetas = limpiar_titulo(titulo_crudo)
 
         clave = (quitar_acentos(titulo_busqueda.lower()), anio_pista)
         if clave in cache:
@@ -179,9 +186,9 @@ def main():
             time.sleep(args.pausa)
 
         if titulo_es:
-            nuevo_titulo = formatear_titulo(titulo_es, anio)
+            nuevo_titulo = formatear_titulo(titulo_es, anio, etiquetas)
         else:
-            nuevo_titulo = formatear_titulo(titulo_busqueda, anio_pista) if titulo_busqueda else titulo_crudo
+            nuevo_titulo = formatear_titulo(titulo_busqueda, anio_pista, etiquetas) if titulo_busqueda else titulo_crudo
             no_encontrados.append(titulo_crudo)
 
         salida_lineas.append(f"#EXTINF:{entrada['duracion']},{nuevo_titulo}")
