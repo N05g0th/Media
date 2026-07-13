@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor Smart TV (Archive & Dropbox)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #111;
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            color: #E50914;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            max-width: 1200px;
+            gap: 20px;
+        }
+
+        .player-box {
+            flex: 2;
+            background: #000;
+            border-radius: 8px;
+            overflow: hidden;
+            aspect-ratio: 16/9;
+        }
+
+        video {
+            width: 100%;
+            height: 100%;
+            background: #000;
+        }
+
+        .playlist-box {
+            flex: 1;
+            background: #222;
+            border-radius: 8px;
+            padding: 15px;
+            max-height: 500px;
+            overflow-y: auto;
+        }
+
+        .playlist-box h2 {
+            font-size: 1.2rem;
+            margin-top: 0;
+            border-bottom: 1px solid #444;
+            padding-bottom: 10px;
+        }
+
+        .playlist-ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .playlist-item {
+            padding: 12px;
+            border-bottom: 1px solid #333;
+            cursor: pointer;
+            transition: background 0.2s;
+            font-size: 0.95rem;
+        }
+
+        .playlist-item:hover, .playlist-item.active {
+            background-color: #E50914;
+            color: white;
+            font-weight: bold;
+        }
+
+        .playlist-item:focus {
+            background-color: #ff333a;
+            outline: none;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Mi Catálogo de Películas</h1>
+
+    <div class="container">
+        <!-- Reproductor Nativo de HTML5 -->
+        <div class="player-box">
+            <video 
+                id="main-player" 
+                controls 
+                autoplay
+                preload="auto"
+                playsinline>
+                Tu navegador no soporta reproducción de video.
+            </video>
+        </div>
+
+        <!-- Lista de Películas -->
+        <div class="playlist-box">
+            <h2>Lista de Películas</h2>
+            <ul id="playlist" class="playlist-ul">
+                <li class="playlist-item">Cargando lista...</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        const m3uUrl = 'https://raw.githubusercontent.com/N05g0th/Media/refs/heads/main/Peliculas.m3u';
+        const videoPlayer = document.getElementById('main-player');
+        const playlistElement = document.getElementById('playlist');
+
+        document.addEventListener('DOMContentLoaded', fetchM3U);
+
+        async function fetchM3U() {
+            try {
+                const response = await fetch(m3uUrl);
+                if (!response.ok) throw new Error('Error al cargar M3U');
+                const data = await response.text();
+                const movies = parseM3U(data);
+                renderPlaylist(movies);
+            } catch (error) {
+                console.error(error);
+                playlistElement.innerHTML = '<li class="playlist-item">Error al cargar la lista M3U.</li>';
+            }
+        }
+
+        function parseM3U(data) {
+            const lines = data.split('\n');
+            const movies = [];
+            let currentTitle = '';
+
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (line.startsWith('#EXTINF:')) {
+                    const commaIndex = line.lastIndexOf(',');
+                    currentTitle = commaIndex !== -1 ? line.substring(commaIndex + 1).trim() : 'Video';
+                } else if (line && !line.startsWith('#')) {
+                    movies.push({
+                        title: currentTitle || 'Video alternativo',
+                        url: formatUrl(line)
+                    });
+                    currentTitle = '';
+                }
+            }
+            return movies;
+        }
+
+        // Corrige URLs de Dropbox y Archive para evitar bloqueos
+        function formatUrl(url) {
+            let cleanUrl = url.trim();
+            
+            // Forzar descarga directa en Dropbox
+            if (cleanUrl.includes('dropbox.com')) {
+                cleanUrl = cleanUrl.replace('?dl=0', '').replace('?dl=1', '');
+                cleanUrl = cleanUrl + '?raw=1';
+            }
+            
+            // Para Archive.org, si la URL va a la página de detalles, intentamos asegurar que apunte al stream directo
+            if (cleanUrl.includes('archive.org/details/')) {
+                cleanUrl = cleanUrl.replace('archive.org/details/', 'archive.org/download/');
+            }
+            
+            return cleanUrl;
+        }
+
+        function renderPlaylist(movies) {
+            playlistElement.innerHTML = '';
+            if (movies.length === 0) {
+                playlistElement.innerHTML = '<li class="playlist-item">No se encontraron videos.</li>';
+                return;
+            }
+
+            movies.forEach((movie) => {
+                const li = document.createElement('li');
+                li.className = 'playlist-item';
+                li.textContent = movie.title;
+                li.setAttribute('tabindex', '0');
+
+                li.addEventListener('click', () => playVideo(movie.url, li));
+                li.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter') playVideo(movie.url, li);
+                });
+
+                playlistElement.appendChild(li);
+            });
+        }
+
+        function playVideo(url, element) {
+            document.querySelectorAll('.playlist-item').forEach(item => item.classList.remove('active'));
+            element.classList.add('active');
+
+            // Limpiar tracks previos (subtítulos antiguos)
+            while (videoPlayer.firstChild) {
+                videoPlayer.removeChild(videoPlayer.firstChild);
+            }
+
+            // Asignar la nueva URL
+            videoPlayer.src = url;
+            videoPlayer.load();
+            
+            // Intentar reproducir
+            videoPlayer.play().catch(error => console.log("Error de autoreproducción:", error));
+
+            // Habilitar pistas de audio nativas si la TV las soporta en el contenedor
+            if (videoPlayer.audioTracks) {
+                // Esto permite a los OS de las TVs (Tizen/webOS) mapear los flujos de audio al botón del control remoto
+                console.log("Pistas de audio detectadas de forma nativa:", videoPlayer.audioTracks.length);
+            }
+        }
+    </script>
+</body>
+</html>
