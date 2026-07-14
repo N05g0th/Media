@@ -3,7 +3,7 @@
 Script para agregar el backdrop de cada película (tvg-logo) usando TMDB.
 
 Lee 'entrada.m3u', busca cada título en The Movie Database (TMDB),
-obtiene la URL de su backdrop (tamaño w200) y genera 'salida.m3u' con
+obtiene la URL de su backdrop (tamaño w200) y genera 'salida_backdrop.m3u' con
 el tag tvg-logo="<URL del backdrop>" en cada entrada.
 
 Requisitos:
@@ -23,7 +23,7 @@ import requests
 # ----------------------------------------------------------------------
 API_KEY = "6f6ac958e9e94c4c42371ebba58f4e00"
 INPUT_FILE = "entrada.m3u"
-OUTPUT_FILE = "salida.m3u"
+OUTPUT_FILE = "salida_backdrop.m3u"
 IDIOMA = "es-MX"          # idioma para los resultados de búsqueda
 PAUSA_ENTRE_PETICIONES = 0.25  # segundos, para no saturar la API
 
