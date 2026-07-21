@@ -1,5 +1,0 @@
-callbackM3U(`#EXTM3U
-#EXTINF:-1,Película de Prueba 1 (Español/Inglés)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-#EXTINF:-1,Película de Prueba 2 (HLS Multi-idioma)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8`)
