@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """
-Script para organizar una lista M3U por género usando la API de TMDB.
+Script para organizar una lista M3U por género y agregar el póster de
+cada película, usando la API de TMDB.
 
 Lee 'entrada.m3u', busca cada título en The Movie Database (TMDB),
-obtiene su género principal y genera 'salida.m3u' con el tag
-group-title="<Género>" en cada entrada.
+obtiene su género principal y la URL de su póster, y genera 'salida.m3u'
+con los tags group-title="<Género>" y tvg-logo="<URL del póster>" en
+cada entrada.
 
 Requisitos:
     pip install requests
@@ -29,6 +31,10 @@ PAUSA_ENTRE_PETICIONES = 0.25  # segundos, para no saturar la API
 
 TMDB_SEARCH_URL = "https://api.themoviedb.org/3/search/movie"
 TMDB_GENRE_URL = "https://api.themoviedb.org/3/genre/movie/list"
+TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"  # tamaño del póster
+
+# Géneros que NO se deben usar como group-title, aunque la película los tenga
+GENEROS_EXCLUIDOS = {"Bélica", "Familia", "Misterio", "Música", "Historia", "Crimen"}
 
 
 # ----------------------------------------------------------------------
@@ -73,8 +79,8 @@ def limpiar_titulo(titulo_original):
     return titulo.strip()
 
 
-def buscar_genero(titulo, mapa_generos):
-    """Busca la película en TMDB y devuelve el nombre de su género principal."""
+def buscar_pelicula(titulo, mapa_generos):
+    """Busca la película en TMDB y devuelve (genero_principal, poster_url)."""
     try:
         resp = requests.get(
             TMDB_SEARCH_URL,
@@ -84,28 +90,51 @@ def buscar_genero(titulo, mapa_generos):
         resp.raise_for_status()
         resultados = resp.json().get("results", [])
         if not resultados:
-            return "Sin clasificar"
+            return "Sin clasificar", None
 
         pelicula = resultados[0]
-        ids_genero = pelicula.get("genre_ids", [])
-        if not ids_genero:
-            return "Sin género"
 
-        return mapa_generos.get(ids_genero[0], "Desconocido")
+        ids_genero = pelicula.get("genre_ids", [])
+        nombres_genero = [mapa_generos.get(gid, "Desconocido") for gid in ids_genero]
+        nombres_validos = [n for n in nombres_genero if n not in GENEROS_EXCLUIDOS]
+
+        if not nombres_genero:
+            genero = "Sin género"
+        elif nombres_validos:
+            genero = nombres_validos[0]
+        else:
+            # Todos los géneros de la película están en la lista de excluidos
+            genero = "Sin género"
+
+        poster_path = pelicula.get("poster_path")
+        poster_url = f"{TMDB_IMAGE_BASE_URL}{poster_path}" if poster_path else None
+
+        return genero, poster_url
     except requests.RequestException as e:
         print(f"  ! Error buscando '{titulo}': {e}")
-        return "Error de búsqueda"
+        return "Error de búsqueda", None
 
 
-def construir_extinf(info_original, genero):
-    """Inserta o reemplaza el atributo group-title en la línea EXTINF."""
-    if 'group-title="' in info_original:
-        return re.sub(r'group-title="[^"]*"', f'group-title="{genero}"', info_original)
+def _insertar_atributo(info_original, nombre_atributo, valor):
+    """Inserta o reemplaza un atributo (ej. group-title, tvg-logo) en la línea EXTINF."""
+    if not valor:
+        return info_original  # deja la línea sin cambios si no hay valor
+
+    patron = rf'{nombre_atributo}="[^"]*"'
+    if re.search(patron, info_original):
+        return re.sub(patron, f'{nombre_atributo}="{valor}"', info_original)
 
     partes = info_original.split(",", 1)
     if len(partes) == 2:
-        return f'{partes[0]} group-title="{genero}",{partes[1]}'
+        return f'{partes[0]} {nombre_atributo}="{valor}",{partes[1]}'
     return info_original  # fallback por si el formato es inesperado
+
+
+def construir_extinf(info_original, genero, poster_url):
+    """Inserta o reemplaza los atributos group-title y tvg-logo en la línea EXTINF."""
+    info = _insertar_atributo(info_original, "group-title", genero)
+    info = _insertar_atributo(info, "tvg-logo", poster_url)
+    return info
 
 
 # ----------------------------------------------------------------------
@@ -125,10 +154,11 @@ def main():
         titulo_limpio = limpiar_titulo(entrada["titulo"])
         print(f"[{idx}/{len(entradas)}] Buscando: {titulo_limpio}")
 
-        genero = buscar_genero(titulo_limpio, mapa_generos)
+        genero, poster_url = buscar_pelicula(titulo_limpio, mapa_generos)
         print(f"    -> Género: {genero}")
+        print(f"    -> Póster: {poster_url if poster_url else 'No encontrado'}")
 
-        nueva_info = construir_extinf(entrada["info"], genero)
+        nueva_info = construir_extinf(entrada["info"], genero, poster_url)
         lineas_salida.append(nueva_info)
         lineas_salida.append(entrada["url"])
 
