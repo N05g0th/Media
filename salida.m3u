@@ -1759,6 +1759,8 @@ http://archive.org/download/0_20200418/1.mp4
 http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z2jzFfXTXnZ7oytCiIEieSXDb1b.jpg" group-title="Fantasía",¿Conoces A Joe Black? (1998)
 https://archive.org/download/ck-2_20210106/3334/joebla.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/vaYsXgw4VpCF2l799sOLzwce6Bf.jpg" group-title="Fantasía",Hellboy: el Hombre Retorcido (2024) [480p] [DUAL]
+https://archive.org/download/11_20260419_20260419/Federratas/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cMYPxRHy2cQOL94ue7Vgwl1Nn61.jpg" group-title="Película de TV",Bruno y el lobo (2019) [720p] [DUAL]
 https://archive.org/download/tutoriales_202506/TutorialesLinux/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/SKqWIYx4gm7xl48JoW6draLnRa.jpg" group-title="Película de TV",El Libro del Amor (2022) [464p] [ESP]
@@ -1831,12 +1833,6 @@ https://archive.org/download/linux_20260713/project/06.mkv
 https://archive.org/download/02_20260613/YA/05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cwSNPmlySGDZTOyLRhPfRvQksyv.jpg" group-title="Romance",¡Hombre al Agua! (2018) [720p] [ESP]
 https://dl.dropboxusercontent.com/s/zvrwsfvhksywxpf/overboard.mp4
-#EXTINF:-1 group-title="Sin clasificar",Halloween 6 (1995) la Maldici N de Michael Myers
-https://archive.org/download/097_20200608
-#EXTINF:-1 group-title="Sin clasificar",Hellboy: el Hombre Torcido (2024) [480p] [DUAL]
-https://archive.org/download/11_20260419_20260419/Federratas/02.mkv
-#EXTINF:-1 group-title="Sin clasificar",La Noche de Hallowen (2018) [480p] [ESP]
-http://ia601504.us.archive.org/31/items/000_20200211/1.mp4
 #EXTINF:-1 group-title="Sin clasificar",Lego Star Wars: Terrorificas Historias (2021) [720p] [DUAL]
 https://archive.org/download/manguera_202110/L3G0.5t4r.W4r5.mkv
 #EXTINF:-1 group-title="Sin clasificar",Los Cuatro Jinentes del Apocalipsis (2008) [1080p] [DUAL]
@@ -1875,11 +1871,11 @@ https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X
 http://archive.org/download/5_20190713_201907/3.avi
 #EXTINF:-1 group-title="Sin clasificar",The Live Inside Us (2020) [350p] [UND]
 http://ia601509.us.archive.org/15/items/000_20201016/00008.mp4
-#EXTINF:-1 group-title="Sin clasificar",X-Men 01 (2000) [368p] [UND]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Sin clasificar",X-Men 01 (2000) [368p] [UND]
 https://dl.dropbox.com/s/e3f642mdpiqjfef/xm3n1.avi
-#EXTINF:-1 group-title="Sin clasificar",X-Men 01 (2000) [720p] [DUAL]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Sin clasificar",X-Men 01 (2000) [720p] [DUAL]
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/11.mp4
-#EXTINF:-1 group-title="Sin clasificar",X-Men 01 (2000) [720p] [DUAL]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Sin clasificar",X-Men 01 (2000) [720p] [DUAL]
 https://archive.org/download/06_20260426/manjaritos/07.mp4
 #EXTINF:-1 group-title="Sin clasificar",X-Men 02 (2003) [224p] [UND]
 https://dl.dropbox.com/s/ijh9357wouvkduq/xm3n2.avi
@@ -2995,6 +2991,10 @@ https://archive.org/download/00200_20200117_0628/00200.mkv
 http://ia601500.us.archive.org/8/items/000_20191210/03.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sN6WKKXWuxNHb94kX1HuX4T49hs.jpg" group-title="Terror",Halloween 2 Sanguinario 1981 [364p] [ESP]
 http://ia601403.us.archive.org/6/items/00000_202010/00003.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/gZTdirlRJUAJz36ex46VF1kUrpJ.jpg" group-title="Terror",Halloween 6 (1995) la Maldici N de Michael Myers
+https://archive.org/download/097_20200608
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg" group-title="Terror",Hallowen (2018) [480p] [ESP]
+http://ia601504.us.archive.org/31/items/000_20200211/1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vJrlt9oldbblmnIlVwPe620vMiB.jpg" group-title="Western",Cometieron Dos Errores (1968)
 https://docentecoahuila-my.sharepoint.com/:v:/g/personal/franciscoorlando_robles_docentecoahuila_gob_mx/extym54v8c1ii7pfth-843gbebe_8sres8hvjby9mc6znw?download=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l33smCkbpVFvNxGLILrx1PEyxyw.jpg" group-title="Western",Django Imbatible (2024) [720p] [DUAL]
