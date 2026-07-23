@@ -1,13 +1,27 @@
-#EXTM3U
-#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/AnNQDqCXcdJrWknQtbBIlvMDboE.jpg",23 000 Lives (2026) [1080p] [DUAL]
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AnNQDqCXcdJrWknQtbBIlvMDboE.jpg" group-title="Drama",23 000 vidas (2026) [1080p] [DUAL]
 https://archive.org/download/05_20260721/Linux/01.mkv
-#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/bwcduFKhogSvilsLaMKYEMhVwsf.jpg",Good Boy (2026) [720p] [DUAL]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bwcduFKhogSvilsLaMKYEMhVwsf.jpg" group-title="Suspense",Un Buen Chico (2026) [720p] [DUAL]
 https://archive.org/download/05_20260721/Linux/02.mkv
-#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",Disclosure Day (2026) [720p] [DUAL]
-https://archive.org/download/05_20260721/Linux/03.mkv
-#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/iBXslgDKPaMGY7rTgsuCao6GlSv.jpg",Scary Movie (2026) [720p] [DUAL]
-https://archive.org/download/05_20260721/Linux/04.mkv
-#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",Star Wars: The Mandalorian and Grogu | A Special Look (2026) [DUAL] [1080p]
-https://archive.org/download/05_20260721/Linux/05.mkv
-#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/gKOTkuhWcSFmTVw24loWJ8GZys2.jpg",Noise (2025) [720p] [DUAL]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4bZpoLUNMOvmjobMnG1XubLh68l.jpg" group-title="Suspense",Noise: Sonidos del más allá (2025) [720p] [DUAL]
 https://archive.org/download/05_20260721/Linux/06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a3y0aWIJdJEw7pme6Y9W0aReIN9.jpg" group-title="Suspense",Elize: Sombras de una Mujer (2026) [1080p] [DUAL]
+https://archive.org/download/04_20260723/Linux/05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yZUzkGplztDLC1UhxN8pOTrwcsw.jpg" group-title="Ciencia ficción",El día de la revelación (2026) [720p] [DUAL]
+https://archive.org/download/05_20260721/Linux/03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iBXslgDKPaMGY7rTgsuCao6GlSv.jpg" group-title="Comedia",Scary Movie: Terroríficamente incorrecta (2026) [720p] [DUAL]
+https://archive.org/download/05_20260721/Linux/04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4QthG4HsSQ30Uit2CpOz6YRikX1.jpg" group-title="Comedia",Mamma Mia! (2008) [720p] [DUAL]
+https://archive.org/download/04_20260723/Linux/02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ian2GqgxsKjhup9P9a6lqIYOmlQ.jpg" group-title="Comedia",Mamma Mia! Vamos otra vez  (2018) [720p] [DUAL]
+https://archive.org/download/04_20260723/Linux/03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg" group-title="Acción",Star Wars: The Mandalorian and Grogu | Una Mirada Especial (2026) [1080p] [DUAL]
+https://archive.org/download/05_20260721/Linux/05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2byCAyHGBt29zAZlFtdI45VLnCH.jpg" group-title="Acción",Amos del Universo (2026) [720p] [DUAL]
+https://archive.org/download/04_20260723/Linux/04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1Zr71SMoBV8NmVvpKA323B1In29.jpg" group-title="Acción",Reflection in a Dead Diamond (2025) [720p] [DUAL]
+https://archive.org/download/04_20260723/Linux/06.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/iauKJI5oeCAUeMfvmhCHuYd5vN4.jpg" group-title="Aventura",Pi: Fe en el caos (1998) [1080p] [DUAL]
+https://archive.org/download/04_20260723/Linux/01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hJns8cKWsj77tkjiXQoXIGJ1H1d.jpg" group-title="Terror",Alerta Extinción (2026) [720p] [DUAL]
+https://archive.org/download/04_20260723/Linux/07.mkv
