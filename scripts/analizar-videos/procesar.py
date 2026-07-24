@@ -343,31 +343,82 @@ def obtener_generos(idioma: str) -> dict:
 
 def limpiar_titulo_busqueda(titulo_original: str) -> str:
     """Quita año entre paréntesis, corchetes de calidad/audio, etc, para mejorar la búsqueda."""
+    titulo, _anio = extraer_titulo_y_anio(titulo_original)
+    return titulo
+
+
+def extraer_titulo_y_anio(titulo_original: str):
+    """
+    Separa el título "limpio" (sin año ni corchetes de calidad/audio) del año
+    de estreno, si el título trae uno entre paréntesis (ej. "Nombre (2026)").
+    Devuelve (titulo_limpio, anio_str_o_None).
+    """
+    anio = None
+    m = re.search(r"\((\d{4})\)", titulo_original)
+    if m:
+        anio = m.group(1)
+
     titulo = re.sub(r"\(\d{4}\)", "", titulo_original)
     titulo = re.sub(r"\[.*?\]", "", titulo)
     titulo = re.sub(r"\s{2,}", " ", titulo)
-    return titulo.strip()
+    return titulo.strip(), anio
 
 
-def buscar_pelicula(titulo: str, mapa_generos: dict, idioma: str, pausa: float) -> dict:
+def _elegir_mejor_resultado(resultados: list, anio: Optional[str]) -> Optional[dict]:
+    """
+    Si tenemos el año de estreno, preferimos el resultado cuyo release_date
+    coincida con ese año (en vez de asumir que el primero de la lista es
+    el correcto, que es lo que causaba falsos positivos con títulos repetidos).
+    Si ninguno coincide, devolvemos el primero como último recurso.
+    """
+    if not resultados:
+        return None
+    if anio:
+        for r in resultados:
+            fecha = r.get("release_date") or ""
+            if fecha[:4] == anio:
+                return r
+    return resultados[0]
+
+
+def buscar_pelicula(titulo: str, anio: Optional[str], mapa_generos: dict, idioma: str, pausa: float) -> dict:
     """
     Busca la película en TMDB (serializado con un lock para no saturar la API)
     y devuelve { "genero": str, "poster_url": Optional[str], "error": Optional[str] }.
+
+    Si se conoce el año de estreno (extraído del título original, ej. "(2026)"),
+    se usa "primary_release_year" para acotar la búsqueda y además se valida
+    el resultado elegido contra ese año, para evitar confundir películas con
+    el mismo nombre pero distinto año.
     """
     with _TMDB_LOCK:
         try:
-            resp = requests.get(
-                TMDB_SEARCH_URL,
-                params={"api_key": TMDB_API_KEY, "query": titulo, "language": idioma},
-                timeout=10,
-            )
+            params = {"api_key": TMDB_API_KEY, "query": titulo, "language": idioma}
+            if anio:
+                params["primary_release_year"] = anio
+
+            resp = requests.get(TMDB_SEARCH_URL, params=params, timeout=10)
             resp.raise_for_status()
             resultados = resp.json().get("results", [])
+
+            # Si buscamos con año y no hubo resultados, reintentamos sin año
+            # (por si TMDB tiene mal cargada la fecha) pero luego igual
+            # preferimos, entre esos resultados, el que coincida con el año.
+            if not resultados and anio:
+                resp = requests.get(
+                    TMDB_SEARCH_URL,
+                    params={"api_key": TMDB_API_KEY, "query": titulo, "language": idioma},
+                    timeout=10,
+                )
+                resp.raise_for_status()
+                resultados = resp.json().get("results", [])
 
             if not resultados:
                 return {"genero": "Sin clasificar", "poster_url": None, "error": None}
 
-            pelicula = resultados[0]
+            pelicula = _elegir_mejor_resultado(resultados, anio)
+            if pelicula is None:
+                return {"genero": "Sin clasificar", "poster_url": None, "error": None}
 
             ids_genero = pelicula.get("genre_ids", [])
             nombres_genero = [mapa_generos.get(gid, "Desconocido") for gid in ids_genero]
@@ -419,9 +470,9 @@ def procesar_entrada(entrada: Entrada, mapa_generos: dict, args) -> Entrada:
     else:
         aplicar_tags_calidad_audio(entrada, info_video)
 
-    # 2) Género / póster vía TMDB (usa el título limpio, sin tags de calidad/audio)
-    titulo_busqueda = limpiar_titulo_busqueda(entrada.titulo)
-    resultado_tmdb = buscar_pelicula(titulo_busqueda, mapa_generos, args.idioma, args.tmdb_pause)
+    # 2) Género / póster vía TMDB (usa el título limpio + año, sin tags de calidad/audio)
+    titulo_busqueda, anio_busqueda = extraer_titulo_y_anio(entrada.titulo)
+    resultado_tmdb = buscar_pelicula(titulo_busqueda, anio_busqueda, mapa_generos, args.idioma, args.tmdb_pause)
     if resultado_tmdb.get("error"):
         entrada.tmdb_error = resultado_tmdb["error"]
     aplicar_genero_poster(entrada, resultado_tmdb.get("genero"), resultado_tmdb.get("poster_url"))
