@@ -1,4 +1,16 @@
 ﻿#EXTM3U
+
+#EXTINF:-1,Forgive Us All (2025) [DUAL]
+https://archive.org/download/02_20260724/Linux/01.mkv
+#EXTINF:-1,How to Make a Killing (2026) [DUAL]
+https://archive.org/download/02_20260724/Linux/02.mkv
+#EXTINF:-1,Seven Snipers (2026) [DUAL]
+https://archive.org/download/02_20260724/Linux/03.mkv
+#EXTINF:-1,The Last Supper (2025) [DUAL]
+https://archive.org/download/02_20260724/Linux/04.mkv
+#EXTINF:-1,undertone (2026) [DUAL]
+https://archive.org/download/02_20260724/Linux/05.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qS3UNEPpomerbjJZKdAf33X38Kc.jpg" group-title="Acción",13 Noches (2025) [720p] [DUAL]
 https://archive.org/download/03_20260601_20260601/Edit/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg" group-title="Acción",300 (2007) [480p] [ENG]
