@@ -1,4 +1,4 @@
 @echo off
-python nombres.py
+python duplicados.py
 pause
 exit
