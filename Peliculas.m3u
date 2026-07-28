@@ -40,9 +40,9 @@ https://archive.org/download/01_20260724_20260724_1755/Linux/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WYKWGp9zVR5rIYo8lWDzAks84Z.jpg" group-title="Acción",El Discipulo (2003) [1080p] [DUAL]
 https://archive.org/download/03_20260710_20260710/project/07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WYKWGp9zVR5rIYo8lWDzAks84Z.jpg" group-title="Acción",El Discipulo (2003) [480p] [DUAL]
-https://archive.org/download/9_20250723_20250723/linux/13.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WYKWGp9zVR5rIYo8lWDzAks84Z.jpg" group-title="Acción",El Discipulo (2003) [480p] [DUAL]
 https://archive.org/download/12_20260425_202604/unix/07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WYKWGp9zVR5rIYo8lWDzAks84Z.jpg" group-title="Acción",El Discipulo (2003) [480p] [DUAL]
+https://archive.org/download/9_20250723_20250723/linux/13.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6WJVfMFeLQJ8LuoduATLiM57v1d.jpg" group-title="Acción",El Día de la Independencia (1996) [480p] [DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yqodm3Kx3y6ipucd7RSoaxM14fB.jpg" group-title="Acción",El Día de la Independencia 2: Contraataque (2016) [480p] [DUAL]
@@ -126,9 +126,9 @@ https://archive.org/download/026_20200428/026.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p08mUnCktZ2opGihZTAn7OqzOoi.jpg" group-title="Acción",Gladiator (2000) [480p] [DUAL]
 https://archive.org/download/09_20260503_202605/Linux/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
-https://archive.org/download/5432_20241222/sabayon/674534.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
 https://archive.org/download/09_20260503_202605/Linux/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
+https://archive.org/download/5432_20241222/sabayon/674534.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024)) [480p] [UND]
 https://archive.org/download/5432_20241222/sabayon/24524r.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg" group-title="Acción",Godzilla Vs Kong (2021) [480p] [ESP]
@@ -168,9 +168,9 @@ https://archive.org/download/02_20251014_202510/RPM/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg" group-title="Acción",Kill Bill Vol. 2 (2004) [720p] [ESP]
 https://archive.org/download/00gt_20210720/k1llb12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
-https://archive.org/download/05_20260604/Servers/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
 https://archive.org/download/06_20251017/rpm/06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
+https://archive.org/download/05_20260604/Servers/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5k3XRO7OoqEqUp2wg0syiOaRipK.jpg" group-title="Acción",Kill: Masacre En el Tren (2024) [480p] [DUAL]
 https://archive.org/download/05_20260501/upload/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBxFUHGMADr861QZSSgu9d11wjE.jpg" group-title="Acción",Kung Fu Sion (2004) [166p] [ESP]
@@ -272,19 +272,19 @@ https://archive.org/download/monito_202102/monito.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4jcJHqIVsb4MFdYrDajXeEVlDvH.jpg" group-title="Acción",Morbius (2022) [480p] [UND]
 https://archive.org/download/00naran/mo0rrrr1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
-https://archive.org/download/01_20260630_20260630/regedit/01.mkv
+https://archive.org/download/02_20260609/upload/03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
+https://archive.org/download/02_20260609/upload/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/01_20260701_20260701_1722/project/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
-https://archive.org/download/02_20260609/upload/03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
-https://archive.org/download/02_20260609/upload/03.mkv
+https://archive.org/download/01_20260630_20260630/regedit/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aq2vbzxcG5K3SSLReMqO5TettmE.jpg" group-title="Acción",Máquina de guerra (2026) [720p] [DUAL]
 https://archive.org/download/03_20260426_202604/Nuevos/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
-https://archive.org/download/08_20260421_202604/Linux/12.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
 https://archive.org/download/daemons_202509/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
+https://archive.org/download/08_20260421_202604/Linux/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kowCKRIO1xws2USrgWaPYdTZzYO.jpg" group-title="Acción",Nine-Ring Golden Dagger (2025) [480p] [DUAL]
 https://archive.org/download/12_20260502_202605/upload/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rHjnkuwEdfh31X0E0MofBfMUgi1.jpg" group-title="Acción",Normal (2026) [720p] [DUAL]
@@ -306,9 +306,9 @@ http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z3AGDMXtXfWextrNR9l6ajJxM4w.jpg" group-title="Acción",Pixeles (2015) [720p] [ESP]
 https://dl.dropboxusercontent.com/s/gwtch1d2bqq2cfq/pixeles.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiylEUJgWikljJJNB61u7dDPON.jpg" group-title="Acción",Plan familiar (2023) [480p] [DUAL]
-https://archive.org/download/02_20260419_20260419_2355/Debianitos/13.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiylEUJgWikljJJNB61u7dDPON.jpg" group-title="Acción",Plan familiar (2023) [480p] [DUAL]
 https://archive.org/download/03_20260426_20260426/Nuevos/07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiylEUJgWikljJJNB61u7dDPON.jpg" group-title="Acción",Plan familiar (2023) [480p] [DUAL]
+https://archive.org/download/02_20260419_20260419_2355/Debianitos/13.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rOHTyGGKNBU26sLy0K4rkuuH9SA.jpg" group-title="Acción",Pompeya (2014) [720p] [DUAL]
 https://archive.org/download/05_20260725/Linux/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dgsnZW7zyChQfAzCtmLlPp5twpl.jpg" group-title="Acción",Power Rangers (2017) [720p] [ENG]
@@ -328,9 +328,9 @@ https://archive.org/download/03_20250820_20250820_1910/deb/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg" group-title="Acción",Rescate imposible (2025) [480p] [DUAL]
 https://archive.org/download/02_20260715_202607/daemons/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Acción",Resident Evil: 4 La resurrección (2010) [480p] [UND]
-http://archive.org/download/6_20190711_201907/4.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Acción",Resident Evil: 4 La resurrección (2010) [480p] [UND]
 https://archive.org/download/6_20200518_20200518/4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Acción",Resident Evil: 4 La resurrección (2010) [480p] [UND]
+http://archive.org/download/6_20190711_201907/4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cC2dEleI8zDT045QhuqVjf527yv.jpg" group-title="Acción",Resident Evil: 6 Capítulo final (2016) [480p] [DUAL]
 https://archive.org/download/6_20200518_20200518/6.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cC2dEleI8zDT045QhuqVjf527yv.jpg" group-title="Acción",Resident Evil: 6 Capítulo final (2016) [480p] [ESP]
@@ -415,6 +415,8 @@ http://archive.org/download/npr82752_zoqqa_1_20190323/subid0_p4r4_stre4ming_a85/
 https://archive.org/download/12_20260503_20260503/upload/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/htPobUkM5h5VG9ClEJTKyyZTvNf.jpg" group-title="Acción",Sucker Punch: Mundo Surreal (2011) [720p] [DUAL]
 https://archive.org/download/04_20260619/new/01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg" group-title="Acción",Supergir (2026) [720p] [DUAL]
+https://archive.org/download/alma-linux/Linux/AlmaLinux.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g4MRU9eC6cKgXuooV8NaBFkVYrx.jpg" group-title="Acción",Swordfish: Acceso Autorizado (2001) [720p] [DUAL]
 https://archive.org/download/08_20260419/apt/05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jOYxV166K7b7HWnswjoZKxi3sux.jpg" group-title="Acción",Te Van A Matar (2026) [720p] [DUAL]
@@ -444,13 +446,13 @@ https://archive.org/download/cuartormuna/20.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yDWU8YyFkPnlVY627QXPvct8bz9.jpg" group-title="Acción",Thunderbolts* (2025) [480p] [DUAL]
 https://archive.org/download/03_20260426_202604/Nuevos/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" group-title="Acción",Tiempo de guerra (2025) [480p] [DUAL]
-https://archive.org/download/01_20250609/bsd/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" group-title="Acción",Tiempo de guerra (2025) [480p] [DUAL]
 https://archive.org/download/linux_202506/linux/10.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Acción",Tigre y Dragón 2: la Espada del Destino (2016) [480p] [DUAL]
-https://archive.org/download/06_20260504/upload/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" group-title="Acción",Tiempo de guerra (2025) [480p] [DUAL]
+https://archive.org/download/01_20250609/bsd/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Acción",Tigre y Dragón 2: la Espada del Destino (2016) [480p] [DUAL]
 https://archive.org/download/00_20250930/unix/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Acción",Tigre y Dragón 2: la Espada del Destino (2016) [480p] [DUAL]
+https://archive.org/download/06_20260504/upload/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pAXIn7wFa6140zi6LzYMD6Rt8CD.jpg" group-title="Acción",Torrente 2: Misión en Marbella (2001) [480p] [ENG]
 https://archive.org/download/multiplos_de_54/2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ye6vXu1Ts4lo8gPlKUBRESvdgic.jpg" group-title="Acción",Torrente 4: Lethal Crisis (Crisis letal) (2011) [480p] [ESP]
@@ -464,17 +466,17 @@ https://archive.org/download/789456_202003/789456_0103.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j2amu8zA4l6hKWSkbhDQVbfoDMr.jpg" group-title="Acción",Un Hombre de Razón (2023) [720p] [DUAL]
 https://archive.org/download/02_20260526_202605/Linux/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/piGIUXtMAy3qdp7h574os4bn9Lb.jpg" group-title="Acción",Una noche para sobrevivir (2015) [720p] [DUAL]
-https://archive.org/download/01_20260705_20260705_1846/SERVERS/08.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/piGIUXtMAy3qdp7h574os4bn9Lb.jpg" group-title="Acción",Una noche para sobrevivir (2015) [720p] [DUAL]
 https://archive.org/download/01_20260705_20260705_1846/SERVERS/01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/piGIUXtMAy3qdp7h574os4bn9Lb.jpg" group-title="Acción",Una noche para sobrevivir (2015) [720p] [DUAL]
+https://archive.org/download/01_20260705_20260705_1846/SERVERS/08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6hlI9Ea1O4IeJ2cj7OiNinqg8Qd.jpg" group-title="Acción",Uncharted: Fuera del mapa (2022) [360p] [ESP]
 https://archive.org/download/descarga_202101/hgty/unch4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pfZQzTXaHQ6m517Q4la8p7D1AJn.jpg" group-title="Acción",Viaje al centro de la Tierra (1977) [1080p] [ESP]
 https://ia801502.us.archive.org/34/items/5044448658339135791/1_5044448658339135791.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
-https://archive.org/download/03_20250627_202506/RPM/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
 https://archive.org/download/06_20260426/manjaritos/09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
+https://archive.org/download/03_20250627_202506/RPM/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hj2mUTJktFXNA9cUtFptYiPXhEs.jpg" group-title="Acción",Xtremo (2021) [480p] [ESP]
 https://archive.org/download/dfrte/xtr3m.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg" group-title="Acción",Ángeles de Charlie (2019) [480p] [ESP]
