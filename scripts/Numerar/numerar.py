@@ -19,9 +19,20 @@ Uso:
 """
 
 import os
+import re
 import argparse
 
 NOMBRE_LOG = "0.txt"
+
+
+def limpiar_nombre(nombre):
+    """Quita la extensión y cualquier tag entre corchetes [ ] del nombre,
+    dejando solo el nombre 'limpio' para mostrar en pantalla y en el log."""
+    nombre_sin_extension = os.path.splitext(nombre)[0]
+    nombre_sin_tags = re.sub(r"\[[^\]]*\]", "", nombre_sin_extension)
+    # Colapsa espacios múltiples que puedan quedar tras quitar los tags.
+    nombre_limpio = re.sub(r"\s+", " ", nombre_sin_tags).strip()
+    return nombre_limpio
 
 
 def procesar_carpeta(carpeta, simular=True):
@@ -51,8 +62,10 @@ def procesar_carpeta(carpeta, simular=True):
         ruta_original = os.path.join(carpeta, archivo)
         ruta_nueva = os.path.join(carpeta, nuevo_nombre)
 
-        print(f"{numero}  {archivo}  →  {nuevo_nombre}")
-        lineas_log.append(f"{numero} {archivo}")
+        nombre_mostrado = limpiar_nombre(archivo)
+
+        print(f"{numero}  {nombre_mostrado}  →  {nuevo_nombre}")
+        lineas_log.append(f"{numero} {nombre_mostrado}")
         renombres.append((ruta_original, ruta_nueva, archivo, nuevo_nombre))
 
     # Escribir el log siempre, tanto en modo simulación como en modo real,
@@ -74,12 +87,12 @@ def procesar_carpeta(carpeta, simular=True):
 
         for ruta_temp, ruta_nueva, nombre_original, nuevo_nombre in temporales:
             if os.path.exists(ruta_nueva):
-                print(f"  ⚠ Ya existe {nuevo_nombre}, se omite {nombre_original}.")
+                print(f"  ⚠ Ya existe {nuevo_nombre}, se omite {limpiar_nombre(nombre_original)}.")
                 # Se revierte el nombre temporal a su nombre original para no perderlo.
                 os.rename(ruta_temp, os.path.join(carpeta, nombre_original))
                 continue
             os.rename(ruta_temp, ruta_nueva)
-            print(f"  ✔ {nombre_original} → {nuevo_nombre}")
+            print(f"  ✔ {limpiar_nombre(nombre_original)} → {nuevo_nombre}")
 
 
 def main():
