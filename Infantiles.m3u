@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vH7avbxSgyTMVvwaevhL08yDOY.jpg",101 dálmatas (1961) [720p] [ENG]
 https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w6qp51WW5DsYcjc0elXnn6YGiRv.jpg",Agente 00-Gato (2019) [462p] [ESP]
@@ -21,8 +21,6 @@ https://archive.org/download/b-4r-b-1e.g-4m-3-h-3r-0/B4rB1e.g4m3H3r0.mp4
 https://archive.org/download/00200_20200111/00200.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vbwe6wuBBErsikY3xEnmMzx90CI.jpg",Batman: Alma del Dragón (2021) [720p] [DUAL]
 https://archive.org/download/manguera/B4tm4n%2041m4%20d3%20dr450n.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cMYPxRHy2cQOL94ue7Vgwl1Nn61.jpg",Bruno y el lobo (2019) [720p] [DUAL]
-https://archive.org/download/tutoriales_202506/TutorialesLinux/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg",Buscando a Dory (2016) [720p] [ESP]
 https://archive.org/download/05_20250612/daemons/06.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kffFhbSRF20sY7DiqWcFWAxi58K.jpg",Buscando a Nemo (2003) [720p] [ESP]
@@ -39,8 +37,6 @@ https://ia800708.us.archive.org/30/items/adjuanito_gmx_Puu2/CRUnreencuentroinolv
 https://archive.org/download/leocolmilloblanco548737374535735/leo%20colmilloblanco548737374535735.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1fX7HMPL9f2qJ9jXFgnBMeYHdfs.jpg",Coraline y la puerta secreta (2009) [480p] [ESP]
 http://ia801407.us.archive.org/20/items/tosey_freehotmail_01/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg",Cruella (2021) [480p] [DUAL]
-https://archive.org/download/tinaco_20210528/Crue11a.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8ekxsUORMAsfmSc8GzHmG8gWPbp.jpg",Cómo Entrenar A Tu Dragón (2010) [720p] [DUAL]
 https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kjQXYc2Abhy3TBgAZGzJRhN1JaV.jpg",Cómo entrenar a tu dragón (2025) [480p] [DUAL]
@@ -95,7 +91,7 @@ https://archive.org/download/08_20260421_202604/Linux/05.mkv
 https://archive.org/download/disco-duro_202112/0r1g3ngu4rd.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wfJlioOs1DFu6O7aEsUnXkKaBN6.jpg",El Perro Sonriente (2005) [360p] [UND]
 https://archive.org/download/elperrosonriente/El%20Perro%20Sonriente.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/13pKq7HqlaBtU2OurMU3zRCtooi.jpg",El príncipe encantado (1986) [480p] [ENG]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg",Tiana y el sapo
 http://archive.org/download/AnimalesFantsticos20182564564445646/2%2B892%2B2%2B2522Principe%20Encantado654196165468564168%20%282018%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x7QXH6T8oTKlUbKt8TD1rPimzCr.jpg",El Pájaro Loco se va de campamento (2024) [240p] [UND]
 http://archive.org/download/img20200313191011hdr/3lp44r0l0c0l4p3l1cul4w3bdlr1pl471n0.mp4
@@ -125,7 +121,7 @@ https://archive.org/download/disco-duro_202112/3nc4n.mp4
 https://archive.org/download/05_20250612/daemons/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oEGs9e5O42grRG2boT9BhjEAYT0.jpg",Escuela de Miedo (2020) [480p] [ESP]
 https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback9.mkv
-#EXTINF:-1,Espias A Escondidas (Op. 2) [720p] [DUAL]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j2xcicPNXzNex47EYOfw45Dl1o0.jpg",Espías con disfraz
 https://archive.org/download/spi_20200526/spi.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tzvDjwsviMp6mdkNnnxhO3oIDUv.jpg",Espias en manada (2020) [304p] [UND]
 http://archive.org/download/08y776/m4n4d4l4p3l.avi
@@ -149,8 +145,6 @@ https://archive.org/download/casaxd_202003/casaxd.mkv
 https://archive.org/download/10_20251106/nano/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6veEEHPFOQR8qPIDe09lRh9ogUv.jpg",Fullmetal Alchemist: El conquistador de Shambala (2005) [352p] [UND]
 http://archive.org/download/icon_20190814/3.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5b1y7Bbr8BxSK5luKMyiqIgdkNh.jpg",Furia de Titanes 2 (2012) [360p] [UND]
-https://dl.dropbox.com/s/m9aqf4x4bjqjaju/FDT.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6QR2FOCQr41gSduN70WulRIhJb7.jpg",Garfield: Fuera de casa (2024) [480p] [DUAL]
 https://archive.org/download/perifericos_202407/upload/perifericos.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg",Gato con botas (2011) [1080p] [DUAL]
@@ -173,9 +167,9 @@ https://archive.org/download/hotel-transylvania-3/HT3/Hotel%20Transylvania%203.m
 https://ia601402.us.archive.org/21/items/1e08_20191210/8dc.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m0psah5Ttchm7Jlp74NZ5xDe6C8.jpg",Intercambiados (2026) [720p] [DUAL]
 https://archive.org/download/01_20260506_202605/Linux/09.mkv
-#EXTINF:-1,Invazor Zim y el Poder de Florpus [240p] [ENG]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wNXCAKZZiAAoo7aG5fWyzib2Dx4.jpg",Invader ZIM (2001)
 http://archive.org/download/img-20200518-wa-0028/aliehdvdhdbe2344.mp4
-#EXTINF:-1,Jugando con el Destino los Simpson [720p] [UND]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vfuZUtV5FlGHphMjuBtN40GeNpf.jpg",Maggie Simpson: “Jugando con el destino”
 https://dl.dropbox.com/s/t2c4vz9t1dl2x88/Jugando%20Con%20El%20Destino.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m67M2wXLKblJLuJlvF7qaGrGfCa.jpg",Jumanji (1995) [480p] [ESP]
 https://archive.org/download/027_20200428/027.mkv
@@ -187,9 +181,9 @@ https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/2223.mkv
 https://archive.org/download/linux_202506/linux/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/86IJQ8HMWgWePeH3sUnoXb2Ctnh.jpg",Koati (2021) [480p] [ESP]
 https://archive.org/download/cacahu/k04t1.mp4
-#EXTINF:-1,Koe No Katachi (una Voz Silenciosa) Sub [462p]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hGQnljXpDGI429SC39LohaQBHhf.jpg",A Silent Voice: The Movie (2016) [462p]
 https://archive.org/download/00azucar/j4p0.mp4
-#EXTINF:-1,KonoSuba: ¡Explosión en un mundo maravilloso! (2023) [240p] [JAP]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eHueHMcdlxFv4Ky8ZPeVXAdieMF.jpg",KonoSuba: ¡Explosión en un mundo maravilloso! (2023) [240p] [JAP]
 http://archive.org/download/img-20200516-151322/9witflix901apote122.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",Kung Fu Panda (2008) [720p] [UND]
 https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback001.mp4
@@ -199,7 +193,7 @@ https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr
 https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg",La Bella y La Bestia (2017) [400p] [UND]
 http://archive.org/download/img-20200823-wa-0003/b3ll4.avi
-#EXTINF:-1,La Bella y la Bestia - Live Action [480p] [UND]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg",La Bella y La Bestia (2017) [480p] [UND]
 https://ia801407.us.archive.org/16/items/lat-720-b.-3.4.-u.-t.-y-4.-n.-d-t.-h.-3-b.-3.4.-s.-t/LAT-720%20B.3.4.U.T.Y_4.N.D_T.H.3_B.3.4.S.T.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j0DvUVxA9SwwpRVNi4AOftpJFbN.jpg",La carga más preciada (2024) [480p] [DUAL]
 https://archive.org/download/01_20250625_20250625_1655/temp/05.mp4
