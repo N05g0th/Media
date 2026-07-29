@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg" group-title="Acción",300 (2007) [480p] [ENG]
 https://archive.org/download/09_20260501/upload/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" group-title="Acción",Al borde de la extinción (2021) [480p] [DUAL]
@@ -895,7 +895,7 @@ https://archive.org/download/05_20260605/samba/02.mp4
 https://archive.org/download/07_20260501/upload/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ky0P36kdTD86ZFPEcBapc6gbue3.jpg" group-title="Ciencia ficción",Osiris (2025) [480p] [DUAL]
 https://archive.org/download/12_20260502_202605/upload/13.mp4
-#EXTINF:-1 group-title="Ciencia ficción",Ovni (2022) [480p] [ESP]
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/m7mNjsZKuLpBWYNGSTLmWKOYkvl.jpg",UFO: OVNI (2022) [480p] [ESP]
 https://archive.org/download/ck-2_20210106/derty/0vn1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9GioqrMkkk9A694UhYz8iMo2eJV.jpg" group-title="Ciencia ficción",Poder sin Límites (2012) [360p] [ESP]
 http://archive.org/download/7_20190824/7.mp4
