@@ -777,6 +777,8 @@ https://archive.org/download/03_20260702/Ava/01.mp4
 https://archive.org/download/03_20260702/Ava/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg" group-title="Ciencia ficción",Avatar Fuego y Ceniza (2025) [720p] [DUAL]
 https://archive.org/download/03_20260702/Ava/03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AlzjGaUieruNA2gTBNkMtwIZioy.jpg" group-title="Ciencia ficción",Bajo el planeta de los simios (1970) [1080p] [DUAL]
+https://archive.org/download/002_20260730/up/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ZocuSaZSSQtP1ittRlAwHo4PlG.jpg" group-title="Ciencia ficción",Bienvenidos al Ayer (2015) [480p] [ESP]
 https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ZocuSaZSSQtP1ittRlAwHo4PlG.jpg" group-title="Ciencia ficción",Bienvenidos al Ayer (2015) [480p] [ESP]
@@ -804,9 +806,9 @@ https://archive.org/download/03_20260710_20260710/project/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yZUzkGplztDLC1UhxN8pOTrwcsw.jpg" group-title="Ciencia ficción",El día de la revelación (2026) [720p] [DUAL]
 https://archive.org/download/05_20260721/Linux/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg" group-title="Ciencia ficción",El gran diluvio (2025) [720p] [DUAL]
-https://archive.org/download/09_20260430_20260430_1951/editores/04.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg" group-title="Ciencia ficción",El gran diluvio (2025) [720p] [DUAL]
 https://archive.org/download/05_20260406_202604/DEBIAN/05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg" group-title="Ciencia ficción",El gran diluvio (2025) [720p] [DUAL]
+https://archive.org/download/09_20260430_20260430_1951/editores/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9dxWov4GDOP32TuxxjOlS3oGH2.jpg" group-title="Ciencia ficción",El núcleo (2003) [720p] [DUAL]
 https://archive.org/download/01_20260506_202605/Linux/02.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/9iWaBdvj5Gw3WvYDJD6wuOU2GsK.jpg" group-title="Ciencia ficción",El planeta de los simios (1968) [1080p] [DUAL]
@@ -817,10 +819,14 @@ https://archive.org/download/005_20260730/Linux/002.mkv
 https://archive.org/download/005_20260730/Linux/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uQsVXnHCKOzhWZUqNX0nAvMGhx7.jpg" group-title="Ciencia ficción",El planeta de los simios: (R)evolución (2011) [1080p] [DUAL]
 https://archive.org/download/005_20260730/Linux/003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gGevoiZZrT7KONt55xj4nNUFlqg.jpg" group-title="Ciencia ficción",El planeta de los simios: Confrontación (2014) [1080p] [DUAL]
+https://archive.org/download/002_20260730/up/004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j7LCz590SF1Af0XAR6jrBIiabJf.jpg" group-title="Ciencia ficción",El secreto de la colmena (2023) [480p] [DUAL]
 https://archive.org/download/01_20250722_20250722_1518/cursos/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/caiK59jZU9L7PZHJCl9o2Ixh21o.jpg" group-title="Ciencia ficción",El ángel de acero (1997) [1080p] [ENG]
 https://dl.dropbox.com/s/1s25z4w7jpgkydr/steel%20%281997%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uemtl40JlPbk72kbvblmjZQUXCl.jpg" group-title="Ciencia ficción",Escape del planeta de los simios (1971) [1080p] [DUAL]
+https://archive.org/download/002_20260730/up/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wPZ5n5LlzFFdO5lFJbi2qmaE6w7.jpg" group-title="Ciencia ficción",Eternals (2021)
 https://archive.org/download/00chich/3t3r41s.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aX3C0CR3fnW2TwVLj5SvVWeDgXd.jpg" group-title="Ciencia ficción",Expiry (2021) [480p] [UND]
@@ -837,12 +843,16 @@ https://archive.org/download/00200_201909/00200.avi
 http://archive.org/download/02_20201229_20201229_2258/4u7k.avi
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/v49ceVcpW4Vj0tveTWlzrRdsFf4.jpg" group-title="Ciencia ficción",Jurassic World: Renace (2025) [480p] [DUAL]
 https://archive.org/download/01_20250808_20250808_1322/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f2nAuuytIGbCdFCt4DOV8DwCYR1.jpg" group-title="Ciencia ficción",La batalla por el planeta de los simios (1973) [1080p] [DUAL]
+https://archive.org/download/002_20260730/up/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7OcSaD5ip2AP5pyi0AAEWUxWWot.jpg" group-title="Ciencia ficción",La chica artificial (2023) [480p] [DUAL]
 https://archive.org/download/daemons_202509/daemons/05.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg" group-title="Ciencia ficción",La Guerra de los Mundos (2005) [480p] [DUAL]
-https://archive.org/download/01_20251125_20251125_0530/Onifom/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eN1vmB0k4AnCcZIoS7bV7Mbl88u.jpg" group-title="Ciencia ficción",La conquista del planeta de los simios (1972) [1080p] [DUAL]
+https://archive.org/download/002_20260730/up/003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg" group-title="Ciencia ficción",La Guerra de los Mundos (2005) [480p] [DUAL]
 https://archive.org/download/10_20260425_20260425/tex/09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg" group-title="Ciencia ficción",La Guerra de los Mundos (2005) [480p] [DUAL]
+https://archive.org/download/01_20251125_20251125_0530/Onifom/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/etqDF1zxjegHcVei2T9sKLaZ5s2.jpg" group-title="Ciencia ficción",La Máquina del Tiempo (2002) [480p] [ESP]
 https://ia601408.us.archive.org/15/items/123a_20191206/09mnjg.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8fbbaY5Z00u1Y4iDT5B7rN6l2eS.jpg" group-title="Ciencia ficción",La Noche de la Expiación (2013) [360p] [UND]
@@ -900,15 +910,15 @@ https://archive.org/download/02_20260425_20260425_1709/Latex/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="Ciencia ficción",Obsesión Desconocida (2022) [720p] [DUAL]
 https://archive.org/download/05_20260605/samba/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ky0P36kdTD86ZFPEcBapc6gbue3.jpg" group-title="Ciencia ficción",Osiris (2025) [480p] [DUAL]
-https://archive.org/download/12_20260502_202605/upload/13.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ky0P36kdTD86ZFPEcBapc6gbue3.jpg" group-title="Ciencia ficción",Osiris (2025) [480p] [DUAL]
 https://archive.org/download/07_20260501/upload/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ky0P36kdTD86ZFPEcBapc6gbue3.jpg" group-title="Ciencia ficción",Osiris (2025) [480p] [DUAL]
+https://archive.org/download/12_20260502_202605/upload/13.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9GioqrMkkk9A694UhYz8iMo2eJV.jpg" group-title="Ciencia ficción",Poder sin Límites (2012) [360p] [ESP]
 http://archive.org/download/7_20190824/7.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg" group-title="Ciencia ficción",Proyecto Fin del Mundo (2026) [720p] [DUAL]
-https://archive.org/download/index_20260430_1627/unix/04.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg" group-title="Ciencia ficción",Proyecto Fin del Mundo (2026) [720p] [DUAL]
 https://archive.org/download/05_20260604/Servers/04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg" group-title="Ciencia ficción",Proyecto Fin del Mundo (2026) [720p] [DUAL]
+https://archive.org/download/index_20260430_1627/unix/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vCjaL0KXxcHYq2tMLncceE8m6S1.jpg" group-title="Ciencia ficción",Renner (2025) [480p] [DUAL]
 https://archive.org/download/04_20260501/upload/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nTgHNb4CLv1dL9vGGVLtkc3zVPT.jpg" group-title="Ciencia ficción",Restore Point (2023) [480p] [DUAL]
@@ -928,9 +938,9 @@ https://archive.org/download/barco_202101/59utn1c.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg" group-title="Ciencia ficción",Superman (2025) [480p] [DUAL]
 https://archive.org/download/04_20250819/text-editors/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aOFTrW8biKHIciqRe6k1z3ElR6l.jpg" group-title="Ciencia ficción",T.I.M. (2023) [480p] [DUAL]
-https://archive.org/download/05_20260502/upload/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aOFTrW8biKHIciqRe6k1z3ElR6l.jpg" group-title="Ciencia ficción",T.I.M. (2023) [480p] [DUAL]
 https://archive.org/download/07_20260501/upload/05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aOFTrW8biKHIciqRe6k1z3ElR6l.jpg" group-title="Ciencia ficción",T.I.M. (2023) [480p] [DUAL]
+https://archive.org/download/05_20260502/upload/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qqYOlCee3X7cKg05EOQH1htcHmy.jpg" group-title="Ciencia ficción",Tau (2018) [360p] [ESP]
 http://archive.org/download/mashadsasd2/mashadsasd2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" group-title="Ciencia ficción",The Marvels (2023) [720p] [DUAL]
@@ -948,9 +958,9 @@ https://archive.org/download/04_20260628_202606/regedit/01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Ciencia ficción",X-Men 1 (2000) [368p] [UND]
 https://dl.dropbox.com/s/e3f642mdpiqjfef/xm3n1.avi
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Ciencia ficción",X-Men 1 (2000) [720p] [DUAL]
-https://archive.org/download/06_20260426/manjaritos/07.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Ciencia ficción",X-Men 1 (2000) [720p] [DUAL]
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/11.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Ciencia ficción",X-Men 1 (2000) [720p] [DUAL]
+https://archive.org/download/06_20260426/manjaritos/07.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="Ciencia ficción",X-Men 12: Dark Phoenix (2019) [480p] [DUAL]
 https://archive.org/download/00300_201909/00300.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="Ciencia ficción",X-Men 12: Dark Phoenix (2019) [720p] [DUAL]
