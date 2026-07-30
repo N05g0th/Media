@@ -1223,9 +1223,7 @@ http://archive.org/download/kuhlman_1_20190504/3.mp4
 https://archive.org/download/04_20260619/new/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7qb6u23jMucfMlJ4MCSFo8djka1.jpg" group-title="Comedia",Peter Rabbit 2: Conejo en fuga (2021) [480p] [UND]
 https://archive.org/download/pacto1/r44b1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gb7nmirBcmqQDRgyLlXA0upyI5F.jpg" group-title="Comedia",Pinocho (1940) [720p] [ESP]
-https://ia601408.us.archive.org/15/items/123a_20191206/998hb.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gb7nmirBcmqQDRgyLlXA0upyI5F.jpg" group-title="Comedia",Pinocho (2026) [720p] [ESP]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/aKJkscflrbArm5YRNWExQ029zl9.jpg" group-title="Comedia",Pinocho (2026) [720p] [ESP]
 https://archive.org/download/servers_202605/Linux/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Zr6QSFSxIpH0GW503a59DZ4MUK.jpg" group-title="Comedia",Pintemos (2023) [720p] [DUAL]
 https://archive.org/download/000003_202605/Linux/000001.mp4
@@ -2947,7 +2945,7 @@ https://archive.org/download/03_20260426_20260426/Nuevos/01.mp4
 https://archive.org/download/04_20250819/text-editors/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mYK7OYW4w2ZujE8B8GGnVYZWHYD.jpg" group-title="Terror",Rosario (2025) [480p] [UND]
 https://archive.org/download/04_20250615_202506/atn/06.mp4
-#EXTINF:-1 group-title="Terror",Rule Of 3 (2019) [1080p] [ENG]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/jtLmWTxvDMrUcahQ9a0EMeawKUP.jpg" group-title="Terror",Rule Of 3 (2019) [1080p] [ENG]
 https://dl.dropbox.com/s/dmvg5y3jv2wc0hy/rule.of.3.2019.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/55M0P4DpAPwoe4RJ1zHBNtVmTkO.jpg" group-title="Terror",Salida 8 (2025) [720p] [JAP]
 https://archive.org/download/01_20260506_202605/Linux/01.mkv
