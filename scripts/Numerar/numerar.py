@@ -23,6 +23,7 @@ import re
 import argparse
 
 NOMBRE_LOG = "0.txt"
+ARCHIVOS_IGNORADOS = {"numerar.py", "run_numerar.bat"}
 
 
 def limpiar_nombre(nombre):
@@ -36,10 +37,13 @@ def limpiar_nombre(nombre):
 
 
 def procesar_carpeta(carpeta, simular=True):
-    # Se ignoran carpetas y el propio archivo de log si ya existe de una corrida anterior.
+    # Se ignoran carpetas, el propio archivo de log si ya existe de una corrida
+    # anterior, y el propio script junto con su lanzador .bat.
     archivos = sorted(
         f for f in os.listdir(carpeta)
-        if os.path.isfile(os.path.join(carpeta, f)) and f != NOMBRE_LOG
+        if os.path.isfile(os.path.join(carpeta, f))
+        and f != NOMBRE_LOG
+        and f not in ARCHIVOS_IGNORADOS
     )
 
     if not archivos:
