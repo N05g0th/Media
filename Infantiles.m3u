@@ -1,4 +1,7 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",Minions & Monstruos (2026) [720p] [DUAL]
+https://archive.org/download/002_20260811/deb/001.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vH7avbxSgyTMVvwaevhL08yDOY.jpg",101 dálmatas (1961) [720p] [ENG]
 https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w6qp51WW5DsYcjc0elXnn6YGiRv.jpg",Agente 00-Gato (2019) [462p] [ESP]
