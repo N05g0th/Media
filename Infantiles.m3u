@@ -1,4 +1,31 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/76MYNTMpbiZYqzNArPXmXnPsQce.jpg",Pinocchio (2022) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/000.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg",La bella durmiente (1959) [720p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/008.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g4UFXF8JP4W5nBP3ih26mLv50hX.jpg",La cenicienta (1950) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/009.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/90Shq6yU7vqXskmZbX2AEf57ddy.jpg",Bambi (1942) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/enl6RjnQEriJqMyGcMb72qgT8Ei.jpg",Bambi 2 (2006) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/002.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",Coco (2017) [720p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/003.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg",Dumbo (1941) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/004.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2NMIKVUsSp7jRq7a5hbkSLDWsCw.jpg",La Cenicienta 2 Un sueño hecho realidad (2002) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/006.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c1H3jTJUZLrprxOMH1w8cQD1PBl.jpg",La Espada en La Piedra (1963) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg",Peter Pan (1953) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/011.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",Pinocho (1940) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/013.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/piJK8RL8YBP4QZ2ZY1hLGS5uMa4.jpg", Crocodile (2022) [720p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/010.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9nLZKPzcEN3B2F2l5V1VwWTqJ4Z.jpg",Peter Pan 2 El regreso al país de Nunca Jamás (2002) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/012.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vH7avbxSgyTMVvwaevhL08yDOY.jpg",101 dálmatas (1961) [720p] [ENG]
 https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w6qp51WW5DsYcjc0elXnn6YGiRv.jpg",Agente 00-Gato (2019) [462p] [ESP]
