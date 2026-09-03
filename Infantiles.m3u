@@ -1,31 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/76MYNTMpbiZYqzNArPXmXnPsQce.jpg",Pinocchio (2022) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/000.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg",La bella durmiente (1959) [720p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/008.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g4UFXF8JP4W5nBP3ih26mLv50hX.jpg",La cenicienta (1950) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/009.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/90Shq6yU7vqXskmZbX2AEf57ddy.jpg",Bambi (1942) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/001.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/enl6RjnQEriJqMyGcMb72qgT8Ei.jpg",Bambi 2 (2006) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/002.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",Coco (2017) [720p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/003.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg",Dumbo (1941) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/004.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2NMIKVUsSp7jRq7a5hbkSLDWsCw.jpg",La Cenicienta 2 Un sueño hecho realidad (2002) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/006.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c1H3jTJUZLrprxOMH1w8cQD1PBl.jpg",La Espada en La Piedra (1963) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/007.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg",Peter Pan (1953) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/011.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",Pinocho (1940) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/013.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/piJK8RL8YBP4QZ2ZY1hLGS5uMa4.jpg", Crocodile (2022) [720p] [DUAL]
 https://archive.org/download/iis_20260902/Linux/010.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9nLZKPzcEN3B2F2l5V1VwWTqJ4Z.jpg",Peter Pan 2 El regreso al país de Nunca Jamás (2002) [1080p] [DUAL]
-https://archive.org/download/iis_20260902/Linux/012.mkv
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vH7avbxSgyTMVvwaevhL08yDOY.jpg",101 dálmatas (1961) [720p] [ENG]
 https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w6qp51WW5DsYcjc0elXnn6YGiRv.jpg",Agente 00-Gato (2019) [462p] [ESP]
@@ -40,6 +15,10 @@ https://archive.org/download/03_20250611_20250611/cmd/01.mp4
 https://archive.org/download/03_20250611_20250611/cmd/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Ms0fqh1IwrNMbAyLk47XTMWZdm.jpg",Aventuras de la Liga de la Justicia: Atrapados en el Tiempo (2014)
 https://docentecoahuila-my.sharepoint.com/:v:/g/personal/franciscoorlando_robles_docentecoahuila_gob_mx/ewc_ygi1ejjlvw2cjw0afmobbzu_anbdhfe3yp4dhwldxw?download=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/90Shq6yU7vqXskmZbX2AEf57ddy.jpg",Bambi (1942) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/enl6RjnQEriJqMyGcMb72qgT8Ei.jpg",Bambi 2 (2006) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/55NspwnwJuMhj9nFAOBs3YyUiZH.jpg",Barbie Campamento de Princesas (2015) [416p] [UND]
 https://archive.org/download/b-4rb-13.pop.c-4mp-1n-6/B4rb13.pop.c4mp1n6.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uS3u0owsEhFZXq2CUVX1eDFofnS.jpg",Barbie en un mundo de videojuegos (2017) [400p] [UND]
@@ -60,6 +39,8 @@ https://archive.org/download/03_20250611_20250611/cmd/04.mp4
 https://archive.org/download/03_20250611_20250611/cmd/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg",Christopher Robin: Un Reencuentro Inolvidable (2018) [268p] [UND]
 https://ia800708.us.archive.org/30/items/adjuanito_gmx_Puu2/CRUnreencuentroinolvidable2018.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",Coco (2017) [720p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/003.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/umnGhfxqepSVammxXWn7wW2qJ2.jpg",Colmillo blanco (1991)
 https://archive.org/download/leocolmilloblanco548737374535735/leo%20colmilloblanco548737374535735.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1fX7HMPL9f2qJ9jXFgnBMeYHdfs.jpg",Coraline y la puerta secreta (2009) [480p] [ESP]
@@ -98,6 +79,8 @@ http://archive.org/download/cocinillas-17508325-115878909-1706x-960/6.mkv
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/5.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4f9DpOkD5Z0oT3qMfLOa1B2eaWO.jpg",Dragones: El Origen De Las Carreras De Dragones (2014) [392p] [DUAL]
 https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg",Dumbo (1941) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tLbijKcpZfFRgKTNs1HBWFrEGqp.jpg",Dumbo (2019) [720p] [DUAL]
 https://archive.org/download/10_20260430_20260430_1725/unix/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tLbijKcpZfFRgKTNs1HBWFrEGqp.jpg",Dumbo (2019) [720p] [ESP]
@@ -252,6 +235,8 @@ https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr
 https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t11f8palNbICK9Ip5QLrUfhLJYq.jpg",Kung Fu Panda 3 (2016) [720p] [DUAL]
 https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg",La bella durmiente (1959) [720p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/008.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg",La Bella y La Bestia (2017) [400p] [UND]
 http://archive.org/download/img-20200823-wa-0003/b3ll4.avi
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg",La Bella y La Bestia (2017) [480p] [UND]
@@ -260,6 +245,10 @@ https://ia801407.us.archive.org/16/items/lat-720-b.-3.4.-u.-t.-y-4.-n.-d-t.-h.-3
 https://archive.org/download/01_20250625_20250625_1655/temp/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ruAIbycacQIIXeTf4xh1r1NjvJa.jpg",La casa de muñecas de Gabby: La película (2025) [480p] [ESP]
 https://archive.org/download/06_20251017/rpm/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g4UFXF8JP4W5nBP3ih26mLv50hX.jpg",La cenicienta (1950) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/009.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2NMIKVUsSp7jRq7a5hbkSLDWsCw.jpg",La Cenicienta 2 Un sueño hecho realidad (2002) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lW5P1iWiMhatviKXV32J9iiMfF4.jpg",La Colina de las Amapolas (2011) [1080p] [DUAL]
 https://archive.org/download/005_20260827_202608/Up/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/69f1DVUiK8e9Y1GhShe5Wx33vSe.jpg",La Dama y el Vagabundo (2019) [480p] [DUAL]
@@ -267,9 +256,9 @@ https://archive.org/download/00100_201912/00100.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",La era de hielo (2002) [214p] [ESP]
 http://archive.org/download/next-3/l4h3r4d3h13l01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",La era de hielo (2002) [304p] [UND]
-http://archive.org/download/000_20210108_202101/3r4d3h13l0.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",La era de hielo (2002) [304p] [UND]
 http://archive.org/download/15_20200213_202002/5ub1d0p0ry4553r.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",La era de hielo (2002) [304p] [UND]
+http://archive.org/download/000_20210108_202101/3r4d3h13l0.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",La era de hielo (2002) [480p] [DUAL]
 https://archive.org/download/01_20260705_20260705_1846/SERVERS/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q3D7vBGrJVrVrZSJjVQN8lN0e6c.jpg",La era de hielo 2 (2006)
@@ -288,6 +277,8 @@ https://archive.org/download/01_20260705_20260705_1846/SERVERS/05.mp4
 https://archive.org/download/01_20260705_20260705_1846/SERVERS/06.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fanzOE8x3biEMKriui7NwMmKyx.jpg",La era de hielo: Choque de mundos (2016) [304p] [UND]
 https://archive.org/download/salvavidascr/3r4d3h13l05.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c1H3jTJUZLrprxOMH1w8cQD1PBl.jpg",La Espada en La Piedra (1963) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lGZavJahqfBhaopeeiI4samtqyt.jpg",La Familia Del Barrio: La Maldición del Quinto Partido (2026) [1080p] [ESP]
 https://archive.org/download/05_20260621/servers/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pOMqelYclqbnj4f7mL5KgSN5rJj.jpg",La Gran Aventura LEGO 2 (2019) [240p] [ENG]
@@ -468,12 +459,20 @@ https://archive.org/download/00azucar/p0p4tr0.mp4
 https://archive.org/download/3spe3c1as/r3c3t4r1o/p1m13ntaverde/p1m13ntaverde.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cnp6QIYN9V1oHjiQZyBjC1r1PK7.jpg",Perdí mi cuerpo (2019) [720p] [ENG]
 https://dl.dropbox.com/s/5w139f1dys7xg82/I.Lost.My.Body.2019.SS_CANY.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg",Peter Pan (1953) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/011.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9nLZKPzcEN3B2F2l5V1VwWTqJ4Z.jpg",Peter Pan 2 El regreso al país de Nunca Jamás (2002) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/012.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i5rPRIEf88IKSCM2loRy3iN2lQc.jpg",Phineas y Ferb La película: Candace contra el universo (2020) [720p] [ESP]
 https://archive.org/download/videoplayback30_20201103/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback41.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",Pinocho (1940) [300p] [UND]
-http://archive.org/download/img20200220205421_202002/54c4r145.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/76MYNTMpbiZYqzNArPXmXnPsQce.jpg",Pinocchio (2022) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/000.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",Pinocho (1940) [1080p] [DUAL]
+https://archive.org/download/iis_20260902/Linux/013.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",Pinocho (1940) [300p] [UND]
 http://archive.org/download/unknown_202003/p1n0ch10m0v13.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",Pinocho (1940) [300p] [UND]
+http://archive.org/download/img20200220205421_202002/54c4r145.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",Pinocho (1940) [400p] [UND]
 http://archive.org/download/img029_202012/p1n0ch1000.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",Pinocho (1940) [720p] [ESP]
@@ -527,9 +526,9 @@ http://archive.org/download/img20200311185853/r0b075dvdr1pl471n0.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/scjaS4XzbGicYLYAVbhmffwZtqq.jpg",Río (2011) [256p] [UND]
 http://archive.org/download/002_20200607_202006/001.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/scjaS4XzbGicYLYAVbhmffwZtqq.jpg",Río (2011) [480p] [ESP]
-https://ia601402.us.archive.org/21/items/1e08_20191210/1f00e.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/scjaS4XzbGicYLYAVbhmffwZtqq.jpg",Río (2011) [480p] [ESP]
 https://archive.org/download/10_20251106/nano/06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/scjaS4XzbGicYLYAVbhmffwZtqq.jpg",Río (2011) [480p] [ESP]
+https://ia601402.us.archive.org/21/items/1e08_20191210/1f00e.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/duM0qJVhgUImv2jlYxP4pdTwaCz.jpg",Sahara (2005) [720p] [ESP]
 https://dl.dropboxusercontent.com/s/0x82vdb9wd0k9fq/250392.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/elIvepx8sycNYnla0R5rhIrIemI.jpg",Samurái X: El fin (2021) [480p] [ESP]
@@ -659,9 +658,9 @@ https://dl.dropbox.com/s/sp559kk66y5gqjr/un1d05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vSdpOU6rDK7IpmOD7iAvlZdMUCc.jpg",Up: Una Aventura de Altura (2009) [378p] [UND]
 http://archive.org/download/img029_202012/uuuup0.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5lHMB2jwlQV43RBfT5g3BRGN0Tm.jpg",Vecinos invasores (2006) [270p] [UND]
-https://archive.org/download/08_20260421_202604/Linux/09.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5lHMB2jwlQV43RBfT5g3BRGN0Tm.jpg",Vecinos invasores (2006) [270p] [UND]
 https://archive.org/download/ax_20200528/vi.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5lHMB2jwlQV43RBfT5g3BRGN0Tm.jpg",Vecinos invasores (2006) [270p] [UND]
+https://archive.org/download/08_20260421_202604/Linux/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e4YIxQEoz2lwZA3WLtFzAogxl44.jpg",Wallace y Gromit: La venganza se sirve con plumas (2024) [720p] [ESP]
 https://archive.org/download/tutoriales_202506/TutorialesLinux/06.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1K6YdJqNDjapI21ZNQMbD35blkw.jpg",Wifi Ralph (2018) [168p] [ESP]
@@ -675,9 +674,9 @@ https://ia601504.us.archive.org/20/items/4915812364894339407/1_49158123648943394
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9jkXiMrYWAbiuLDzt6DfBPARdzY.jpg",Yellow Mirror (2026) [1080p] [DUAL]
 https://archive.org/download/004_20260827/Linux/008.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dq9HNsQchADVbzFU3pkkjevuQeM.jpg",Zoopocalipsis (2025) [480p] [ESP]
-https://archive.org/download/08_20260421_202604/Linux/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dq9HNsQchADVbzFU3pkkjevuQeM.jpg",Zoopocalipsis (2025) [480p] [ESP]
 https://archive.org/download/01_20251125_20251125_0530/Onifom/07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dq9HNsQchADVbzFU3pkkjevuQeM.jpg",Zoopocalipsis (2025) [480p] [ESP]
+https://archive.org/download/08_20260421_202604/Linux/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rDZOdMlT6pQHupWdKt4yAie5TaF.jpg",¡Los Jóvenes Titanes en acción! ven Space Jam (2021) [480p] [ESP]
 https://archive.org/download/pacto1/t33nt1t4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A0h5EGbmS3MTLj6TFpf3mwhXiZ0.jpg",¿Quién perdió un panda? (2019) [304p] [UND]
