@@ -80,15 +80,17 @@ https://archive.org/download/01_20260724_20260724_1755/Linux/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WYKWGp9zVR5rIYo8lWDzAks84Z.jpg" group-title="Acción",El Discipulo (2003) [1080p] [DUAL]
 https://archive.org/download/03_20260710_20260710/project/07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WYKWGp9zVR5rIYo8lWDzAks84Z.jpg" group-title="Acción",El Discipulo (2003) [480p] [DUAL]
-https://archive.org/download/12_20260425_202604/unix/07.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WYKWGp9zVR5rIYo8lWDzAks84Z.jpg" group-title="Acción",El Discipulo (2003) [480p] [DUAL]
 https://archive.org/download/9_20250723_20250723/linux/13.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WYKWGp9zVR5rIYo8lWDzAks84Z.jpg" group-title="Acción",El Discipulo (2003) [480p] [DUAL]
+https://archive.org/download/12_20260425_202604/unix/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6WJVfMFeLQJ8LuoduATLiM57v1d.jpg" group-title="Acción",El Día de la Independencia (1996) [480p] [DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yqodm3Kx3y6ipucd7RSoaxM14fB.jpg" group-title="Acción",El Día de la Independencia 2: Contraataque (2016) [480p] [DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fPJWlhXA2VXf4MlQ3JenVsz1iba.jpg" group-title="Acción",El Escuadrón Suicida (2021) [720p] [ESP]
 https://archive.org/download/pacto1/su1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dW5hpLuobfl6k9Tvajxv0b1e9u.jpg" group-title="Acción",El especialista Resurrección (2016) [720p] [DUAL]
+https://archive.org/download/002_20260909_20260909/Unix/002.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4oAt5z4IODM7yPFGevNJ1Qg7ij8.jpg" group-title="Acción",El Guardián: Último Refugio (2026) [720p] [DUAL]
 https://archive.org/download/04_20260628_202606/regedit/05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o9rByfNAkGJuXOSQLQ6UpUfGTOQ.jpg" group-title="Acción",El gángster el policía y el diablo (2019) [480p] [DUAL]
@@ -220,9 +222,9 @@ https://archive.org/download/02_20251014_202510/RPM/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg" group-title="Acción",Kill Bill Vol. 2 (2004) [720p] [ESP]
 https://archive.org/download/00gt_20210720/k1llb12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
-https://archive.org/download/05_20260604/Servers/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
 https://archive.org/download/06_20251017/rpm/06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
+https://archive.org/download/05_20260604/Servers/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5k3XRO7OoqEqUp2wg0syiOaRipK.jpg" group-title="Acción",Kill: Masacre En el Tren (2024) [480p] [DUAL]
 https://archive.org/download/05_20260501/upload/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBxFUHGMADr861QZSSgu9d11wjE.jpg" group-title="Acción",Kung Fu Sion (2004) [166p] [ESP]
@@ -342,17 +344,17 @@ https://archive.org/download/00naran/mo0rrrr1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/02_20260609/upload/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
-https://archive.org/download/01_20260630_20260630/regedit/01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/01_20260701_20260701_1722/project/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/02_20260609/upload/03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
+https://archive.org/download/01_20260630_20260630/regedit/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aq2vbzxcG5K3SSLReMqO5TettmE.jpg" group-title="Acción",Máquina de guerra (2026) [720p] [DUAL]
 https://archive.org/download/03_20260426_202604/Nuevos/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
-https://archive.org/download/daemons_202509/daemons/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
 https://archive.org/download/08_20260421_202604/Linux/12.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
+https://archive.org/download/daemons_202509/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kowCKRIO1xws2USrgWaPYdTZzYO.jpg" group-title="Acción",Nine-Ring Golden Dagger (2025) [480p] [DUAL]
 https://archive.org/download/12_20260502_202605/upload/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rHjnkuwEdfh31X0E0MofBfMUgi1.jpg" group-title="Acción",Normal (2026) [720p] [DUAL]
@@ -380,9 +382,9 @@ http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z3AGDMXtXfWextrNR9l6ajJxM4w.jpg" group-title="Acción",Pixeles (2015) [720p] [ESP]
 https://dl.dropboxusercontent.com/s/gwtch1d2bqq2cfq/pixeles.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiylEUJgWikljJJNB61u7dDPON.jpg" group-title="Acción",Plan familiar (2023) [480p] [DUAL]
-https://archive.org/download/03_20260426_20260426/Nuevos/07.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiylEUJgWikljJJNB61u7dDPON.jpg" group-title="Acción",Plan familiar (2023) [480p] [DUAL]
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/13.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiylEUJgWikljJJNB61u7dDPON.jpg" group-title="Acción",Plan familiar (2023) [480p] [DUAL]
+https://archive.org/download/03_20260426_20260426/Nuevos/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rOHTyGGKNBU26sLy0K4rkuuH9SA.jpg" group-title="Acción",Pompeya (2014) [720p] [DUAL]
 https://archive.org/download/05_20260725/Linux/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dgsnZW7zyChQfAzCtmLlPp5twpl.jpg" group-title="Acción",Power Rangers (2017) [720p] [ENG]
@@ -402,9 +404,9 @@ https://archive.org/download/03_20250820_20250820_1910/deb/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg" group-title="Acción",Rescate imposible (2025) [480p] [DUAL]
 https://archive.org/download/02_20260715_202607/daemons/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Acción",Resident Evil: 4 La resurrección (2010) [480p] [UND]
-https://archive.org/download/6_20200518_20200518/4.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Acción",Resident Evil: 4 La resurrección (2010) [480p] [UND]
 http://archive.org/download/6_20190711_201907/4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Acción",Resident Evil: 4 La resurrección (2010) [480p] [UND]
+https://archive.org/download/6_20200518_20200518/4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cC2dEleI8zDT045QhuqVjf527yv.jpg" group-title="Acción",Resident Evil: 6 Capítulo final (2016) [480p] [DUAL]
 https://archive.org/download/6_20200518_20200518/6.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cC2dEleI8zDT045QhuqVjf527yv.jpg" group-title="Acción",Resident Evil: 6 Capítulo final (2016) [480p] [ESP]
@@ -524,13 +526,13 @@ https://archive.org/download/cuartormuna/20.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yDWU8YyFkPnlVY627QXPvct8bz9.jpg" group-title="Acción",Thunderbolts* (2025) [480p] [DUAL]
 https://archive.org/download/03_20260426_202604/Nuevos/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" group-title="Acción",Tiempo de guerra (2025) [480p] [DUAL]
-https://archive.org/download/linux_202506/linux/10.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" group-title="Acción",Tiempo de guerra (2025) [480p] [DUAL]
 https://archive.org/download/01_20250609/bsd/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Acción",Tigre y Dragón 2: la Espada del Destino (2016) [480p] [DUAL]
-https://archive.org/download/00_20250930/unix/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" group-title="Acción",Tiempo de guerra (2025) [480p] [DUAL]
+https://archive.org/download/linux_202506/linux/10.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Acción",Tigre y Dragón 2: la Espada del Destino (2016) [480p] [DUAL]
 https://archive.org/download/06_20260504/upload/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Acción",Tigre y Dragón 2: la Espada del Destino (2016) [480p] [DUAL]
+https://archive.org/download/00_20250930/unix/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vbR5YirdyIQyLzWHALmdDAJshWC.jpg" group-title="Acción",Todo en Todas Partes al Mismo Tiempo (2022) [720p] [DUAL]
 https://archive.org/download/004_20260827/Linux/006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pAXIn7wFa6140zi6LzYMD6Rt8CD.jpg" group-title="Acción",Torrente 2: Misión en Marbella (2001) [480p] [ENG]
@@ -554,9 +556,9 @@ https://archive.org/download/descarga_202101/hgty/unch4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pfZQzTXaHQ6m517Q4la8p7D1AJn.jpg" group-title="Acción",Viaje al centro de la Tierra (1977) [1080p] [ESP]
 https://ia801502.us.archive.org/34/items/5044448658339135791/1_5044448658339135791.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
-https://archive.org/download/06_20260426/manjaritos/09.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
 https://archive.org/download/03_20250627_202506/RPM/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
+https://archive.org/download/06_20260426/manjaritos/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hj2mUTJktFXNA9cUtFptYiPXhEs.jpg" group-title="Acción",Xtremo (2021) [480p] [ESP]
 https://archive.org/download/dfrte/xtr3m.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg" group-title="Acción",Ángeles de Charlie (2019) [480p] [ESP]
@@ -2674,13 +2676,13 @@ https://archive.org/download/04_20251118/latex/05.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/e8KtlAif5YSMFLWAtG9nM97WYnT.jpg" group-title="Terror",Camino hacia el terror 3: Dados por Muertos (2009) [720p]
 https://archive.org/download/02_20260403_202604/up/03.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/l1vD4GY7tlT420KJ3xWTzyQ2Aa9.jpg" group-title="Terror",Camino Hacia el Terror 4: Inicios Sangrientos (2011) [720p] [DUAL]
-https://archive.org/download/04_20251118/latex/06.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/l1vD4GY7tlT420KJ3xWTzyQ2Aa9.jpg" group-title="Terror",Camino Hacia el Terror 4: Inicios Sangrientos (2011) [720p] [DUAL]
 https://archive.org/download/02_20260403_202604/up/04.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8fABep8FSRpeo8Ea4j3rfnoVgkg.jpg" group-title="Terror",Camino Hacia El Terror 5: Línea de Sangre (2012) [720p] [DUAL]
-https://archive.org/download/02_20260403_202604/up/05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/l1vD4GY7tlT420KJ3xWTzyQ2Aa9.jpg" group-title="Terror",Camino Hacia el Terror 4: Inicios Sangrientos (2011) [720p] [DUAL]
+https://archive.org/download/04_20251118/latex/06.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8fABep8FSRpeo8Ea4j3rfnoVgkg.jpg" group-title="Terror",Camino Hacia El Terror 5: Línea de Sangre (2012) [720p] [DUAL]
 https://archive.org/download/11_20251104/Gedit/08.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8fABep8FSRpeo8Ea4j3rfnoVgkg.jpg" group-title="Terror",Camino Hacia El Terror 5: Línea de Sangre (2012) [720p] [DUAL]
+https://archive.org/download/02_20260403_202604/up/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fQCtBbfKfDwFxGxGEsFustKCr3S.jpg" group-title="Terror",Camino Hacia el Terror 6: La Herencia (2014) [1080p] [DUAL]
 https://archive.org/download/02_20260403_202604/up/06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fQCtBbfKfDwFxGxGEsFustKCr3S.jpg" group-title="Terror",Camino Hacia el Terror 6: La Herencia (2014) [720p] [DUAL]
@@ -2731,6 +2733,8 @@ https://archive.org/download/05_20251202_202512/Linux/09.mp4
 https://archive.org/download/02_20260425_20260425_1709/Latex/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rGDJZzWMJpjz1d7xjcbLhilkX3H.jpg" group-title="Terror",Demoniaca (2020) [480p] [UND]
 https://archive.org/download/04_20250615_202506/atn/05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uGlx6638wn7QGjagJnYduc6QakS.jpg" group-title="Terror",Desaparecer Por Completo (2024) [1080p]
+https://archive.org/download/002_20260909_20260909/Unix/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/frNkbclQpexf3aUzZrnixF3t5Hw.jpg" group-title="Terror",Destino Final Lazos de Sangre (2025) [480p] [DUAL]
 https://archive.org/download/09_20260503_202605/Linux/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/49pzxbf1Eftz7wQZdVDVl8OM9bg.jpg" group-title="Terror",Disforia (2025) [720p] [ESP]
@@ -2746,9 +2750,9 @@ https://archive.org/download/04_20260501/upload/09.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i7e2Qxio7thoKKL0ceZlrlDhy4h.jpg" group-title="Terror",El ascenso del diablo (2020) [480p] [ENG]
 https://archive.org/download/tutoriales_linux_202402/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/11bNceOaK1kX7jigssY8FafJiqb.jpg" group-title="Terror",El Carnicero (2018) [720p] [DUAL]
-https://archive.org/download/05_20251029/MANJARO/05.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/11bNceOaK1kX7jigssY8FafJiqb.jpg" group-title="Terror",El Carnicero (2018) [720p] [DUAL]
 https://archive.org/download/index_20260430_1627/unix/09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/11bNceOaK1kX7jigssY8FafJiqb.jpg" group-title="Terror",El Carnicero (2018) [720p] [DUAL]
+https://archive.org/download/05_20251029/MANJARO/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2iL60r1pjCXNeLnbV3bxOXDLpUN.jpg" group-title="Terror",El cine embrujado (2023) [720p] [DUAL]
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dgpmAZv9pt9v61DWG1VIBlQgkZ3.jpg" group-title="Terror",El Coleccionista (2009) [720p] [DUAL]
@@ -2763,14 +2767,14 @@ https://archive.org/download/07_20260501/upload/08.mp4
 https://archive.org/download/07_20260501/upload/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x4jUJ0fF60SSOeUUTkaRtmnDvwG.jpg" group-title="Terror",El Conjuro 2 (2016) [480p] [DUAL]
 https://archive.org/download/03_20260522_20260522/Distros/06.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8HN29t4VxiOagq9jaVVwZJ6wIB.jpg" group-title="Terror",El Conjuro 3: el Diablo Me Obligó A Hacerlo (2021) [480p] [DUAL]
-https://archive.org/download/03_20260522_20260522/Distros/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8HN29t4VxiOagq9jaVVwZJ6wIB.jpg" group-title="Terror",El Conjuro 3: El diablo me obligó a hacerlo (2021) [480p] [DUAL]
 https://archive.org/download/07_20260501/upload/10.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg" group-title="Terror",El Conjuro 4: Últimos Ritos (2025) [480p] [DUAL]
-https://archive.org/download/03_20260522_20260522/Distros/07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8HN29t4VxiOagq9jaVVwZJ6wIB.jpg" group-title="Terror",El Conjuro 3: el Diablo Me Obligó A Hacerlo (2021) [480p] [DUAL]
+https://archive.org/download/03_20260522_20260522/Distros/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg" group-title="Terror",El Conjuro 4: Últimos ritos (2025) [480p] [DUAL]
 https://archive.org/download/05_20260502/upload/11.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg" group-title="Terror",El Conjuro 4: Últimos Ritos (2025) [480p] [DUAL]
+https://archive.org/download/03_20260522_20260522/Distros/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1278n7suZMFITT54k9GdVUX1Rcb.jpg" group-title="Terror",El Conjuro Siniestro (2025) [480p] [DUAL]
 https://archive.org/download/10_20260504_20260504/Linux/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cEoMAzPa9QJFIlLLdeWbKjpLOkF.jpg" group-title="Terror",El Demonio de Hielo (2021) [720p] [DUAL]
@@ -2845,10 +2849,10 @@ https://archive.org/download/06_20260426/manjaritos/03.mkv
 https://archive.org/download/04_20260708_202607/Linux/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/evDvchrDRS2i9jKcLJpixSLjx45.jpg" group-title="Terror",El Susurro (2025) [1080p] [ESP]
 https://archive.org/download/02_20260609/upload/01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1D2R2wIgbTyXTPzmyJIKSbVN9wG.jpg" group-title="Terror",El teléfono negro (2022) [480p] [DUAL]
-https://archive.org/download/05_20250626_202506/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1D2R2wIgbTyXTPzmyJIKSbVN9wG.jpg" group-title="Terror",El Teléfono Negro (2022) [480p] [DUAL]
 https://archive.org/download/03_20260522_20260522/Distros/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1D2R2wIgbTyXTPzmyJIKSbVN9wG.jpg" group-title="Terror",El teléfono negro (2022) [480p] [DUAL]
+https://archive.org/download/05_20250626_202506/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qxfTYqgFTP98kBTJSHdvIJd8zbH.jpg" group-title="Terror",El Valle de la Muerte (2021) [480p] [DUAL]
 https://archive.org/download/10_20260504_20260504/Linux/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e0a7YYs8V71EjdYxbG87vQRgKDX.jpg" group-title="Terror",Eliminar Amigo (2014) [480p] [ESP]
@@ -2910,9 +2914,9 @@ https://archive.org/download/asterix_202506/pbx/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg" group-title="Terror",Five Nights At Freddy_s 2 (2025) [480p] [DUAL]
 https://archive.org/download/05_20260501/upload/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg" group-title="Terror",Five Nights At Freddy’S (2023) [720p] [DUAL]
-https://archive.org/download/05_20260501/upload/03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg" group-title="Terror",Five Nights At Freddy’S (2023) [720p] [DUAL]
 https://archive.org/download/05_20260406_202604/DEBIAN/06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg" group-title="Terror",Five Nights At Freddy’S (2023) [720p] [DUAL]
+https://archive.org/download/05_20260501/upload/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7JPK9FKrWrGWchBPhdoIWC6qktB.jpg" group-title="Terror",Gemelo siniestro (2022) [480p] [DUAL]
 https://archive.org/download/05_20250626_202506/linux/13.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6TU88oDDNRYnuPGvViwPxGZNY1m.jpg" group-title="Terror",Ghostland (2018) [480p] [DUAL]
@@ -2922,9 +2926,9 @@ https://archive.org/download/11_20251104/Gedit/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/77pqeCDToMB0EpfJyT8JUiupze1.jpg" group-title="Terror",Ghosts (1997) [360p] [UND]
 http://archive.org/download/0_20200403/1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ilDZwFBKOYVQzMmHfOCSgvAaEWQ.jpg" group-title="Terror",Gonjiam: Hospital Maldito (2018) [480p] [DUAL]
-https://archive.org/download/07_20260430_20260430_2109/editores/05.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ilDZwFBKOYVQzMmHfOCSgvAaEWQ.jpg" group-title="Terror",Gonjiam: Hospital Maldito (2018) [480p] [DUAL]
 https://archive.org/download/01_20250722_20250722_1518/cursos/03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ilDZwFBKOYVQzMmHfOCSgvAaEWQ.jpg" group-title="Terror",Gonjiam: Hospital Maldito (2018) [480p] [DUAL]
+https://archive.org/download/07_20260430_20260430_2109/editores/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ilDZwFBKOYVQzMmHfOCSgvAaEWQ.jpg" group-title="Terror",Gonjiam: Hospital Maldito (2018) [720p] [DUAL]
 https://dl.dropboxusercontent.com/s/1s72ufp19xnrphg/gonjiam.haunted.asylum.2018.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aNbP2LrQ82eutT9tDort4P9RkfQ.jpg" group-title="Terror",Gothika (2003) [1080p] [DUAL]
@@ -3042,13 +3046,13 @@ https://archive.org/download/002_20260814/deb/004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3loVbnQ9hmay4OA6QjV6yMpHRYf.jpg" group-title="Terror",La asistente de la morgue (2026) [720p] [DUAL]
 https://archive.org/download/servers_202608/Git/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zziZJOyTpW1UOBulXufRrQPr1Xj.jpg" group-title="Terror",La autopsia de Jane Doe (2016) [480p] [DUAL]
-https://archive.org/download/07_20260501/upload/00.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zziZJOyTpW1UOBulXufRrQPr1Xj.jpg" group-title="Terror",La autopsia de Jane Doe (2016) [480p] [DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qzKNJRldzzXI09vkdA6Un4axTgf.jpg" group-title="Terror",La Bruja (2016) [720p] [DUAL]
-https://archive.org/download/03_20260522_20260522/Distros/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zziZJOyTpW1UOBulXufRrQPr1Xj.jpg" group-title="Terror",La autopsia de Jane Doe (2016) [480p] [DUAL]
+https://archive.org/download/07_20260501/upload/00.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qzKNJRldzzXI09vkdA6Un4axTgf.jpg" group-title="Terror",La Bruja (2016) [720p] [DUAL]
 https://archive.org/download/linux_202604/unix/06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qzKNJRldzzXI09vkdA6Un4axTgf.jpg" group-title="Terror",La Bruja (2016) [720p] [DUAL]
+https://archive.org/download/03_20260522_20260522/Distros/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pTvepWVgQQmN71e99pQjhLnoBN0.jpg" group-title="Terror",La cabaña del terror (2012) [1080p] [DUAL]
 https://archive.org/download/000_20260819/Unix/000.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kYeTcmPmuMvBgmwOdOtR5fUwRuH.jpg" group-title="Terror",La Calle del Terror: la Reina del Baile (2025) [720p] [DUAL]
@@ -3065,6 +3069,8 @@ https://archive.org/download/03_20260426_20260426/Nuevos/03.mkv
 https://archive.org/download/00pera/l4cur4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6mAcxYNN0LtPKLViAhqthqDzdDc.jpg" group-title="Terror",La Exorcista (2025) [720p] [DUAL]
 https://archive.org/download/03_20260426_20260426/Nuevos/02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yntk3hZ2l7ybh9L8gtwOMqOR5LU.jpg" group-title="Terror",La forma del miedo (2022) [720p] [ESP]
+https://archive.org/download/002_20260909_20260909/Unix/003.mkv
 #EXTINF:-1 group-title="Terror",La Herencia del Mal (2026) [1080p] [DUAL]
 https://archive.org/download/02_20260617_20260617_0812/new/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4KjMMLHqKcAxNRTd5mhMDtNXW1P.jpg" group-title="Terror",La hermanastra fea (2025) [720p] [DUAL]
@@ -3126,9 +3132,9 @@ https://archive.org/download/05_20260501/upload/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l2e7dnFYGnXVA0sTahF6z0z62JL.jpg" group-title="Terror",La Noche del Demonio: Capítulo 3 (2015) [480p] [DUAL]
 https://archive.org/download/02_20251017/rpm/789.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/im4yhz8A9LvXgu1nBPSIBtaBIf6.jpg" group-title="Terror",La Noche del Demonio: la Puerta Roja (2023) [480p] [DUAL]
-https://archive.org/download/05_20260501/upload/10.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/im4yhz8A9LvXgu1nBPSIBtaBIf6.jpg" group-title="Terror",La Noche del Demonio: la Puerta Roja (2023) [480p] [DUAL]
 https://archive.org/download/02_20251017/rpm/345.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/im4yhz8A9LvXgu1nBPSIBtaBIf6.jpg" group-title="Terror",La Noche del Demonio: la Puerta Roja (2023) [480p] [DUAL]
+https://archive.org/download/05_20260501/upload/10.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cTc4svNfcS83LxudQK89tewy86Z.jpg" group-title="Terror",La Noche del Demonio: la Última Llave (2018) [480p] [DUAL]
 https://archive.org/download/05_20260501/upload/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cTc4svNfcS83LxudQK89tewy86Z.jpg" group-title="Terror",La Noche del Demonio: la Última Llave (2018) [480p] [DUAL]
@@ -3242,9 +3248,9 @@ https://archive.org/download/ck-2_20210106/3334/pola125.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NtdiwKhQkUtEtV9ckzKjaYRtVX.jpg" group-title="Terror",Mártires (2008) [224p] [UND]
 http://archive.org/download/playpause-3/m4r71rs.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NtdiwKhQkUtEtV9ckzKjaYRtVX.jpg" group-title="Terror",Mártires (2008) [480p] [DUAL]
-https://archive.org/download/9_20250723_20250723/linux/07.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NtdiwKhQkUtEtV9ckzKjaYRtVX.jpg" group-title="Terror",Mártires (2008) [480p] [DUAL]
 https://archive.org/download/07_20260430_20260430_2109/editores/09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NtdiwKhQkUtEtV9ckzKjaYRtVX.jpg" group-title="Terror",Mártires (2008) [480p] [DUAL]
+https://archive.org/download/9_20250723_20250723/linux/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NtdiwKhQkUtEtV9ckzKjaYRtVX.jpg" group-title="Terror",Mártires (2008) [480p] [ENG]
 https://archive.org/download/00chich/m4rty.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5e877bTsl71ENZLtQ7L1lGVV9yN.jpg" group-title="Terror",Nadie (2021) [358p] [ESP]
@@ -3264,11 +3270,11 @@ https://archive.org/download/05_20260406_202604/DEBIAN/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1NDlMWUkZTikx9aDm7SwL8GOuhd.jpg" group-title="Terror",No alimentes a los niños (2025) [720p] [DUAL]
 https://archive.org/download/07_20260502_202605/upload/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/klVYa71WolLPhtz0k6FbE4tRidt.jpg" group-title="Terror",No dormirás esta noche (2024) [480p] [DUAL]
-https://archive.org/download/linux_202604/unix/10.mp4
+https://archive.org/download/06_20260426/manjaritos/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/klVYa71WolLPhtz0k6FbE4tRidt.jpg" group-title="Terror",No dormirás esta noche (2024) [480p] [DUAL]
 https://archive.org/download/11_20251104/Gedit/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/klVYa71WolLPhtz0k6FbE4tRidt.jpg" group-title="Terror",No dormirás esta noche (2024) [480p] [DUAL]
-https://archive.org/download/06_20260426/manjaritos/01.mp4
+https://archive.org/download/linux_202604/unix/10.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1gHygrBcGU2dL9DHcvnj4FJc8pF.jpg" group-title="Terror",No Entrar (2026) [720p] [DUAL]
 https://archive.org/download/02_20260715_202607/daemons/07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zzQPQH7s0LZbSNluMnzFVTfezSu.jpg" group-title="Terror",No Estamos Solos (2016) [360p] [ESP]
@@ -3370,9 +3376,9 @@ http://archive.org/download/01_20200613_202006/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ovf2BQu0BfLFt9XpgYcd5iIb7Hi.jpg" group-title="Terror",Reflejos Siniestros (2019) [268p] [UND]
 http://ia801507.us.archive.org/7/items/000_20200223_20200223_0200/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kn63tQpkGoOqbncnrGhpr1tFHsJ.jpg" group-title="Terror",Regalo maldito (2025) [720p] [DUAL]
-https://archive.org/download/05_20251029/MANJARO/04.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kn63tQpkGoOqbncnrGhpr1tFHsJ.jpg" group-title="Terror",Regalo maldito (2025) [720p] [DUAL]
 https://archive.org/download/10_20260425_20260425/tex/07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kn63tQpkGoOqbncnrGhpr1tFHsJ.jpg" group-title="Terror",Regalo maldito (2025) [720p] [DUAL]
+https://archive.org/download/05_20251029/MANJARO/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mJM6NMqynC2P1kvqmVD2K8Sa8AQ.jpg" group-title="Terror",Reposo absoluto (2023) [720p] [DUAL]
 https://archive.org/download/010_20260808/Linux/003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pHgBhrBMJj8gthzDLZmurw3zV7R.jpg" group-title="Terror",Resident Evil: 1 El Huésped Maldito (2002) [480p] [ESP]
@@ -3424,9 +3430,9 @@ https://archive.org/download/03_20260505_20260505_1914/Linux/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ofJTmVJb3Wz55xkkGeEcIYWQlgS.jpg" group-title="Terror",Secretos oscuros (2019) [480p] [ESP]
 http://ia801409.us.archive.org/30/items/000_20200106/1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg" group-title="Terror",Shadow of God (2025) [720p] [DUAL]
-https://archive.org/download/07_20260501/upload/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg" group-title="Terror",Shadow of God (2025) [720p] [DUAL]
 https://archive.org/download/02_20260502_20260502/upload/09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg" group-title="Terror",Shadow of God (2025) [720p] [DUAL]
+https://archive.org/download/07_20260501/upload/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cvrjW1d1P80Ri2VQO5S8oPG4YBZ.jpg" group-title="Terror",Shake Rattle & Roll Evil Origins (2026) [1080p] [DUAL]
 https://archive.org/download/005_20260803/Linux/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qZlGMnnm8Zmztpuis98uWsWuGEX.jpg" group-title="Terror",Shark Evil (2023) [480p] [DUAL]
@@ -3476,9 +3482,9 @@ https://archive.org/download/9_20250723_20250723/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bThFlzGyuIwA0ZL9Xe0bcCjGj62.jpg" group-title="Terror",Sé Lo Que Hicieron el Verano Pasado (2025) [480p] [DUAL]
 https://archive.org/download/03_20260424/Linux/10.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cRNMX3xXDjAxxcdrPqxsbSa9im9.jpg" group-title="Terror",Tarot (2024) [480p] [DUAL]
-https://archive.org/download/04_20250728_20250728_1905/Linux/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cRNMX3xXDjAxxcdrPqxsbSa9im9.jpg" group-title="Terror",Tarot (2024) [480p] [DUAL]
 https://archive.org/download/07_20260502_202605/upload/00.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cRNMX3xXDjAxxcdrPqxsbSa9im9.jpg" group-title="Terror",Tarot (2024) [480p] [DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gs91aIwM7dB152Wbg84LVrpFM2T.jpg" group-title="Terror",Te Veo (2019) [480p] [DUAL]
 https://archive.org/download/11_20260503_20260503/upload/06.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A6QNBDV1u3oaq3guBHGKcEJkYkX.jpg" group-title="Terror",Teléfono Negro 2 (2025) [480p] [DUAL]
@@ -3587,6 +3593,14 @@ https://archive.org/download/05_20250626_202506/linux/08.mp4
 https://archive.org/download/06_20260426/manjaritos/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg" group-title="Terror",Zombieland 2: Tiro de Gracia (2019) [480p] [DUAL]
 https://archive.org/download/00200_20200117_0628/00200.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/hJx9gqUJgWXRkFpIbCcNYrkqAQX.jpg" group-title="Terror",[REC] (2007) [720p] [ESP]
+https://archive.org/download/002_20260909_20260909/Unix/004.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/i7wr12YmZfJxXv2R6ksvSffyhAT.jpg" group-title="Terror",[REC] 2 (2009) [720p] [ESP]
+https://archive.org/download/002_20260909_20260909/Unix/007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cRVSZ03HIXKOKfRaKd00gZC5uqA.jpg" group-title="Terror",[REC] 3 El comienzo (2012) [720p] [ESP]
+https://archive.org/download/002_20260909_20260909/Unix/005.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg" group-title="Terror",[REC] 4 Apocalipsis (2014) [720p] [ESP]
+https://archive.org/download/002_20260909_20260909/Unix/006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q6Rmmz5MYWHBqqdxhW6nsj0vgts.jpg" group-title="Terror",¡Pooka! (2018) [320p] [UND]
 http://ia601500.us.archive.org/8/items/000_20191210/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vJrlt9oldbblmnIlVwPe620vMiB.jpg" group-title="Western",Cometieron Dos Errores (1968)
