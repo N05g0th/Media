@@ -172,9 +172,9 @@ https://archive.org/download/026_20200428/026.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p08mUnCktZ2opGihZTAn7OqzOoi.jpg" group-title="Acción",Gladiator (2000) [480p] [DUAL]
 https://archive.org/download/09_20260503_202605/Linux/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
-https://archive.org/download/09_20260503_202605/Linux/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
 https://archive.org/download/5432_20241222/sabayon/674534.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
+https://archive.org/download/09_20260503_202605/Linux/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024)) [480p] [UND]
 https://archive.org/download/5432_20241222/sabayon/24524r.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg" group-title="Acción",Godzilla Vs Kong (2021) [480p] [ESP]
@@ -193,6 +193,16 @@ https://archive.org/download/007_20260807/Linux/011.mkv
 https://archive.org/download/002_20260819_20260819_1814/Linux/009.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2EfGFoNpf1TGi0KdXgALbmcBJAI.jpg" group-title="Acción",Historia Policiaca (1985) [480p] [DUAL]
 https://archive.org/download/refrigeradora/refrigeradora.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg" group-title="Acción",Hombres de negro (1997) [720p] [DUAL]
+https://archive.org/download/001_20260910_20260910/Unix/004.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zX1Hi0j7Yn4jv2eDHyIMlHP8lDb.jpg" group-title="Acción",Hombres de Negro 2 (2002) [1080p] [DUAL]
+https://archive.org/download/001_20260910_20260910/Unix/002.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zX1Hi0j7Yn4jv2eDHyIMlHP8lDb.jpg" group-title="Acción",Hombres de Negro 2 (2002) [480p] [UND]
+https://archive.org/download/001_20260910_20260910/Unix/002.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dmd8Zw59x5RTQJ0R0JjBkhW3GUE.jpg" group-title="Acción",Hombres de Negro 3 (2012) [720p] [DUAL]
+https://archive.org/download/001_20260910_20260910/Unix/003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ewPz4CtrgyQZaCRpubtG5IedIkp.jpg" group-title="Acción",Hombres de negro Internacional (2019) [720p] [DUAL]
+https://archive.org/download/001_20260910_20260910/Unix/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lZZu0UEPtEeZ90fkX6i1pmEHOs8.jpg" group-title="Acción",Hunting Season (2025) [720p] [DUAL]
 https://archive.org/download/03_20260704/Linux/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zI4yOVjcC51FNI1K3H5poIfm8Wn.jpg" group-title="Acción",Igor Grom Contra el Doctor Peste [720p] [ESP]
@@ -342,9 +352,9 @@ https://archive.org/download/monito_202102/monito.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4jcJHqIVsb4MFdYrDajXeEVlDvH.jpg" group-title="Acción",Morbius (2022) [480p] [UND]
 https://archive.org/download/00naran/mo0rrrr1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
-https://archive.org/download/02_20260609/upload/03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/01_20260701_20260701_1722/project/01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
+https://archive.org/download/02_20260609/upload/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/02_20260609/upload/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
@@ -1106,9 +1116,9 @@ https://archive.org/download/004_20260906/Unix/002.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6QG3MG4HkOrJPJFtIlwL6NLhVOS.jpg" group-title="Comedia",El arte de ser adulto (2020)
 https://www.dropbox.com/s/f096jhwm57xt6tt/thekingofstatenisland.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eB3ASwiM7SvLClJB5cuN9eTNcFe.jpg" group-title="Comedia",El descanso (2006) [720p] [DUAL]
-https://archive.org/download/09_20260430_20260430_1951/editores/08.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eB3ASwiM7SvLClJB5cuN9eTNcFe.jpg" group-title="Comedia",El descanso (2006) [720p] [DUAL]
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eB3ASwiM7SvLClJB5cuN9eTNcFe.jpg" group-title="Comedia",El descanso (2006) [720p] [DUAL]
+https://archive.org/download/09_20260430_20260430_1951/editores/08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="Comedia",El diablo viste a la moda (2006) [1080p] [DUAL]
 https://archive.org/download/06_20260630/project/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="Comedia",El diablo viste a la moda 2 (2026) [720p] [DUAL]
@@ -1413,10 +1423,10 @@ http://archive.org/download/plkbhgfhnhfssksklkzxjxks/plkbhgfhnhfssksklkzxjxks.mp
 https://archive.org/download/06_20260504/upload/11.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bflYSyIxPCL1DJJ4bp3t6VBJ1Dj.jpg" group-title="Comedia",Tal Vez una Historia de Amor (2018) [720p] [ENG]
 https://dl.dropboxusercontent.com/s/hjvcz5z4nszll0d/maybe%20a%20love%20story%20%282018%29ss_cany.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxPn58VngH84YXYT9JUQ9QclLsV.jpg" group-title="Comedia",También esto pasará (2025) [480p] [ESP]
-https://archive.org/download/05_20260502/upload/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxPn58VngH84YXYT9JUQ9QclLsV.jpg" group-title="Comedia",También Esto Pasará (2025) [480p] [ESP]
 https://archive.org/download/03_20250716_20250716_1435/cacas/05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxPn58VngH84YXYT9JUQ9QclLsV.jpg" group-title="Comedia",También esto pasará (2025) [480p] [ESP]
+https://archive.org/download/05_20260502/upload/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rpadMMk5g2ivupPqtTQMnHIxJK0.jpg" group-title="Comedia",Ted (2012) [480p] [ESP]
 https://archive.org/download/10010010/10010010.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xb63VT8E4Q2RjLT7qnzvc5jRFAQ.jpg" group-title="Comedia",The Wash (2001) [720p] [UND]
@@ -2150,9 +2160,9 @@ https://dl.dropbox.com/s/i78a7yxply2uf7i/just.add.romance.2019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg" group-title="Romance",A pesar de ti (2025) [480p] [DUAL]
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jpUFowlZitohC06voHrIyDAPVZ5.jpg" group-title="Romance",Amores Materialistas (2025) [480p] [DUAL]
-https://archive.org/download/04_20250819/text-editors/06.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jpUFowlZitohC06voHrIyDAPVZ5.jpg" group-title="Romance",Amores Materialistas (2025) [480p] [DUAL]
 https://archive.org/download/07_20260430_20260430_2109/editores/10.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jpUFowlZitohC06voHrIyDAPVZ5.jpg" group-title="Romance",Amores Materialistas (2025) [480p] [DUAL]
+https://archive.org/download/04_20250819/text-editors/06.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aTfDo8S8pbfnhR75olzICXo4m0F.jpg" group-title="Romance",Bajo la Torre Eiffel (2019) [480p] [ESP]
 https://dl.dropbox.com/s/s78ftytpl0xjlo6/under%20the%20eiffel%20tower.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dsafRvwmYjcJMBZVCjm3hbos3S0.jpg" group-title="Romance",Cada día (2018) [720p] [DUAL]
@@ -2215,6 +2225,10 @@ https://archive.org/download/linux_20260713/project/06.mkv
 https://archive.org/download/02_20260613/YA/05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cwSNPmlySGDZTOyLRhPfRvQksyv.jpg" group-title="Romance",¡Hombre al Agua! (2018) [720p] [ESP]
 https://dl.dropboxusercontent.com/s/zvrwsfvhksywxpf/overboard.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nKTs0OSNRzsIVV3qQo5kHTyAh3b.jpg" group-title="Romance",Ébano (2026) [480p] [UND]
+https://archive.org/download/001_20260910_20260910/Unix/001.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nKTs0OSNRzsIVV3qQo5kHTyAh3b.jpg" group-title="Romance",Ébano (2026) [720p] [ESP]
+https://archive.org/download/001_20260910_20260910/Unix/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aBJq3ZFHgZsZzmUjiHHuZzWew1D.jpg" group-title="Suspense",8 Minutos antes de morir (2011) [720p] [DUAL]
 https://archive.org/download/02_20260502_20260502/upload/11.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tEiu83QxMMWWD8gWUtXR4piF1Iw.jpg" group-title="Suspense",Along Came The Devil (2018) [324p] [ESP]
