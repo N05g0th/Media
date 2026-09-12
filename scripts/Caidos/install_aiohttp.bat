@@ -1,2 +1,2 @@
 @echo off
-pip install aiohttp
+py -m pip install aiohttp
