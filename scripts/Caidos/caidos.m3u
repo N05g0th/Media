@@ -1,7 +1,91 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tzvDjwsviMp6mdkNnnxhO3oIDUv.jpg",Espias en manada (2020) [720p] [UND]
-https://archive.org/download/3spe3c1as/r3c3t4r1o/3spe3c1as/3spe3c1as.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jZMETY2uDWMoTZ9icGhSaiKzPgE.jpg",Mi Amigo Enzo (2019) [480p] [DUAL]
-https://archive.org/download/00200_201912/00200.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",Super Mario Bros. La película (2023) [240p] [UND]
-http://archive.org/download/img-20200521-172454-hdr/4pru3b4d31n7r0.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg" group-title="Acción",Capitán América Civil War (2016) [1080p] [DUAL]
+https://archive.org/download/001_20260813/Linux/001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg" group-title="Acción",Capitán América El Primer Vengador (2011) [1080p] [DUAL]
+https://archive.org/download/001_20260813/Linux/002.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" group-title="Acción",Capitán América y el Soldado del Invierno (2014) [1080p] [DUAL]
+https://archive.org/download/001_20260813/Linux/003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kKBHjBY9RLPyIJaycEdduPj0cjB.jpg" group-title="Drama",Inocencia interrumpida (1999) [720p] [DUAL]
+https://archive.org/download/010_20260808/Linux/005.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m9pEtIV8qtARybEQeUImvFiHGzV.jpg" group-title="Drama",Invencible (2006) [720p] [DUAL]
+https://archive.org/download/006_20260810/Linux/005.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m9pEtIV8qtARybEQeUImvFiHGzV.jpg" group-title="Drama",Invencible (2006) [720p] [DUAL]
+https://archive.org/download/010_20260808/Linux/006.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a29ZaTGw6TfH8AqFwTsTOB19m24.jpg" group-title="Terror",The Seventh Sign (1988) [720p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/009.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg" group-title="Acción",El reino prohibido (2008) [720p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/008.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l0MP9swm7E4C9owBJvHl7NNeKFn.jpg" group-title="Drama",La mala noche (2019) [720p] [ESP]
+https://archive.org/download/010_20260808/Linux/002.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bGYMxXWAwSNVvuRkuZnoae4O33P.jpg" group-title="Drama",Lo mejor de mi vida (2015) [720p] [DUAL]
+https://archive.org/download/001_20260813/Linux/005.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kuczW9drno5YGtBBoaaQkgFYAdi.jpg" group-title="Western",Horizon An American Saga - Chapter 1 (2024) [720p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/004.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg" group-title="Drama",Lost in Translation (2003) [720p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/005.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg" group-title="Drama",Oppenheimer (2023) [720p] [DUAL]
+https://archive.org/download/010_20260808/Linux/010.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dWMiHlKz0OsbVXEEZR3hYyWHcdq.jpg" group-title="Suspense",The Gates (2026) [720p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vTCLPuqNhw0cmftToCUdgqMfPq2.jpg" group-title="Drama",Talentos ocultos (2016) [720p] [DUAL]
+https://archive.org/download/010_20260808/Linux/011.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/88dzElDsn6TUvRjJNMcvZ4f5ShP.jpg" group-title="Terror",A Tale of Two Sisters (2003) [1080p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/002.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbZWUFICECQGumZL7V2z0HgkRwe.jpg" group-title="Acción",Leones por corderos (2007) [720p]
+https://archive.org/download/010_20260808/Linux/009.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rKwR3eZ2Pa7wQk0tuDfekzMWaLq.jpg" group-title="Drama",The Village (2004) [720p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/010.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7E14ZPR7SehW7Tpm2cVCkR6k3l7.jpg" group-title="Drama",The Wolf of Wall Street (2013) [720p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/011.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/15Hs6RG2V4zOEJKi8zRazYqQ5PQ.jpg" group-title="Comedia",Jackass La última y nos vamos (2026) [720p] [DUAL]
+https://archive.org/download/006_20260810/Linux/006.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dNRGnUmBJwxa8VitUPbz99KdPnO.jpg" group-title="Comedia",La boda de mi madre (2025) [720p] [DUAL]
+https://archive.org/download/001_20260813/Linux/004.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9vWqRab0UbFvSAMvWE4D7LYpcub.jpg" group-title="Acción",Ataque fatal (2019) [720p] [DUAL]
+https://archive.org/download/006_20260810/Linux/001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zMq3mMxyTpgyfO2GNdGiiPN8ULH.jpg" group-title="Terror",Celebración Macabra (2024) [720p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/004.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iDBMq3mTtXueCNo9P4I4o4Ut4iM.jpg" group-title="Terror",Conjuros del más allá (2016) [720p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/006.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i2UJD5QvrUBAtAwRKW2RhWvS7Xv.jpg" group-title="Terror",Hasta que la muerte nos separe (2023) [720p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7DgCv4sOScbIo99VPcTXk7C4UQD.jpg" group-title="Fantasía",La Leyenda del Jinete Sin Cabeza (1999) [1080p] [DUAL]
+https://archive.org/download/010_20260808/Linux/007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rjOfp2pBnsmzDLURatBgaRDDapC.jpg" group-title="Terror",El Destripador La Historia no Contada (2021) [720p] [DUAL]
+https://archive.org/download/010_20260808/Linux/001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ufNBNtTFvGstZrL0mC34mRnnpe.jpg" group-title="Terror",La Maldición de las Hermanas (2009) [1080p] [DUAL]
+https://archive.org/download/010_20260808/Linux/008.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rCfVv40XBQ7SEUibGARr5AR9QtT.jpg" group-title="Suspense",Bajo anestesia (2007) [720p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sV2HxWbEn4J0Y9CKyZqG4pLmjOP.jpg" group-title="Animación",La heroína del moño (2026) [1080p] [DUAL]
+https://archive.org/download/006_20260810/Linux/007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x8PUdXCGSM6iDzzMonLRJukgGci.jpg" group-title="Suspense",Cujo (1983) [720p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/grNmyt14WAFXYWkteIbIcFP5A4O.jpg" group-title="Aventura",Donde las águilas se atreven (1968) [720p] [DUAL]
+https://archive.org/download/006_20260810/Linux/003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/asa3BPrLLwKzAs6tIfXcPhdh6Tr.jpg" group-title="Suspense",El secreto de Lyla (2022) [720p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/009.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6J69iDonqx7sLURtwD9iOjYmr1d.jpg" group-title="Suspense",El ultimo refugio (2024) [720p] [DUAL]
+https://archive.org/download/010_20260808/Linux/004.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a4Uwb4vnep76r1HRNduFgT9MRez.jpg" group-title="Terror",Midsommar (2019) [720p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/006.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g1v1ogfa8PCvcYJ1JSmrqbcHMAP.jpg" group-title="Terror",Monkey’s Magic Merry Go Round (2026)
+https://archive.org/download/003_20260730_20260730_1919/Unix/006.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kPj7A7Hk6GbVJFw4u0bytNFUD1e.jpg" group-title="Drama",Cloud Atlas La Red Invisible (2012) [480p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/005.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/pbcXpZgem8kgr90RwIUNAbC2ite.jpg" group-title="Aventura",Solace (2015) [720p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/002.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mJM6NMqynC2P1kvqmVD2K8Sa8AQ.jpg" group-title="Terror",Reposo absoluto (2023) [720p] [DUAL]
+https://archive.org/download/010_20260808/Linux/003.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yMZZfzXzB5EolDIP9Z6kpW0SdFi.jpg" group-title="Aventura",The Odyssey (2026) [720p] [DUAL]
+https://archive.org/download/002_20260810_202608/Linux/008.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r9YVidx1PEohZLNtyJm05OMiPuD.jpg" group-title="Terror",Ritos Ocultos (2023) [720p] [DUAL]
+https://archive.org/download/006_20260810/Linux/008.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/huPpcGEVt8GFJI9Xj4nf6cPMFqM.jpg" group-title="Drama",El club de los vándalos (2024) [720p] [DUAL]
+https://archive.org/download/006_20260810/Linux/004.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/blfTYXDP1luoeku48pVkrZ6Zjwv.jpg" group-title="Ciencia ficción",Buena Suerte Diviertete No mueras (2026) [720p] [DUAL]
+https://archive.org/download/006_20260810/Linux/002.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wX5PCehyiwfhLXp7WJwTQyWMgpr.jpg" group-title="Drama",El médico de Viena (2023) [720p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xcrjndiih15ujufz8zEfBu06dOJ.jpg" group-title="Drama",El último rey de Escocia (2006) [720p] [DUAL]
+https://archive.org/download/007_20260807_202608/Unix/010.mkv
