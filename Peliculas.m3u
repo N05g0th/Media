@@ -172,9 +172,9 @@ https://archive.org/download/026_20200428/026.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p08mUnCktZ2opGihZTAn7OqzOoi.jpg" group-title="Acción",Gladiator (2000) [480p] [DUAL]
 https://archive.org/download/09_20260503_202605/Linux/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
-https://archive.org/download/5432_20241222/sabayon/674534.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
 https://archive.org/download/09_20260503_202605/Linux/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
+https://archive.org/download/5432_20241222/sabayon/674534.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024)) [480p] [UND]
 https://archive.org/download/5432_20241222/sabayon/24524r.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg" group-title="Acción",Godzilla Vs Kong (2021) [480p] [ESP]
@@ -232,9 +232,9 @@ https://archive.org/download/02_20251014_202510/RPM/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg" group-title="Acción",Kill Bill Vol. 2 (2004) [720p] [ESP]
 https://archive.org/download/00gt_20210720/k1llb12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
-https://archive.org/download/06_20251017/rpm/06.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
 https://archive.org/download/05_20260604/Servers/03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
+https://archive.org/download/06_20251017/rpm/06.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5k3XRO7OoqEqUp2wg0syiOaRipK.jpg" group-title="Acción",Kill: Masacre En el Tren (2024) [480p] [DUAL]
 https://archive.org/download/05_20260501/upload/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBxFUHGMADr861QZSSgu9d11wjE.jpg" group-title="Acción",Kung Fu Sion (2004) [166p] [ESP]
@@ -352,19 +352,19 @@ https://archive.org/download/monito_202102/monito.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4jcJHqIVsb4MFdYrDajXeEVlDvH.jpg" group-title="Acción",Morbius (2022) [480p] [UND]
 https://archive.org/download/00naran/mo0rrrr1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
-https://archive.org/download/01_20260701_20260701_1722/project/01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
-https://archive.org/download/02_20260609/upload/03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/02_20260609/upload/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/01_20260630_20260630/regedit/01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
+https://archive.org/download/02_20260609/upload/03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
+https://archive.org/download/01_20260701_20260701_1722/project/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aq2vbzxcG5K3SSLReMqO5TettmE.jpg" group-title="Acción",Máquina de guerra (2026) [720p] [DUAL]
 https://archive.org/download/03_20260426_202604/Nuevos/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
-https://archive.org/download/08_20260421_202604/Linux/12.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
 https://archive.org/download/daemons_202509/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
+https://archive.org/download/08_20260421_202604/Linux/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kowCKRIO1xws2USrgWaPYdTZzYO.jpg" group-title="Acción",Nine-Ring Golden Dagger (2025) [480p] [DUAL]
 https://archive.org/download/12_20260502_202605/upload/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rHjnkuwEdfh31X0E0MofBfMUgi1.jpg" group-title="Acción",Normal (2026) [720p] [DUAL]
@@ -392,9 +392,9 @@ http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z3AGDMXtXfWextrNR9l6ajJxM4w.jpg" group-title="Acción",Pixeles (2015) [720p] [ESP]
 https://dl.dropboxusercontent.com/s/gwtch1d2bqq2cfq/pixeles.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiylEUJgWikljJJNB61u7dDPON.jpg" group-title="Acción",Plan familiar (2023) [480p] [DUAL]
-https://archive.org/download/02_20260419_20260419_2355/Debianitos/13.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiylEUJgWikljJJNB61u7dDPON.jpg" group-title="Acción",Plan familiar (2023) [480p] [DUAL]
 https://archive.org/download/03_20260426_20260426/Nuevos/07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiylEUJgWikljJJNB61u7dDPON.jpg" group-title="Acción",Plan familiar (2023) [480p] [DUAL]
+https://archive.org/download/02_20260419_20260419_2355/Debianitos/13.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rOHTyGGKNBU26sLy0K4rkuuH9SA.jpg" group-title="Acción",Pompeya (2014) [720p] [DUAL]
 https://archive.org/download/05_20260725/Linux/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dgsnZW7zyChQfAzCtmLlPp5twpl.jpg" group-title="Acción",Power Rangers (2017) [720p] [ENG]
@@ -414,9 +414,9 @@ https://archive.org/download/03_20250820_20250820_1910/deb/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg" group-title="Acción",Rescate imposible (2025) [480p] [DUAL]
 https://archive.org/download/02_20260715_202607/daemons/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Acción",Resident Evil: 4 La resurrección (2010) [480p] [UND]
-http://archive.org/download/6_20190711_201907/4.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Acción",Resident Evil: 4 La resurrección (2010) [480p] [UND]
 https://archive.org/download/6_20200518_20200518/4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Acción",Resident Evil: 4 La resurrección (2010) [480p] [UND]
+http://archive.org/download/6_20190711_201907/4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cC2dEleI8zDT045QhuqVjf527yv.jpg" group-title="Acción",Resident Evil: 6 Capítulo final (2016) [480p] [DUAL]
 https://archive.org/download/6_20200518_20200518/6.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cC2dEleI8zDT045QhuqVjf527yv.jpg" group-title="Acción",Resident Evil: 6 Capítulo final (2016) [480p] [ESP]
@@ -523,6 +523,10 @@ http://archive.org/download/5_20190713_201907/5.avi
 https://archive.org/download/12_20260503_20260503/upload/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg" group-title="Acción",The Furious (2026) [1080p] [DUAL]
 https://archive.org/download/004_20260813/Linux/005.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg" group-title="Acción",The Furious (2026) [480p] [UND]
+https://archive.org/download/002_20260915/Up/002.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg" group-title="Acción",The Furious (2026) [720p] [DUAL]
+https://archive.org/download/002_20260915/Up/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z7ODkfXXHAWMkQUPUTIsOvIFxV7.jpg" group-title="Acción",The Skulls II: Sociedad Secreta 2 (2002) [480p] [ENG]
 https://archive.org/download/tutoriales_202506/TutorialesLinux/10.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9xjSHm0R9tII8JCWHS1VdbftFk1.jpg" group-title="Acción",The Twisters (2024) [720p] [DUAL]
@@ -536,13 +540,13 @@ https://archive.org/download/cuartormuna/20.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yDWU8YyFkPnlVY627QXPvct8bz9.jpg" group-title="Acción",Thunderbolts* (2025) [480p] [DUAL]
 https://archive.org/download/03_20260426_202604/Nuevos/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" group-title="Acción",Tiempo de guerra (2025) [480p] [DUAL]
-https://archive.org/download/01_20250609/bsd/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" group-title="Acción",Tiempo de guerra (2025) [480p] [DUAL]
 https://archive.org/download/linux_202506/linux/10.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Acción",Tigre y Dragón 2: la Espada del Destino (2016) [480p] [DUAL]
-https://archive.org/download/06_20260504/upload/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" group-title="Acción",Tiempo de guerra (2025) [480p] [DUAL]
+https://archive.org/download/01_20250609/bsd/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Acción",Tigre y Dragón 2: la Espada del Destino (2016) [480p] [DUAL]
 https://archive.org/download/00_20250930/unix/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Acción",Tigre y Dragón 2: la Espada del Destino (2016) [480p] [DUAL]
+https://archive.org/download/06_20260504/upload/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vbR5YirdyIQyLzWHALmdDAJshWC.jpg" group-title="Acción",Todo en Todas Partes al Mismo Tiempo (2022) [720p] [DUAL]
 https://archive.org/download/004_20260827/Linux/006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pAXIn7wFa6140zi6LzYMD6Rt8CD.jpg" group-title="Acción",Torrente 2: Misión en Marbella (2001) [480p] [ENG]
@@ -558,17 +562,17 @@ https://archive.org/download/789456_202003/789456_0103.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j2amu8zA4l6hKWSkbhDQVbfoDMr.jpg" group-title="Acción",Un Hombre de Razón (2023) [720p] [DUAL]
 https://archive.org/download/02_20260526_202605/Linux/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/piGIUXtMAy3qdp7h574os4bn9Lb.jpg" group-title="Acción",Una noche para sobrevivir (2015) [720p] [DUAL]
-https://archive.org/download/01_20260705_20260705_1846/SERVERS/08.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/piGIUXtMAy3qdp7h574os4bn9Lb.jpg" group-title="Acción",Una noche para sobrevivir (2015) [720p] [DUAL]
 https://archive.org/download/01_20260705_20260705_1846/SERVERS/01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/piGIUXtMAy3qdp7h574os4bn9Lb.jpg" group-title="Acción",Una noche para sobrevivir (2015) [720p] [DUAL]
+https://archive.org/download/01_20260705_20260705_1846/SERVERS/08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6hlI9Ea1O4IeJ2cj7OiNinqg8Qd.jpg" group-title="Acción",Uncharted: Fuera del mapa (2022) [360p] [ESP]
 https://archive.org/download/descarga_202101/hgty/unch4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pfZQzTXaHQ6m517Q4la8p7D1AJn.jpg" group-title="Acción",Viaje al centro de la Tierra (1977) [1080p] [ESP]
 https://ia801502.us.archive.org/34/items/5044448658339135791/1_5044448658339135791.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
-https://archive.org/download/03_20250627_202506/RPM/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
 https://archive.org/download/06_20260426/manjaritos/09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
+https://archive.org/download/03_20250627_202506/RPM/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hj2mUTJktFXNA9cUtFptYiPXhEs.jpg" group-title="Acción",Xtremo (2021) [480p] [ESP]
 https://archive.org/download/dfrte/xtr3m.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg" group-title="Acción",Ángeles de Charlie (2019) [480p] [ESP]
@@ -880,11 +884,11 @@ https://archive.org/download/03_20260702/Ava/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AlzjGaUieruNA2gTBNkMtwIZioy.jpg" group-title="Ciencia ficción",Bajo el planeta de los simios (1970) [1080p] [DUAL]
 https://archive.org/download/002_20260730/up/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ZocuSaZSSQtP1ittRlAwHo4PlG.jpg" group-title="Ciencia ficción",Bienvenidos al Ayer (2015) [480p] [ESP]
-https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/proyecto-almanac.mp4?fbclid=iwar1yighooozsmax04deekaji8ywdcdjrfrvt5iq26cu_e6ytftl80jjkpak
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ZocuSaZSSQtP1ittRlAwHo4PlG.jpg" group-title="Ciencia ficción",Bienvenidos al Ayer (2015) [480p] [ESP]
 https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/proyecto-almanac.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ZocuSaZSSQtP1ittRlAwHo4PlG.jpg" group-title="Ciencia ficción",Bienvenidos al Ayer (2015) [480p] [ESP]
 https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ZocuSaZSSQtP1ittRlAwHo4PlG.jpg" group-title="Ciencia ficción",Bienvenidos al Ayer (2015) [480p] [ESP]
+https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/proyecto-almanac.mp4?fbclid=iwar1yighooozsmax04deekaji8ywdcdjrfrvt5iq26cu_e6ytftl80jjkpak
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg" group-title="Ciencia ficción",Blade Runner (1982) [480p] [ESP]
 https://archive.org/download/006_20200426/006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg" group-title="Ciencia ficción",Blade Runner 2049 (2017) [720p] [DUAL]
@@ -911,10 +915,14 @@ https://archive.org/download/006_20260826/GIT/001.mkv
 https://archive.org/download/006_20260826/GIT/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yZUzkGplztDLC1UhxN8pOTrwcsw.jpg" group-title="Ciencia ficción",El día de la revelación (2026) [720p] [DUAL]
 https://archive.org/download/05_20260721/Linux/03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg" group-title="Ciencia ficción",El gran diluvio (2025) [720p] [DUAL]
-https://archive.org/download/09_20260430_20260430_1951/editores/04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jPBfFTwmgco94oS9ikdt9tqHsxm.jpg" group-title="Ciencia ficción",El final de la Calle Oak (2026) [480p] [UND]
+https://archive.org/download/002_20260915/Up/001.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jPBfFTwmgco94oS9ikdt9tqHsxm.jpg" group-title="Ciencia ficción",El final de la Calle Oak (2026) [720p] [DUAL]
+https://archive.org/download/002_20260915/Up/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg" group-title="Ciencia ficción",El gran diluvio (2025) [720p] [DUAL]
 https://archive.org/download/05_20260406_202604/DEBIAN/05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg" group-title="Ciencia ficción",El gran diluvio (2025) [720p] [DUAL]
+https://archive.org/download/09_20260430_20260430_1951/editores/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9dxWov4GDOP32TuxxjOlS3oGH2.jpg" group-title="Ciencia ficción",El núcleo (2003) [720p] [DUAL]
 https://archive.org/download/01_20260506_202605/Linux/02.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/9iWaBdvj5Gw3WvYDJD6wuOU2GsK.jpg" group-title="Ciencia ficción",El planeta de los simios (1968) [1080p] [DUAL]
@@ -962,9 +970,9 @@ https://archive.org/download/daemons_202509/daemons/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eN1vmB0k4AnCcZIoS7bV7Mbl88u.jpg" group-title="Ciencia ficción",La conquista del planeta de los simios (1972) [1080p] [DUAL]
 https://archive.org/download/002_20260730/up/003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg" group-title="Ciencia ficción",La Guerra de los Mundos (2005) [480p] [DUAL]
-https://archive.org/download/01_20251125_20251125_0530/Onifom/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg" group-title="Ciencia ficción",La Guerra de los Mundos (2005) [480p] [DUAL]
 https://archive.org/download/10_20260425_20260425/tex/09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg" group-title="Ciencia ficción",La Guerra de los Mundos (2005) [480p] [DUAL]
+https://archive.org/download/01_20251125_20251125_0530/Onifom/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/etqDF1zxjegHcVei2T9sKLaZ5s2.jpg" group-title="Ciencia ficción",La Máquina del Tiempo (2002) [480p] [ESP]
 https://ia601408.us.archive.org/15/items/123a_20191206/09mnjg.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8fbbaY5Z00u1Y4iDT5B7rN6l2eS.jpg" group-title="Ciencia ficción",La Noche de la Expiación (2013) [360p] [UND]
@@ -1022,15 +1030,15 @@ https://archive.org/download/02_20260425_20260425_1709/Latex/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="Ciencia ficción",Obsesión Desconocida (2022) [720p] [DUAL]
 https://archive.org/download/05_20260605/samba/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ky0P36kdTD86ZFPEcBapc6gbue3.jpg" group-title="Ciencia ficción",Osiris (2025) [480p] [DUAL]
-https://archive.org/download/07_20260501/upload/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ky0P36kdTD86ZFPEcBapc6gbue3.jpg" group-title="Ciencia ficción",Osiris (2025) [480p] [DUAL]
 https://archive.org/download/12_20260502_202605/upload/13.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ky0P36kdTD86ZFPEcBapc6gbue3.jpg" group-title="Ciencia ficción",Osiris (2025) [480p] [DUAL]
+https://archive.org/download/07_20260501/upload/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9GioqrMkkk9A694UhYz8iMo2eJV.jpg" group-title="Ciencia ficción",Poder sin Límites (2012) [360p] [ESP]
 http://archive.org/download/7_20190824/7.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg" group-title="Ciencia ficción",Proyecto Fin del Mundo (2026) [720p] [DUAL]
-https://archive.org/download/index_20260430_1627/unix/04.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg" group-title="Ciencia ficción",Proyecto Fin del Mundo (2026) [720p] [DUAL]
 https://archive.org/download/05_20260604/Servers/04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg" group-title="Ciencia ficción",Proyecto Fin del Mundo (2026) [720p] [DUAL]
+https://archive.org/download/index_20260430_1627/unix/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vCjaL0KXxcHYq2tMLncceE8m6S1.jpg" group-title="Ciencia ficción",Renner (2025) [480p] [DUAL]
 https://archive.org/download/04_20260501/upload/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nTgHNb4CLv1dL9vGGVLtkc3zVPT.jpg" group-title="Ciencia ficción",Restore Point (2023) [480p] [DUAL]
@@ -1052,9 +1060,9 @@ https://archive.org/download/04_20250819/text-editors/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gytLKZR6X3w8iwpgPuzILY77Wda.jpg" group-title="Ciencia ficción",Supremacía Quántica (2026) [1080p] [DUAL]
 https://archive.org/download/008_20260912/Linux/008.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aOFTrW8biKHIciqRe6k1z3ElR6l.jpg" group-title="Ciencia ficción",T.I.M. (2023) [480p] [DUAL]
-https://archive.org/download/05_20260502/upload/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aOFTrW8biKHIciqRe6k1z3ElR6l.jpg" group-title="Ciencia ficción",T.I.M. (2023) [480p] [DUAL]
 https://archive.org/download/07_20260501/upload/05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aOFTrW8biKHIciqRe6k1z3ElR6l.jpg" group-title="Ciencia ficción",T.I.M. (2023) [480p] [DUAL]
+https://archive.org/download/05_20260502/upload/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qqYOlCee3X7cKg05EOQH1htcHmy.jpg" group-title="Ciencia ficción",Tau (2018) [360p] [ESP]
 http://archive.org/download/mashadsasd2/mashadsasd2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" group-title="Ciencia ficción",The Marvels (2023) [720p] [DUAL]
@@ -1072,9 +1080,9 @@ https://archive.org/download/04_20260628_202606/regedit/01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Ciencia ficción",X-Men 1 (2000) [368p] [UND]
 https://dl.dropbox.com/s/e3f642mdpiqjfef/xm3n1.avi
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Ciencia ficción",X-Men 1 (2000) [720p] [DUAL]
-https://archive.org/download/02_20260419_20260419_2355/Debianitos/11.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Ciencia ficción",X-Men 1 (2000) [720p] [DUAL]
 https://archive.org/download/06_20260426/manjaritos/07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yB6Tui7DU82jRwusjgG00kdV0pM.jpg" group-title="Ciencia ficción",X-Men 1 (2000) [720p] [DUAL]
+https://archive.org/download/02_20260419_20260419_2355/Debianitos/11.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="Ciencia ficción",X-Men 12: Dark Phoenix (2019) [480p] [DUAL]
 https://archive.org/download/00300_201909/00300.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="Ciencia ficción",X-Men 12: Dark Phoenix (2019) [720p] [DUAL]
