@@ -1,0 +1,123 @@
+Estructura de: E:\
+
+📁 E:\/
+📁 Dark Matter (2024)/
+    📁 S01/
+    📄 Dark.Matter.(2024)S01E01.mp4
+    📄 Dark.Matter.(2024)S01E02.mp4
+    📄 Dark.Matter.(2024)S01E03.mp4
+    📄 Dark.Matter.(2024)S01E04.mp4
+    📄 Dark.Matter.(2024)S01E05.mp4
+    📄 Dark.Matter.(2024)S01E06.mp4
+    📄 Dark.Matter.(2024)S01E07.mp4
+    📄 Dark.Matter.(2024)S01E08.mp4
+    📄 Dark.Matter.(2024)S01E09.mp4
+📁 The Eternaut (2025)/
+    📄 The Eternaut (2025) (500 x 281).jpg
+    📁 S01/
+        📄 The Eternaut (2025).S01E01.mp4
+        📄 The Eternaut (2025).S01E02.mp4
+        📄 The Eternaut (2025).S01E03.mp4
+        📄 The Eternaut (2025).S01E04.mp4
+        📄 The Eternaut (2025).S01E05.mp4
+        📄 The Eternaut (2025).S01E06.mp4
+📁 The Good Lord Bird (2020)/
+    📄 The Good Lord Bird (2020) (500 x 281).jpg
+    📁 S01/
+        📄 The.Good.Lord.Bird (2020).S01E01.mp4
+        📄 The.Good.Lord.Bird (2020).S01E02.mp4
+        📄 The.Good.Lord.Bird (2020).S01E03.mp4
+        📄 The.Good.Lord.Bird (2020).S01E04.mp4
+        📄 The.Good.Lord.Bird (2020).S01E05.mp4
+        📄 The.Good.Lord.Bird (2020).S01E06.mp4
+        📄 The.Good.Lord.Bird (2020).S01E07.mp4
+📁 The Last of Us (2023)/
+    📁 S01/
+        📄 The.Last.of.Us (2023).S01E01.mp4
+        📄 The.Last.of.Us (2023).S01E02.mp4
+        📄 The.Last.of.Us (2023).S01E03.mp4
+        📄 The.Last.of.Us (2023).S01E04.mp4
+        📄 The.Last.of.Us (2023).S01E05.mp4
+        📄 The.Last.of.Us (2023).S01E06.mp4
+        📄 The.Last.of.Us (2023).S01E07.mp4
+        📄 The.Last.of.Us (2023).S01E08.mp4
+        📄 The.Last.of.Us (2023).S01E09.mp4
+    📁 S02/
+        📄 The.Last.of.Us (2023).S01E01.mp4
+        📄 The.Last.of.Us (2023).S01E02.mp4
+        📄 The.Last.of.Us (2023).S01E03.mp4
+        📄 The.Last.of.Us (2023).S01E04.mp4
+        📄 The.Last.of.Us (2023).S01E05.mp4
+        📄 The.Last.of.Us (2023).S01E06.mp4
+        📄 The.Last.of.Us (2023).S01E07.mp4
+        📄 The.Last.of.Us (2023).S21E01.mp4
+        📄 The.Last.of.Us (2023).S21E02.mp4
+        📄 The.Last.of.Us (2023).S21E03.mp4
+        📄 The.Last.of.Us (2023).S21E04.mp4
+        📄 The.Last.of.Us (2023).S21E05.mp4
+        📄 The.Last.of.Us (2023).S21E06.mp4
+        📄 The.Last.of.Us (2023).S21E07.mp4
+📁 The Night Agent (2023)/
+    📁 S01/
+        📄 The.Night.Agent (2023).S01E01.mp4
+        📄 The.Night.Agent (2023).S01E02.mp4
+        📄 The.Night.Agent (2023).S01E03.mp4
+        📄 The.Night.Agent (2023).S01E04.mp4
+        📄 The.Night.Agent (2023).S01E05.mp4
+        📄 The.Night.Agent (2023).S01E06.mp4
+        📄 The.Night.Agent (2023).S01E07.mp4
+        📄 The.Night.Agent (2023).S01E08.mp4
+        📄 The.Night.Agent (2023).S01E09.mp4
+        📄 The.Night.Agent (2023).S01E10.mp4
+    📁 S02/
+        📄 The.Night.Agent (2023).S02E01.mp4
+        📄 The.Night.Agent (2023).S02E02.mp4
+        📄 The.Night.Agent (2023).S02E03.mp4
+        📄 The.Night.Agent (2023).S02E04.mp4
+        📄 The.Night.Agent (2023).S02E05.mp4
+        📄 The.Night.Agent (2023).S02E06.mp4
+        📄 The.Night.Agent (2023).S02E07.mp4
+        📄 The.Night.Agent (2023).S02E08.mp4
+        📄 The.Night.Agent (2023).S02E09.mp4
+        📄 The.Night.Agent (2023).S02E10.mp4
+📁 Those About to Die (2024)/
+    📄 Those About to Die [542 x 768].jpg
+    📁 S01/
+        📄 Those.About.to.Die (2024).S01E01.mp4
+        📄 Those.About.to.Die (2024).S01E02.mp4
+        📄 Those.About.to.Die (2024).S01E03.mp4
+        📄 Those.About.to.Die (2024).S01E04.mp4
+        📄 Those.About.to.Die (2024).S01E05.mp4
+        📄 Those.About.to.Die (2024).S01E06.mp4
+        📄 Those.About.to.Die (2024).S01E07.mp4
+        📄 Those.About.to.Die (2024).S01E08.mp4
+        📄 Those.About.to.Die (2024).S01E09.mp4
+        📄 Those.About.to.Die (2024).S01E10.mp4
+📁 TWD Dead City (2023)/
+    📁 S02/
+        📄 The.Walking.Dead.Dead.City(2023).S2E01.mp4
+        📄 The.Walking.Dead.Dead.City(2023).S2E02.mp4
+        📄 The.Walking.Dead.Dead.City(2023).S2E03.mp4
+        📄 The.Walking.Dead.Dead.City(2023).S2E04.mp4
+📁 Vikings (2013)/
+    📁 04/
+        📄 Vikings (2013).S04E01.mp4
+        📄 Vikings (2013).S04E02.mp4
+        📄 Vikings (2013).S04E03.mp4
+        📄 Vikings (2013).S04E04.mp4
+        📄 Vikings (2013).S04E05.mp4
+        📄 Vikings (2013).S04E06.mp4
+        📄 Vikings (2013).S04E07.mp4
+        📄 Vikings (2013).S04E08.mp4
+        📄 Vikings (2013).S04E09.mp4
+        📄 Vikings (2013).S04E10.mp4
+        📄 Vikings (2013).S04E11.mp4
+        📄 Vikings (2013).S04E12.mp4
+        📄 Vikings (2013).S04E13.mp4
+        📄 Vikings (2013).S04E14.mp4
+        📄 Vikings (2013).S04E15.mp4
+        📄 Vikings (2013).S04E16.mp4
+        📄 Vikings (2013).S04E17.mp4
+        📄 Vikings (2013).S04E18.mp4
+        📄 Vikings (2013).S04E19.mp4
+        📄 Vikings (2013).S04E20.mp4
