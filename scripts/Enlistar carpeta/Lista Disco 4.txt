@@ -1,0 +1,766 @@
+Estructura de: E:\
+
+📁 E:\/
+    📄 listado_carpetas.bat
+📁 1923 (2022)/
+    📁 S01/
+        📄 1923 (2022).S01E01.mp4
+        📄 1923 (2022).S01E02.mp4
+        📄 1923 (2022).S01E03.mp4
+        📄 1923 (2022).S01E04.mp4
+        📄 1923 (2022).S01E05.mp4
+        📄 1923 (2022).S01E06.mp4
+        📄 1923 (2022).S01E07.mp4
+        📄 1923 (2022).S01E08.mp4
+    📁 S02/
+        📄 1923 (2022).S02E01.mp4
+        📄 1923 (2022).S02E02.mp4
+        📄 1923 (2022).S02E03.mp4
+        📄 1923 (2022).S02E04.mp4
+        📄 1923 (2022).S02E05.mp4
+        📄 1923 (2022).S02E06.mp4
+        📄 1923 (2022).S02E07.mp4
+📁 Alien Earth (2025)/
+    📁 S01/
+        📄 Alien.Earth (2025).S01E01.mp4
+        📄 Alien.Earth (2025).S01E02.mp4
+        📄 Alien.Earth (2025).S01E03.mp4
+        📄 Alien.Earth (2025).S01E04.mp4
+        📄 Alien.Earth (2025).S01E05.mp4
+        📄 Alien.Earth (2025).S01E06.mp4
+        📄 Alien.Earth (2025).S01E07.mp4
+        📄 Alien.Earth (2025).S01E08.mp4
+📁 Anne Rice's Mayfair Witches(2023)/
+    📁 S01/
+        📄 Anne Rice_s Mayfair Witches(2023).S01E01.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S01E02.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S01E03.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S01E04.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S01E05.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S01E06.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S01E07.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S01E08.mp4
+    📁 S02/
+        📄 Anne Rice_s Mayfair Witches(2023).S02E01.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S02E02.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S02E03.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S02E04.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S02E05.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S02E06.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S02E07.mp4
+        📄 Anne Rice_s Mayfair Witches(2023).S02E08.mp4
+📁 Charmed (1998)/
+    📁 S01/
+        📄 Charmed (1998) - S01E01.mp4
+        📄 Charmed (1998) - S01E02.mp4
+        📄 Charmed (1998) - S01E03.mp4
+        📄 Charmed (1998) - S01E04.mp4
+        📄 Charmed (1998) - S01E05.mp4
+        📄 Charmed (1998) - S01E06.mp4
+        📄 Charmed (1998) - S01E07.mp4
+        📄 Charmed (1998) - S01E08.mp4
+        📄 Charmed (1998) - S01E09.mp4
+        📄 Charmed (1998) - S01E10.mp4
+        📄 Charmed (1998) - S01E11.mp4
+        📄 Charmed (1998) - S01E12.mp4
+        📄 Charmed (1998) - S01E13.mp4
+        📄 Charmed (1998) - S01E14.mp4
+        📄 Charmed (1998) - S01E15.mp4
+        📄 Charmed (1998) - S01E16.mp4
+        📄 Charmed (1998) - S01E17.mp4
+        📄 Charmed (1998) - S01E18.mp4
+        📄 Charmed (1998) - S01E19.mp4
+        📄 Charmed (1998) - S01E20.mp4
+        📄 Charmed (1998) - S01E21.mp4
+        📄 Charmed (1998) - S01E22.mp4
+    📁 S02/
+        📄 Charmed (1998) - S02E01.mp4
+        📄 Charmed (1998) - S02E02.mp4
+        📄 Charmed (1998) - S02E03.mp4
+        📄 Charmed (1998) - S02E04.mp4
+        📄 Charmed (1998) - S02E05.mp4
+        📄 Charmed (1998) - S02E06.mp4
+        📄 Charmed (1998) - S02E07.mp4
+        📄 Charmed (1998) - S02E08.mp4
+        📄 Charmed (1998) - S02E09.mp4
+        📄 Charmed (1998) - S02E10.mp4
+        📄 Charmed (1998) - S02E11.mp4
+        📄 Charmed (1998) - S02E12.mp4
+        📄 Charmed (1998) - S02E13.mp4
+        📄 Charmed (1998) - S02E14.mp4
+        📄 Charmed (1998) - S02E15.mp4
+        📄 Charmed (1998) - S02E16.mp4
+        📄 Charmed (1998) - S02E17.mp4
+        📄 Charmed (1998) - S02E18.mp4
+        📄 Charmed (1998) - S02E19.mp4
+        📄 Charmed (1998) - S02E20.mp4
+        📄 Charmed (1998) - S02E21.mp4
+        📄 Charmed (1998) - S02E22.mp4
+    📁 S03/
+        📄 Charmed (1998) - S03E01.mp4
+        📄 Charmed (1998) - S03E02.mp4
+        📄 Charmed (1998) - S03E03.mp4
+        📄 Charmed (1998) - S03E04.mp4
+        📄 Charmed (1998) - S03E05.mp4
+        📄 Charmed (1998) - S03E06.mp4
+        📄 Charmed (1998) - S03E07.mp4
+        📄 Charmed (1998) - S03E08.mp4
+        📄 Charmed (1998) - S03E09.mp4
+        📄 Charmed (1998) - S03E10.mp4
+        📄 Charmed (1998) - S03E11.mp4
+        📄 Charmed (1998) - S03E12.mp4
+        📄 Charmed (1998) - S03E13.mp4
+        📄 Charmed (1998) - S03E14.mp4
+        📄 Charmed (1998) - S03E15.mp4
+        📄 Charmed (1998) - S03E16.mp4
+        📄 Charmed (1998) - S03E17.mp4
+        📄 Charmed (1998) - S03E18.mp4
+        📄 Charmed (1998) - S03E19.mp4
+        📄 Charmed (1998) - S03E20.mp4
+        📄 Charmed (1998) - S03E21.mp4
+        📄 Charmed (1998) - S03E22.mp4
+    📁 S04/
+        📄 Charmed (1998) - S04E01.mp4
+        📄 Charmed (1998) - S04E02.mp4
+        📄 Charmed (1998) - S04E03.mp4
+        📄 Charmed (1998) - S04E04.mp4
+        📄 Charmed (1998) - S04E05.mp4
+        📄 Charmed (1998) - S04E06.mp4
+        📄 Charmed (1998) - S04E07.mp4
+        📄 Charmed (1998) - S04E08.mp4
+        📄 Charmed (1998) - S04E09.mp4
+        📄 Charmed (1998) - S04E10.mp4
+        📄 Charmed (1998) - S04E11.mp4
+        📄 Charmed (1998) - S04E12.mp4
+        📄 Charmed (1998) - S04E13.mp4
+        📄 Charmed (1998) - S04E14.mp4
+        📄 Charmed (1998) - S04E15.mp4
+        📄 Charmed (1998) - S04E16.mp4
+        📄 Charmed (1998) - S04E17.mp4
+        📄 Charmed (1998) - S04E18.mp4
+        📄 Charmed (1998) - S04E19.mp4
+        📄 Charmed (1998) - S04E20.mp4
+        📄 Charmed (1998) - S04E21.mp4
+        📄 Charmed (1998) - S04E22.mp4
+    📁 S05/
+        📄 Charmed (1998) - S05E01.mp4
+        📄 Charmed (1998) - S05E02.mp4
+        📄 Charmed (1998) - S05E03.mp4
+        📄 Charmed (1998) - S05E04.mp4
+        📄 Charmed (1998) - S05E05.mp4
+        📄 Charmed (1998) - S05E06.mp4
+        📄 Charmed (1998) - S05E07.mp4
+        📄 Charmed (1998) - S05E08.mp4
+        📄 Charmed (1998) - S05E09.mp4
+        📄 Charmed (1998) - S05E10.mp4
+        📄 Charmed (1998) - S05E11.mp4
+        📄 Charmed (1998) - S05E12.mp4
+        📄 Charmed (1998) - S05E13.mp4
+        📄 Charmed (1998) - S05E14.mp4
+        📄 Charmed (1998) - S05E15.mp4
+        📄 Charmed (1998) - S05E16.mp4
+        📄 Charmed (1998) - S05E17.mp4
+        📄 Charmed (1998) - S05E18.mp4
+        📄 Charmed (1998) - S05E19.mp4
+        📄 Charmed (1998) - S05E20.mp4
+        📄 Charmed (1998) - S05E21.mp4
+        📄 Charmed (1998) - S05E22.mp4
+        📄 Charmed (1998) - S05E23.mp4
+    📁 S06/
+        📄 Charmed (1998) - S06E01.mkv
+        📄 Charmed (1998) - S06E02.mkv
+        📄 Charmed (1998) - S06E03.mkv
+        📄 Charmed (1998) - S06E04.mkv
+        📄 Charmed (1998) - S06E05.mkv
+        📄 Charmed (1998) - S06E06.mkv
+        📄 Charmed (1998) - S06E07.mkv
+        📄 Charmed (1998) - S06E08.mkv
+        📄 Charmed (1998) - S06E09.mkv
+        📄 Charmed (1998) - S06E10.mkv
+        📄 Charmed (1998) - S06E11.mkv
+        📄 Charmed (1998) - S06E12.mkv
+        📄 Charmed (1998) - S06E13.mkv
+        📄 Charmed (1998) - S06E14.mkv
+        📄 Charmed (1998) - S06E15.mkv
+        📄 Charmed (1998) - S06E16.mkv
+        📄 Charmed (1998) - S06E17.mkv
+        📄 Charmed (1998) - S06E18.mkv
+        📄 Charmed (1998) - S06E19.mkv
+        📄 Charmed (1998) - S06E20.mkv
+        📄 Charmed (1998) - S06E21.mkv
+        📄 Charmed (1998) - S06E22.mkv
+        📄 Charmed (1998) - S06E23.mkv
+    📁 S07/
+        📄 Charmed (1998) - S07E01.mp4
+        📄 Charmed (1998) - S07E02.mp4
+        📄 Charmed (1998) - S07E03.mp4
+        📄 Charmed (1998) - S07E04.mp4
+        📄 Charmed (1998) - S07E05.mp4
+        📄 Charmed (1998) - S07E06.mp4
+        📄 Charmed (1998) - S07E07.mp4
+        📄 Charmed (1998) - S07E08.mp4
+        📄 Charmed (1998) - S07E09.mp4
+        📄 Charmed (1998) - S07E10.mp4
+        📄 Charmed (1998) - S07E11.mp4
+        📄 Charmed (1998) - S07E12.mp4
+        📄 Charmed (1998) - S07E13.mp4
+        📄 Charmed (1998) - S07E14.mp4
+        📄 Charmed (1998) - S07E15.mp4
+        📄 Charmed (1998) - S07E16.mp4
+        📄 Charmed (1998) - S07E17.mp4
+        📄 Charmed (1998) - S07E18.mp4
+        📄 Charmed (1998) - S07E19.mp4
+        📄 Charmed (1998) - S07E20.mp4
+        📄 Charmed (1998) - S07E21.mp4
+        📄 Charmed (1998) - S07E22.mp4
+    📁 S08/
+        📄 Charmed (1998) - S08E01.mp4
+        📄 Charmed (1998) - S08E02.mp4
+        📄 Charmed (1998) - S08E03.mp4
+        📄 Charmed (1998) - S08E04.mp4
+        📄 Charmed (1998) - S08E05.mp4
+        📄 Charmed (1998) - S08E06.mp4
+        📄 Charmed (1998) - S08E07.mp4
+        📄 Charmed (1998) - S08E08.mp4
+        📄 Charmed (1998) - S08E09.mp4
+        📄 Charmed (1998) - S08E10.mp4
+        📄 Charmed (1998) - S08E11.mp4
+        📄 Charmed (1998) - S08E12.mp4
+        📄 Charmed (1998) - S08E13.mp4
+        📄 Charmed (1998) - S08E14.mp4
+        📄 Charmed (1998) - S08E15.mp4
+        📄 Charmed (1998) - S08E16.mp4
+        📄 Charmed (1998) - S08E17.mp4
+        📄 Charmed (1998) - S08E18.mp4
+        📄 Charmed (1998) - S08E19.mp4
+        📄 Charmed (1998) - S08E20.mp4
+        📄 Charmed (1998) - S08E21.mp4
+        📄 Charmed (1998) - S08E22.mp4
+📁 Cobra Kai (2018)/
+    📁 S01/
+        📄 Cobra.Kai.(2018).S01E01.mp4
+        📄 Cobra.Kai.(2018).S01E02.mp4
+        📄 Cobra.Kai.(2018).S01E03.mp4
+        📄 Cobra.Kai.(2018).S01E04.mp4
+        📄 Cobra.Kai.(2018).S01E05.mp4
+        📄 Cobra.Kai.(2018).S01E06.mp4
+        📄 Cobra.Kai.(2018).S01E07.mp4
+        📄 Cobra.Kai.(2018).S01E08.mp4
+        📄 Cobra.Kai.(2018).S01E09.mp4
+        📄 Cobra.Kai.(2018).S01E10.mp4
+    📁 S02/
+        📄 Cobra.Kai.(2018).S02E01.mp4
+        📄 Cobra.Kai.(2018).S02E02.mp4
+        📄 Cobra.Kai.(2018).S02E03.mp4
+        📄 Cobra.Kai.(2018).S02E04.mp4
+        📄 Cobra.Kai.(2018).S02E05.mp4
+        📄 Cobra.Kai.(2018).S02E06.mp4
+        📄 Cobra.Kai.(2018).S02E07.mp4
+        📄 Cobra.Kai.(2018).S02E08.mp4
+        📄 Cobra.Kai.(2018).S02E09.mp4
+        📄 Cobra.Kai.(2018).S02E10.mp4
+    📁 S03/
+        📄 Cobra.Kai.(2018).S03E01.mp4
+        📄 Cobra.Kai.(2018).S03E02.mp4
+        📄 Cobra.Kai.(2018).S03E03.mp4
+        📄 Cobra.Kai.(2018).S03E04.mp4
+        📄 Cobra.Kai.(2018).S03E05.mp4
+        📄 Cobra.Kai.(2018).S03E06.mp4
+        📄 Cobra.Kai.(2018).S03E07.mp4
+        📄 Cobra.Kai.(2018).S03E08.mp4
+        📄 Cobra.Kai.(2018).S03E09.mp4
+        📄 Cobra.Kai.(2018).S03E10.mp4
+    📁 S04/
+        📄 Cobra.Kai.(2018).S04E01.mp4
+        📄 Cobra.Kai.(2018).S04E02.mp4
+        📄 Cobra.Kai.(2018).S04E03.mp4
+        📄 Cobra.Kai.(2018).S04E04.mp4
+        📄 Cobra.Kai.(2018).S04E05.mp4
+        📄 Cobra.Kai.(2018).S04E06.mp4
+        📄 Cobra.Kai.(2018).S04E07.mp4
+        📄 Cobra.Kai.(2018).S04E08.mp4
+        📄 Cobra.Kai.(2018).S04E09.mp4
+        📄 Cobra.Kai.(2018).S04E10.mp4
+    📁 S05/
+        📄 Cobra.Kai.(2018).S05E01.mp4
+        📄 Cobra.Kai.(2018).S05E02.mp4
+        📄 Cobra.Kai.(2018).S05E03.mp4
+        📄 Cobra.Kai.(2018).S05E04.mp4
+        📄 Cobra.Kai.(2018).S05E05.mp4
+        📄 Cobra.Kai.(2018).S05E06.mp4
+        📄 Cobra.Kai.(2018).S05E07.mp4
+        📄 Cobra.Kai.(2018).S05E08.mp4
+        📄 Cobra.Kai.(2018).S05E09.mp4
+        📄 Cobra.Kai.(2018).S05E10.mp4
+    📁 S06/
+        📄 Cobra.Kai.(2018).S06E01.mp4
+        📄 Cobra.Kai.(2018).S06E02.mp4
+        📄 Cobra.Kai.(2018).S06E03.mp4
+        📄 Cobra.Kai.(2018).S06E04.mp4
+        📄 Cobra.Kai.(2018).S06E05.mp4
+        📄 Cobra.Kai.(2018).S06E06.mp4
+        📄 Cobra.Kai.(2018).S06E07.mp4
+        📄 Cobra.Kai.(2018).S06E08.mp4
+        📄 Cobra.Kai.(2018).S06E09.mp4
+        📄 Cobra.Kai.(2018).S06E10.mp4
+        📄 Cobra.Kai.(2018).S06E11.mp4
+        📄 Cobra.Kai.(2018).S06E12.mp4
+        📄 Cobra.Kai.(2018).S06E13.mp4
+        📄 Cobra.Kai.(2018).S06E14.mp4
+        📄 Cobra.Kai.(2018).S06E15.mp4
+📁 Interview With The Vampire (2022)/
+    📁 S01/
+        📄 Interview With The Vampire(2022).S01E01.mp4
+        📄 Interview With The Vampire(2022).S01E02.mp4
+        📄 Interview With The Vampire(2022).S01E03.mp4
+        📄 Interview With The Vampire(2022).S01E04.mp4
+        📄 Interview With The Vampire(2022).S01E05.mp4
+        📄 Interview With The Vampire(2022).S01E06.mp4
+        📄 Interview With The Vampire(2022).S01E07.mp4
+    📁 S02/
+        📄 Interview With The Vampire(2022).S02E01.mkv
+        📄 Interview With The Vampire(2022).S02E02.mkv
+        📄 Interview With The Vampire(2022).S02E03.mkv
+        📄 Interview With The Vampire(2022).S02E04.mkv
+        📄 Interview With The Vampire(2022).S02E05.mkv
+        📄 Interview With The Vampire(2022).S02E06.mkv
+        📄 Interview With The Vampire(2022).S02E07.mkv
+        📄 Interview With The Vampire(2022).S02E08.mkv
+📁 IT Welcome to Derry (2025)/
+    📁 S01/
+        📄 IT Welcome to Derry (2025).S01E01.mp4
+        📄 IT Welcome to Derry (2025).S01E02.mp4
+        📄 IT Welcome to Derry (2025).S01E03.mp4
+        📄 IT Welcome to Derry (2025).S01E04.mp4
+        📄 IT Welcome to Derry (2025).S01E05.mp4
+        📄 IT Welcome to Derry (2025).S01E06.mp4
+        📄 IT Welcome to Derry (2025).S01E07.mp4
+        📄 IT Welcome to Derry (2025).S01E08.mp4
+📁 La Brea (2021)/
+    📁 S01/
+        📄 La Brea (2021) - S01E01.mp4
+        📄 La Brea (2021) - S01E02.mp4
+        📄 La Brea (2021) - S01E03.mp4
+        📄 La Brea (2021) - S01E04.mp4
+        📄 La Brea (2021) - S01E05.mp4
+        📄 La Brea (2021) - S01E06.mp4
+        📄 La Brea (2021) - S01E07.mp4
+        📄 La Brea (2021) - S01E08.mp4
+        📄 La Brea (2021) - S01E09.mp4
+        📄 La Brea (2021) - S01E10.mp4
+    📁 S02/
+        📄 La Brea (2021) - S02E01.mp4
+        📄 La Brea (2021) - S02E02.mp4
+        📄 La Brea (2021) - S02E03.mp4
+        📄 La Brea (2021) - S02E04.mp4
+        📄 La Brea (2021) - S02E05.mp4
+        📄 La Brea (2021) - S02E06.mp4
+        📄 La Brea (2021) - S02E07.mp4
+        📄 La Brea (2021) - S02E08.mp4
+        📄 La Brea (2021) - S02E09.mp4
+        📄 La Brea (2021) - S02E10.mp4
+        📄 La Brea (2021) - S02E11.mp4
+        📄 La Brea (2021) - S02E12.mp4
+        📄 La Brea (2021) - S02E13.mp4
+        📄 La Brea (2021) - S02E14.mp4
+    📁 S03/
+        📄 La Brea (2021) - S03E1.mp4
+        📄 La Brea (2021) - S03E2.mp4
+        📄 La Brea (2021) - S03E3.mp4
+        📄 La Brea (2021) - S03E4.mp4
+        📄 La Brea (2021) - S03E5.mp4
+        📄 La Brea (2021) - S03E6.mp4
+📁 Outlander (2014)/
+    📁 S01/
+        📄 Outlander (2014).S01E01.mp4
+        📄 Outlander (2014).S01E02.mp4
+        📄 Outlander (2014).S01E03.mp4
+        📄 Outlander (2014).S01E04.mp4
+        📄 Outlander (2014).S01E05.mp4
+        📄 Outlander (2014).S01E06.mp4
+        📄 Outlander (2014).S01E07.mp4
+        📄 Outlander (2014).S01E08.mp4
+        📄 Outlander (2014).S01E09.mp4
+        📄 Outlander (2014).S01E10.mp4
+        📄 Outlander (2014).S01E11.mp4
+        📄 Outlander (2014).S01E12.mp4
+        📄 Outlander (2014).S01E13.mp4
+        📄 Outlander (2014).S01E14.mp4
+        📄 Outlander (2014).S01E15.mp4
+        📄 Outlander (2014).S01E16.mp4
+📁 Spartacus House of Ashur (2025)/
+    📁 S01/
+        📄 Spartacus House of Ashur (2025).S02E01.mkv
+        📄 Spartacus House of Ashur (2025).S02E02.mkv
+        📄 Spartacus House of Ashur (2025).S02E03.mkv
+        📄 Spartacus House of Ashur (2025).S02E04.mkv
+        📄 Spartacus House of Ashur (2025).S02E05.mkv
+        📄 Spartacus House of Ashur (2025).S02E06.mkv
+        📄 Spartacus House of Ashur (2025).S02E07.mkv
+        📄 Spartacus House of Ashur (2025).S02E08.mkv
+        📄 Spartacus House of Ashur (2025).S02E09.mkv
+        📄 Spartacus House of Ashur (2025).S02E10.mkv
+📁 Squid Game (2021)/
+    📁 S01/
+        📄 Squid.Game (2021).S01E01.mp4
+        📄 Squid.Game (2021).S01E02.mp4
+        📄 Squid.Game (2021).S01E03.mp4
+        📄 Squid.Game (2021).S01E04.mp4
+        📄 Squid.Game (2021).S01E05.mp4
+        📄 Squid.Game (2021).S01E06.mp4
+        📄 Squid.Game (2021).S01E07.mp4
+        📄 Squid.Game (2021).S01E08.mp4
+        📄 Squid.Game (2021).S01E09.mp4
+    📁 S02/
+        📄 Squid.Game (2021).S02E01.mp4
+        📄 Squid.Game (2021).S02E02.mp4
+        📄 Squid.Game (2021).S02E03.mp4
+        📄 Squid.Game (2021).S02E04.mp4
+        📄 Squid.Game (2021).S02E05.mp4
+        📄 Squid.Game (2021).S02E06.mp4
+        📄 Squid.Game (2021).S02E07.mp4
+    📁 S03/
+        📄 Squid.Game (2021).S03E01.mp4
+        📄 Squid.Game (2021).S03E02.mp4
+        📄 Squid.Game (2021).S03E03.mp4
+        📄 Squid.Game (2021).S03E04.mp4
+        📄 Squid.Game (2021).S03E05.mp4
+        📄 Squid.Game (2021).S03E06.mp4
+📁 Stranger Things (2016)/
+    📁 S05/
+        📄 Stranger Things (2016) S05E01.mp4
+        📄 Stranger Things (2016) S05E02.mp4
+        📄 Stranger Things (2016) S05E03.mp4
+        📄 Stranger Things (2016) S05E04.mp4
+        📄 Stranger Things (2016) S05E05.mkv
+        📄 Stranger Things (2016) S05E06.mkv
+        📄 Stranger Things (2016) S05E07.mkv
+📁 Talamasca The Secret Order (2025)/
+    📁 S01/
+        📄 Talamasca The Secret Order (2025).S01E01.mkv
+        📄 Talamasca The Secret Order (2025).S01E02.mkv
+        📄 Talamasca The Secret Order (2025).S01E03.mkv
+        📄 Talamasca The Secret Order (2025).S01E04.mkv
+        📄 Talamasca The Secret Order (2025).S01E05.mkv
+        📄 Talamasca The Secret Order (2025).S01E06.mkv
+📁 The Devil's Plan (2023)/
+    📁 S01/
+        📄 The Devil_s Plan (2023).S01E01.mp4
+        📄 The Devil_s Plan (2023).S01E02.mp4
+        📄 The Devil_s Plan (2023).S01E03.mp4
+        📄 The Devil_s Plan (2023).S01E04.mp4
+        📄 The Devil_s Plan (2023).S01E05.mp4
+        📄 The Devil_s Plan (2023).S01E06.mp4
+        📄 The Devil_s Plan (2023).S01E07.mp4
+        📄 The Devil_s Plan (2023).S01E08.mp4
+        📄 The Devil_s Plan (2023).S01E09.mp4
+        📄 The Devil_s Plan (2023).S01E10.mp4
+        📄 The Devil_s Plan (2023).S01E11.mp4
+        📄 The Devil_s Plan (2023).S01E12.mp4
+    📁 S02/
+        📄 The Devil_s Plan (2023).S02E01.mp4
+        📄 The Devil_s Plan (2023).S02E02.mp4
+        📄 The Devil_s Plan (2023).S02E03.mp4
+        📄 The Devil_s Plan (2023).S02E04.mp4
+        📄 The Devil_s Plan (2023).S02E05.mp4
+        📄 The Devil_s Plan (2023).S02E06.mp4
+        📄 The Devil_s Plan (2023).S02E07.mp4
+        📄 The Devil_s Plan (2023).S02E08.mp4
+        📄 The Devil_s Plan (2023).S02E09.mp4
+        📄 The Devil_s Plan (2023).S02E10.mp4
+        📄 The Devil_s Plan (2023).S02E11.mp4
+        📄 The Devil_s Plan (2023).S02E12.mp4
+📁 The Eternaut (2025)/
+    📄 The Eternaut (2025) (500 x 281).jpg
+    📁 S01/
+        📄 The Eternaut (2025).S01E01.mp4
+        📄 The Eternaut (2025).S01E02.mp4
+        📄 The Eternaut (2025).S01E03.mp4
+        📄 The Eternaut (2025).S01E04.mp4
+        📄 The Eternaut (2025).S01E05.mp4
+        📄 The Eternaut (2025).S01E06.mp4
+📁 The Good Lord Bird (2020)/
+    📄 The Good Lord Bird (2020) (500 x 281).jpg
+    📁 S01/
+        📄 The.Good.Lord.Bird (2020).S01E01.mp4
+        📄 The.Good.Lord.Bird (2020).S01E02.mp4
+        📄 The.Good.Lord.Bird (2020).S01E03.mp4
+        📄 The.Good.Lord.Bird (2020).S01E04.mp4
+        📄 The.Good.Lord.Bird (2020).S01E05.mp4
+        📄 The.Good.Lord.Bird (2020).S01E06.mp4
+        📄 The.Good.Lord.Bird (2020).S01E07.mp4
+📁 The Last of Us (2023)/
+    📁 S02/
+        📄 The.Last.of.Us (2023).S21E01.mp4
+        📄 The.Last.of.Us (2023).S21E02.mp4
+        📄 The.Last.of.Us (2023).S21E03.mp4
+        📄 The.Last.of.Us (2023).S21E04.mp4
+        📄 The.Last.of.Us (2023).S21E05.mp4
+        📄 The.Last.of.Us (2023).S21E06.mp4
+        📄 The.Last.of.Us (2023).S21E07.mp4
+📁 The Midnight Club (2022)/
+    📁 S01/
+        📄 The Midnight Club (2022).S02E01.mp4
+        📄 The Midnight Club (2022).S02E02.mp4
+        📄 The Midnight Club (2022).S02E03.mp4
+        📄 The Midnight Club (2022).S02E04.mp4
+        📄 The Midnight Club (2022).S02E05.mp4
+        📄 The Midnight Club (2022).S02E06.mp4
+        📄 The Midnight Club (2022).S02E07.mp4
+        📄 The Midnight Club (2022).S02E08.mp4
+        📄 The Midnight Club (2022).S02E09.mp4
+        📄 The Midnight Club (2022).S02E10.mp4
+📁 The Morning Show (2019)/
+    📁 S01/
+        📄 The Morning.Show (2019).S01E01.mp4
+        📄 The Morning.Show (2019).S01E02.mp4
+        📄 The Morning.Show (2019).S01E03.mp4
+        📄 The Morning.Show (2019).S01E04.mp4
+        📄 The Morning.Show (2019).S01E05.mp4
+        📄 The Morning.Show (2019).S01E06.mp4
+        📄 The Morning.Show (2019).S01E07.mp4
+        📄 The Morning.Show (2019).S01E08.mp4
+        📄 The Morning.Show (2019).S01E09.mp4
+        📄 The Morning.Show (2019).S01E10.mp4
+    📁 S02/
+        📄 The Morning.Show (2019).S02E01.mp4
+        📄 The Morning.Show (2019).S02E02.mp4
+        📄 The Morning.Show (2019).S02E03.mp4
+        📄 The Morning.Show (2019).S02E04.mp4
+        📄 The Morning.Show (2019).S02E05.mp4
+        📄 The Morning.Show (2019).S02E06.mp4
+        📄 The Morning.Show (2019).S02E07.mp4
+        📄 The Morning.Show (2019).S02E08.mp4
+        📄 The Morning.Show (2019).S02E09.mp4
+        📄 The Morning.Show (2019).S02E10.mp4
+    📁 S03/
+        📄 The Morning.Show (2019).S03E01.mp4
+        📄 The Morning.Show (2019).S03E02.mp4
+        📄 The Morning.Show (2019).S03E03.mp4
+        📄 The Morning.Show (2019).S03E04.mp4
+        📄 The Morning.Show (2019).S03E05.mp4
+        📄 The Morning.Show (2019).S03E06.mp4
+        📄 The Morning.Show (2019).S03E07.mp4
+        📄 The Morning.Show (2019).S03E08.mp4
+        📄 The Morning.Show (2019).S03E09.mp4
+        📄 The Morning.Show (2019).S03E10.mp4
+    📁 S04/
+        📄 The Morning.Show (2019).S04E01.mp4
+        📄 The Morning.Show (2019).S04E02.mp4
+        📄 The Morning.Show (2019).S04E03.mp4
+        📄 The Morning.Show (2019).S04E04.mp4
+        📄 The Morning.Show (2019).S04E05.mp4
+        📄 The Morning.Show (2019).S04E06.mp4
+📁 The Night Manager (2016)/
+    📁 S01/
+        📄 The.Night.Manager.(2016).S21E01.mp4
+        📄 The.Night.Manager.(2016).S21E02.mp4
+        📄 The.Night.Manager.(2016).S21E03.mp4
+        📄 The.Night.Manager.(2016).S21E04.mp4
+        📄 The.Night.Manager.(2016).S21E05.mp4
+        📄 The.Night.Manager.(2016).S21E06.mp4
+📁 The Penguin (2024)/
+    📄 The Penguin (2024)(500x281).png
+    📁 S01/
+        📄 The.Penguin(2024).S02E1.mp4
+        📄 The.Penguin(2024).S02E2.mp4
+        📄 The.Penguin(2024).S02E3.mp4
+        📄 The.Penguin(2024).S02E4.mp4
+        📄 The.Penguin(2024).S02E5.mp4
+        📄 The.Penguin(2024).S02E6.mp4
+        📄 The.Penguin(2024).S02E7.mp4
+        📄 The.Penguin(2024).S02E8.mp4
+📁 The Sandman (2022)/
+    📁 01/
+        📄 The.Sandman (2022).S01E01.mp4
+        📄 The.Sandman (2022).S01E02.mp4
+        📄 The.Sandman (2022).S01E03.mp4
+        📄 The.Sandman (2022).S01E04.mp4
+        📄 The.Sandman (2022).S01E05.mp4
+        📄 The.Sandman (2022).S01E06.mp4
+        📄 The.Sandman (2022).S01E07.mp4
+        📄 The.Sandman (2022).S01E08.mp4
+        📄 The.Sandman (2022).S01E09.mp4
+        📄 The.Sandman (2022).S01E10.mp4
+        📄 The.Sandman (2022).S01E11.mp4
+    📁 02/
+        📄 The.Sandman (2022).S02E01.mp4
+        📄 The.Sandman (2022).S02E02.mp4
+        📄 The.Sandman (2022).S02E03.mp4
+        📄 The.Sandman (2022).S02E04.mp4
+        📄 The.Sandman (2022).S02E05.mp4
+        📄 The.Sandman (2022).S02E06.mp4
+📁 The Walking Dead Daryl Dixon (2023)/
+    📁 S01/
+        📄 The.Walking.Dead-Daryl.Dixon.(2023)S01E01.mkv
+        📄 The.Walking.Dead-Daryl.Dixon.(2023)S01E02.mkv
+        📄 The.Walking.Dead-Daryl.Dixon.(2023)S01E03.mkv
+        📄 The.Walking.Dead-Daryl.Dixon.(2023)S01E04.mkv
+        📄 The.Walking.Dead-Daryl.Dixon.(2023)S01E05.mkv
+        📄 The.Walking.Dead-Daryl.Dixon.(2023)S01E06.mkv
+    📁 S02/
+        📄 The.Walking.Dead-Daryl.Dixon(2023) S02E01.mp4
+        📄 The.Walking.Dead-Daryl.Dixon(2023) S02E02.mp4
+        📄 The.Walking.Dead-Daryl.Dixon(2023) S02E03.mp4
+        📄 The.Walking.Dead-Daryl.Dixon(2023) S02E04.mp4
+        📄 The.Walking.Dead-Daryl.Dixon(2023) S02E05.mp4
+        📄 The.Walking.Dead-Daryl.Dixon(2023) S02E06.mp4
+    📁 S03/
+        📄 The Walking Dead - Daryl Dixon - S03E01.mp4
+        📄 The Walking Dead - Daryl Dixon - S03E02.mp4
+        📄 The Walking Dead - Daryl Dixon - S03E03.mp4
+        📄 The Walking Dead - Daryl Dixon - S03E04.mp4
+        📄 The Walking Dead - Daryl Dixon - S03E05.mp4
+        📄 The Walking Dead - Daryl Dixon - S03E06.mp4
+        📄 The Walking Dead - Daryl Dixon - S03E07.mp4
+📁 The Walking Dead Dead City (2023)/
+    📁 01/
+        📄 The Walking Dead Dead City(2023).S01E01.mkv
+        📄 The Walking Dead Dead City(2023).S01E02.mkv
+        📄 The Walking Dead Dead City(2023).S01E03.mkv
+        📄 The Walking Dead Dead City(2023).S01E04.mkv
+        📄 The Walking Dead Dead City(2023).S01E05.mkv
+        📄 The Walking Dead Dead City(2023).S01E06.mkv
+    📁 02/
+        📄 The Walking Dead Dead City(2023).S02E01.mkv
+        📄 The Walking Dead Dead City(2023).S02E02.mkv
+        📄 The Walking Dead Dead City(2023).S02E03.mkv
+        📄 The Walking Dead Dead City(2023).S02E04.mkv
+        📄 The Walking Dead Dead City(2023).S02E05.mkv
+        📄 The Walking Dead Dead City(2023).S02E06.mkv
+        📄 The Walking Dead Dead City(2023).S02E07.mkv
+        📄 The Walking Dead Dead City(2023).S02E08.mkv
+📁 The Witcher (2023)/
+    📁 S01/
+        📄 The.Witcher (2023).S01E01.mp4
+        📄 The.Witcher (2023).S01E02.mp4
+        📄 The.Witcher (2023).S01E03.mp4
+        📄 The.Witcher (2023).S01E04.mp4
+        📄 The.Witcher (2023).S01E05.mp4
+        📄 The.Witcher (2023).S01E06.mp4
+        📄 The.Witcher (2023).S01E07.mp4
+        📄 The.Witcher (2023).S01E08.mp4
+    📁 S02/
+        📄 The.Witcher (2023).S02E01.mp4
+        📄 The.Witcher (2023).S02E02.mp4
+        📄 The.Witcher (2023).S02E03.mp4
+        📄 The.Witcher (2023).S02E04.mp4
+        📄 The.Witcher (2023).S02E05.mp4
+        📄 The.Witcher (2023).S02E06.mp4
+        📄 The.Witcher (2023).S02E07.mp4
+        📄 The.Witcher (2023).S02E08.mp4
+    📁 S03/
+        📄 The.Witcher (2023).S03E01.mp4
+        📄 The.Witcher (2023).S03E02.mp4
+        📄 The.Witcher (2023).S03E03.mp4
+        📄 The.Witcher (2023).S03E04.mp4
+        📄 The.Witcher (2023).S03E05.mp4
+        📄 The.Witcher (2023).S03E06.mp4
+        📄 The.Witcher (2023).S03E07.mp4
+        📄 The.Witcher (2023).S03E08.mp4
+    📁 S04/
+        📄 The.Witcher (2023).S04E01.mp4
+        📄 The.Witcher (2023).S04E02.mp4
+        📄 The.Witcher (2023).S04E03.mp4
+        📄 The.Witcher (2023).S04E04.mp4
+        📄 The.Witcher (2023).S04E05.mp4
+        📄 The.Witcher (2023).S04E06.mp4
+        📄 The.Witcher (2023).S04E07.mp4
+        📄 The.Witcher (2023).S04E08.mp4
+📁 Those About to Die (2024)/
+    📄 Those About to Die [542 x 768].jpg
+    📁 S01/
+        📄 Those.About.to.Die (2024).S01E01.mp4
+        📄 Those.About.to.Die (2024).S01E02.mp4
+        📄 Those.About.to.Die (2024).S01E03.mp4
+        📄 Those.About.to.Die (2024).S01E04.mp4
+        📄 Those.About.to.Die (2024).S01E05.mp4
+        📄 Those.About.to.Die (2024).S01E06.mp4
+        📄 Those.About.to.Die (2024).S01E07.mp4
+        📄 Those.About.to.Die (2024).S01E08.mp4
+        📄 Those.About.to.Die (2024).S01E09.mp4
+        📄 Those.About.to.Die (2024).S01E10.mp4
+📁 UNTAMED (2025)/
+    📄 UNTAMED (2025) [500 X 281].jpg
+    📁 S01/
+        📄 UNTAMED (2025)S01E01.mp4
+        📄 UNTAMED (2025)S01E02.mp4
+        📄 UNTAMED (2025)S01E03.mp4
+        📄 UNTAMED (2025)S01E04.mp4
+        📄 UNTAMED (2025)S01E05.mp4
+        📄 UNTAMED (2025)S01E06.mp4
+📁 Vikings (2013)/
+    📁 04/
+        📄 Vikings (2013).S04E01.mp4
+        📄 Vikings (2013).S04E02.mp4
+        📄 Vikings (2013).S04E03.mp4
+        📄 Vikings (2013).S04E04.mp4
+        📄 Vikings (2013).S04E05.mp4
+        📄 Vikings (2013).S04E06.mp4
+        📄 Vikings (2013).S04E07.mp4
+        📄 Vikings (2013).S04E08.mp4
+        📄 Vikings (2013).S04E09.mp4
+        📄 Vikings (2013).S04E10.mp4
+        📄 Vikings (2013).S04E11.mp4
+        📄 Vikings (2013).S04E12.mp4
+        📄 Vikings (2013).S04E13.mp4
+        📄 Vikings (2013).S04E14.mp4
+        📄 Vikings (2013).S04E15.mp4
+        📄 Vikings (2013).S04E16.mp4
+        📄 Vikings (2013).S04E17.mp4
+        📄 Vikings (2013).S04E18.mp4
+        📄 Vikings (2013).S04E19.mp4
+        📄 Vikings (2013).S04E20.mp4
+📁 Yellowstone (2018)/
+    📁 S01/
+        📄 Yellowstone (2018) S01E01.mp4
+        📄 Yellowstone (2018) S01E02.mp4
+        📄 Yellowstone (2018) S01E03.mp4
+        📄 Yellowstone (2018) S01E04.mp4
+        📄 Yellowstone (2018) S01E05.mp4
+        📄 Yellowstone (2018) S01E06.mp4
+        📄 Yellowstone (2018) S01E07.mp4
+        📄 Yellowstone (2018) S01E08.mp4
+        📄 Yellowstone (2018) S01E09.mp4
+    📁 S02/
+        📄 Yellowstone (2018) S02E01.mp4
+        📄 Yellowstone (2018) S02E02.mp4
+        📄 Yellowstone (2018) S02E03.mp4
+        📄 Yellowstone (2018) S02E04.mp4
+        📄 Yellowstone (2018) S02E05.mp4
+        📄 Yellowstone (2018) S02E06.mp4
+        📄 Yellowstone (2018) S02E07.mp4
+        📄 Yellowstone (2018) S02E08.mp4
+        📄 Yellowstone (2018) S02E09.mp4
+        📄 Yellowstone (2018) S02E10.mp4
+    📁 S03/
+        📄 Yellowstone (2018) S03E01.mp4
+        📄 Yellowstone (2018) S03E02.mp4
+        📄 Yellowstone (2018) S03E03.mp4
+        📄 Yellowstone (2018) S03E04.mp4
+        📄 Yellowstone (2018) S03E05.mp4
+        📄 Yellowstone (2018) S03E06.mp4
+        📄 Yellowstone (2018) S03E07.mp4
+        📄 Yellowstone (2018) S03E08.mp4
+        📄 Yellowstone (2018) S03E09.mp4
+        📄 Yellowstone (2018) S03E10.mp4
+    📁 S04/
+        📄 Yellowstone (2018) S04E01.mp4
+        📄 Yellowstone (2018) S04E02.mp4
+        📄 Yellowstone (2018) S04E03.mp4
+        📄 Yellowstone (2018) S04E04.mp4
+        📄 Yellowstone (2018) S04E05.mp4
+        📄 Yellowstone (2018) S04E06.mp4
+        📄 Yellowstone (2018) S04E07.mp4
+        📄 Yellowstone (2018) S04E08.mp4
+        📄 Yellowstone (2018) S04E09.mp4
+        📄 Yellowstone (2018) S04E10.mp4
+    📁 S05/
+        📄 Yellowstone (2018) S05E01.mp4
+        📄 Yellowstone (2018) S05E02.mp4
+        📄 Yellowstone (2018) S05E03.mp4
+        📄 Yellowstone (2018) S05E04.mp4
+        📄 Yellowstone (2018) S05E05.mp4
+        📄 Yellowstone (2018) S05E06.mp4
+        📄 Yellowstone (2018) S05E07.mp4
+        📄 Yellowstone (2018) S05E08.mp4
