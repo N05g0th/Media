@@ -1,17 +1,47 @@
-Estructura de: E:\
-
-📁 E:\/
 📁 Dark Matter (2024)/
     📁 S01/
-    📄 Dark.Matter.(2024)S01E01.mp4
-    📄 Dark.Matter.(2024)S01E02.mp4
-    📄 Dark.Matter.(2024)S01E03.mp4
-    📄 Dark.Matter.(2024)S01E04.mp4
-    📄 Dark.Matter.(2024)S01E05.mp4
-    📄 Dark.Matter.(2024)S01E06.mp4
-    📄 Dark.Matter.(2024)S01E07.mp4
-    📄 Dark.Matter.(2024)S01E08.mp4
-    📄 Dark.Matter.(2024)S01E09.mp4
+        📄 Dark.Matter.(2024)S01E01.mp4
+        📄 Dark.Matter.(2024)S01E02.mp4
+        📄 Dark.Matter.(2024)S01E03.mp4
+        📄 Dark.Matter.(2024)S01E04.mp4
+        📄 Dark.Matter.(2024)S01E05.mp4
+        📄 Dark.Matter.(2024)S01E06.mp4
+        📄 Dark.Matter.(2024)S01E07.mp4
+        📄 Dark.Matter.(2024)S01E08.mp4
+        📄 Dark.Matter.(2024)S01E09.mp4
+    📁 S02/
+        📄 Dark.Matter.(2024)S02E01.mkv
+        📄 Dark.Matter.(2024)S02E02.mkv
+        📄 Dark.Matter.(2024)S02E03.mkv
+        📄 Dark.Matter.(2024)S02E04.mkv
+📁 Lioness (2023)/
+    📁 S01/
+        📄 Lioness.(2023).S01E01.mkv
+        📄 Lioness.(2023).S01E02.mkv
+        📄 Lioness.(2023).S01E03.mkv
+        📄 Lioness.(2023).S01E04.mkv
+        📄 Lioness.(2023).S01E05.mkv
+        📄 Lioness.(2023).S01E06.mkv
+        📄 Lioness.(2023).S01E07.mkv
+        📄 Lioness.(2023).S01E08.mkv
+        📄 Lioness.(2023).S01E09.mkv
+    📁 S02/
+        📄 Lioness.(2023).S02E01.mkv
+        📄 Lioness.(2023).S02E02.mkv
+        📄 Lioness.(2023).S02E03.mkv
+        📄 Lioness.(2023).S02E04.mkv
+        📄 Lioness.(2023).S02E05.mkv
+        📄 Lioness.(2023).S02E06.mkv
+        📄 Lioness.(2023).S02E07.mkv
+        📄 Lioness.(2023).S02E08.mkv
+    📁 S03/
+        📄 Lioness.(2023).S03E01.mkv
+        📄 Lioness.(2023).S03E02.mkv
+        📄 Lioness.(2023).S03E03.mkv
+        📄 Lioness.(2023).S03E04.mkv
+        📄 Lioness.(2023).S03E05.mkv
+        📄 Lioness.(2023).S03E06.mkv
+        📄 Lioness.(2023).S03E07.mkv
 📁 The Eternaut (2025)/
     📄 The Eternaut (2025) (500 x 281).jpg
     📁 S01/
