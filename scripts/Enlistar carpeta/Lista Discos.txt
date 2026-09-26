@@ -1,0 +1,41 @@
+
+📁 DISCO 1
+📁 Another Life (2019)/
+    📁 S01/📁 S02/
+📁 Battlestar Galactica (2003)/
+    📁 S00/📁 S01/📁 S02/📁 S03/📁 S04/
+📁 Calls (US) (2021)/
+    📁 S01/
+📁 Capadocia (2008)/
+    📁 S01/📁 S02/📁 S03/
+📁 Evil (2019)/
+    📁 S01/📁 S02/📁 S03/
+📁 Fear the Walking Dead (2015)/
+    📁 S01/📁 S02/📁 S03/📁 S04/📁 S05/📁 S06/📁 S07/📁 S08/
+📁 Game of Thrones (2011)/
+    📁 S01/📁 S02/📁 S03/📁 S04/📁 S05/📁 S06/📁 S07/📁 S08/
+📁 Godfather of Harlem (2019)/
+    📁 S01/📁 S02/📁 S03/
+📁 House of the Dragon (2022)/
+    📁 S01/📁 S02/
+📁 Mayfair Witches (2023)/
+    📁 S01/📁 S02/
+📁 Rome (2005)/
+    📁 S01/📁 S02/
+📁 Smallville (2001)/
+    📁 S01/📁 S02/📁 S03/📁 S04/📁 S05/📁 S06/📁 S07/📁 S08/📁 S09/📁 S10/
+📁 Stargate Atlantis (2004)/
+    📁 S01/📁 S02/📁 S03/📁 S04/📁 S05/
+📁 Stargate SG-1 (1997)/
+    📁 S01/📁 S02/📁 S03/📁 S04/📁 S05/📁 S06/📁 S07/📁 S08/📁 S09/📁 S10/
+📁 Stargate Universe (2009)/
+    📁 S01/📁 S02/📁
+📁 Teacup (2024)/
+    📁 S01/
+📁 Virgin River (2019)/
+    📁 S01/📁 S02/📁 S03/📁 S04/📁 S05/📁 S06/
+📁 Weak Hero (2022)/
+    📁 S01/
+📁 Yellowjackets (2021)/
+    📁 S01/📁 S02/📁 S03/📁 Zero Day (2025)/
+    📁 S01/
