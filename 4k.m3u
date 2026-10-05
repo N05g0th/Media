@@ -1,10 +1,4 @@
 ﻿#EXTM3U
-
-#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg",Insidious: Out of the Further (2026) [DUAL][4K][HDR10][DUAL]
-https://archive.org/download/linuxito_202610/Unix/001.mkv
-#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/thRJXNSUsqSNJALSKmXYNWSijB5.jpg",Hokum (2026) [DUAL][4K][HDR10][DUAL]
-https://archive.org/download/05_20260621_20260621/servers/05.mkv
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TML7fh2k/28-Years-Later-2025.jpg",28 Years Later (2025)[4K][HDR10][DUAL]
 https://archive.org/download/index_20251008_0506/Low/01.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svgsFLqR/A-Working-Man-2025-542-x-768.jpg",A Working Man (2025) [4K][HDR10][DUAL]
@@ -17,8 +11,12 @@ https://archive.org/download/sdweew/nano/sdweew.mkv
 https://archive.org/download/REFERTREFD/REFERTREFD.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSQPvzHc/Friday-the-13th-1980-542-x-768.jpg",Friday the 13th (1980) [4k][HDR10][DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/thRJXNSUsqSNJALSKmXYNWSijB5.jpg",Hokum (2026) [DUAL][4K][HDR10][DUAL]
+https://archive.org/download/05_20260621_20260621/servers/05.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dKMkmb1Oyfo9H8YuyG7awLGUNXL.jpg",In the Tall Grass (2019) [4K][HDR10][DUAL]
 https://archive.org/download/06_20241202/PBX4K/01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg",Insidious: Out of the Further (2026) [DUAL][4K][HDR10][DUAL]
+https://archive.org/download/linuxito_202610/Unix/001.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",Lee Cronin's The Mummy (2026)[ENG][4K][HDR10]
 https://archive.org/download/19345/Daemons/19345.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/huVzcVrlK8aiLd240ienleODvWl.jpg",Project Hail Mary (2026)[DUAL][4K][HDR10]
