@@ -1,10 +1,20 @@
 #!/usr/bin/env python3
 """
-Renombra los archivos de una carpeta de forma secuencial:
+Renombra SOLO los archivos de video de una carpeta de forma secuencial:
     001.ext, 002.ext, 003.ext, ...
+tomándolos del MÁS PESADO al MÁS LIGERO (el 001 es el archivo más grande),
+y luego mueve esos archivos ya renombrados a una subcarpeta llamada
+"Unix" dentro de la misma carpeta (un nivel por debajo).
 
-Además genera un archivo 0.txt con la relación entre el número
-asignado y el nombre original de cada archivo, con el formato:
+Se consideran archivos de video las extensiones: mkv, mp4, avi, mov,
+wmv, flv, webm, m4v, mpg, mpeg, 3gp, ts, vob. Cualquier otro archivo
+(m3u, html, bat, py, imágenes, subtítulos, etc.) se ignora por completo
+y no se mueve.
+
+Además genera un archivo 0.txt con la relación entre el número asignado
+y el nombre original de cada archivo (en modo simulación queda en la
+carpeta original; en modo real se mueve también a "Unix"), con el
+formato:
 
     001 nombre_original_del_archivo.ext
     002 otro_archivo.ext
@@ -23,7 +33,11 @@ import re
 import argparse
 
 NOMBRE_LOG = "0.txt"
-ARCHIVOS_IGNORADOS = {"numerar.py", "run_numerar.bat"}
+NOMBRE_CARPETA_DESTINO = "Unix"
+EXTENSIONES_VIDEO = {
+    ".mkv", ".mp4", ".avi", ".mov", ".wmv", ".flv", ".webm",
+    ".m4v", ".mpg", ".mpeg", ".3gp", ".ts", ".vob",
+}
 
 
 def limpiar_nombre(nombre):
@@ -36,18 +50,32 @@ def limpiar_nombre(nombre):
     return nombre_limpio
 
 
+def formatear_tamano(bytes_):
+    """Convierte un tamaño en bytes a un texto legible (MB, GB, ...)."""
+    tamano = float(bytes_)
+    for unidad in ("B", "KB", "MB", "GB", "TB"):
+        if tamano < 1024 or unidad == "TB":
+            return f"{tamano:.1f} {unidad}"
+        tamano /= 1024
+
+
 def procesar_carpeta(carpeta, simular=True):
-    # Se ignoran carpetas, el propio archivo de log si ya existe de una corrida
-    # anterior, y el propio script junto con su lanzador .bat.
-    archivos = sorted(
+    # Solo se toman en cuenta archivos de video; todo lo demás
+    # (m3u, html, bat, py, imágenes, subtítulos, etc.) se ignora.
+    candidatos = [
         f for f in os.listdir(carpeta)
         if os.path.isfile(os.path.join(carpeta, f))
         and f != NOMBRE_LOG
-        and f not in ARCHIVOS_IGNORADOS
-    )
+        and os.path.splitext(f)[1].lower() in EXTENSIONES_VIDEO
+    ]
+
+    # Orden: del más pesado al más ligero. En caso de empate de tamaño,
+    # se desempata alfabéticamente para que el resultado sea estable.
+    tamanos = {f: os.path.getsize(os.path.join(carpeta, f)) for f in candidatos}
+    archivos = sorted(candidatos, key=lambda f: (-tamanos[f], f.lower()))
 
     if not archivos:
-        print("No se encontraron archivos en la carpeta.")
+        print("No se encontraron archivos de video en la carpeta.")
         return
 
     cantidad_digitos = max(3, len(str(len(archivos))))
@@ -67,8 +95,9 @@ def procesar_carpeta(carpeta, simular=True):
         ruta_nueva = os.path.join(carpeta, nuevo_nombre)
 
         nombre_mostrado = limpiar_nombre(archivo)
+        tamano_texto = formatear_tamano(tamanos[archivo])
 
-        print(f"{numero}  {nombre_mostrado}  →  {nuevo_nombre}")
+        print(f"{numero}  {nombre_mostrado} ({tamano_texto})  →  {NOMBRE_CARPETA_DESTINO}/{nuevo_nombre}")
         lineas_log.append(f"{numero} {nombre_mostrado}")
         renombres.append((ruta_original, ruta_nueva, archivo, nuevo_nombre))
 
@@ -81,6 +110,10 @@ def procesar_carpeta(carpeta, simular=True):
 
     if not simular:
         print("\nAplicando renombrado...\n")
+
+        carpeta_destino = os.path.join(carpeta, NOMBRE_CARPETA_DESTINO)
+        os.makedirs(carpeta_destino, exist_ok=True)
+
         # Primero se renombra todo a un nombre temporal para evitar colisiones
         # (por ejemplo si ya existe un archivo llamado 001.ext en la carpeta).
         temporales = []
@@ -96,12 +129,25 @@ def procesar_carpeta(carpeta, simular=True):
                 os.rename(ruta_temp, os.path.join(carpeta, nombre_original))
                 continue
             os.rename(ruta_temp, ruta_nueva)
-            print(f"  ✔ {limpiar_nombre(nombre_original)} → {nuevo_nombre}")
+
+            # Se mueve el archivo ya renombrado a la subcarpeta destino.
+            ruta_final = os.path.join(carpeta_destino, nuevo_nombre)
+            if os.path.exists(ruta_final):
+                print(f"  ⚠ Ya existe {nuevo_nombre} en '{NOMBRE_CARPETA_DESTINO}', se deja en la carpeta original.")
+                continue
+            os.rename(ruta_nueva, ruta_final)
+            print(f"  ✔ {limpiar_nombre(nombre_original)} → {NOMBRE_CARPETA_DESTINO}/{nuevo_nombre}")
+
+        # Por último, se mueve también el log (0.txt) a la subcarpeta destino.
+        # os.replace sobrescribe un 0.txt previo si ya existía en 'Unix'.
+        ruta_log_final = os.path.join(carpeta_destino, NOMBRE_LOG)
+        os.replace(ruta_log, ruta_log_final)
+        print(f"  ✔ {NOMBRE_LOG} → {NOMBRE_CARPETA_DESTINO}/{NOMBRE_LOG}")
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Renombra archivos de una carpeta de forma secuencial y genera un log en 0.txt."
+        description="Renombra videos de una carpeta de forma secuencial (del más pesado al más ligero) y genera un log en 0.txt."
     )
     parser.add_argument(
         "carpeta",
