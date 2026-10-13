@@ -20,6 +20,17 @@ formato:
     002 otro_archivo.ext
     ...
 
+También genera un archivo entrada.m3u con el formato:
+
+    #EXTM3U
+    #EXTINF:-1,nombre de la película
+
+    #EXTINF:-1,nombre de la otra película
+
+    ...
+
+(se guarda y se mueve junto con 0.txt).
+
 Uso:
     # Modo simulación (no renombra nada, solo muestra qué haría):
     python renombrar_secuencial.py "C:\\ruta\\a\\la\\carpeta"
@@ -33,6 +44,7 @@ import re
 import argparse
 
 NOMBRE_LOG = "0.txt"
+NOMBRE_M3U = "entrada.m3u"
 NOMBRE_CARPETA_DESTINO = "Unix"
 EXTENSIONES_VIDEO = {
     ".mkv", ".mp4", ".avi", ".mov", ".wmv", ".flv", ".webm",
@@ -84,6 +96,7 @@ def procesar_carpeta(carpeta, simular=True):
         print("=== MODO SIMULACIÓN (no se renombrará nada) ===\n")
 
     lineas_log = []
+    lineas_m3u = ["#EXTM3U"]
     renombres = []  # (ruta_original, ruta_nueva, nombre_original, nuevo_nombre)
 
     for i, archivo in enumerate(archivos, start=1):
@@ -99,6 +112,8 @@ def procesar_carpeta(carpeta, simular=True):
 
         print(f"{numero}  {nombre_mostrado} ({tamano_texto})  →  {NOMBRE_CARPETA_DESTINO}/{nuevo_nombre}")
         lineas_log.append(f"{numero} {nombre_mostrado}")
+        lineas_m3u.append(f"#EXTINF:-1,{nombre_mostrado}")
+        lineas_m3u.append("")
         renombres.append((ruta_original, ruta_nueva, archivo, nuevo_nombre))
 
     # Escribir el log siempre, tanto en modo simulación como en modo real,
@@ -107,6 +122,11 @@ def procesar_carpeta(carpeta, simular=True):
     with open(ruta_log, "w", encoding="utf-8") as f:
         f.write("\n".join(lineas_log) + "\n")
     print(f"\nLista guardada en: {ruta_log}")
+
+    ruta_m3u = os.path.join(carpeta, NOMBRE_M3U)
+    with open(ruta_m3u, "w", encoding="utf-8") as f:
+        f.write("\n".join(lineas_m3u) + "\n")
+    print(f"Lista M3U guardada en: {ruta_m3u}")
 
     if not simular:
         print("\nAplicando renombrado...\n")
@@ -143,6 +163,11 @@ def procesar_carpeta(carpeta, simular=True):
         ruta_log_final = os.path.join(carpeta_destino, NOMBRE_LOG)
         os.replace(ruta_log, ruta_log_final)
         print(f"  ✔ {NOMBRE_LOG} → {NOMBRE_CARPETA_DESTINO}/{NOMBRE_LOG}")
+
+        # Y también el archivo entrada.m3u.
+        ruta_m3u_final = os.path.join(carpeta_destino, NOMBRE_M3U)
+        os.replace(ruta_m3u, ruta_m3u_final)
+        print(f"  ✔ {NOMBRE_M3U} → {NOMBRE_CARPETA_DESTINO}/{NOMBRE_M3U}")
 
 
 def main():
