@@ -15,6 +15,8 @@ https://archive.org/download/03_20250820_20250820_1910/deb/01.mp4
 https://archive.org/download/007_20260814/Unix/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2byCAyHGBt29zAZlFtdI45VLnCH.jpg" group-title="Acción",Amos del Universo (2026) [720p] [DUAL]
 https://archive.org/download/04_20260723/Linux/04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n2khdqaemwJhhu8tDdaxbSIex6T.jpg" group-title="Acción",Amsterdamned II (2025) [720p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ocB2LL9NgSUkoIo9VijFyVfXgSf.jpg" group-title="Acción",Angeles Caidos Guerreros de la Paz (2024) [720p] [DUAL]
 https://archive.org/download/09_20260501/upload/11.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e4P0lkcHgsBJgWSvLV3ezGZYDUU.jpg" group-title="Acción",Apex (2026) [720p] [DUAL]
@@ -178,9 +180,9 @@ https://archive.org/download/026_20200428/026.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p08mUnCktZ2opGihZTAn7OqzOoi.jpg" group-title="Acción",Gladiator (2000) [480p] [DUAL]
 https://archive.org/download/09_20260503_202605/Linux/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
-https://archive.org/download/5432_20241222/sabayon/674534.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
 https://archive.org/download/09_20260503_202605/Linux/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024) [480p] [DUAL]
+https://archive.org/download/5432_20241222/sabayon/674534.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="Acción",Gladiator 2 (2024)) [480p] [UND]
 https://archive.org/download/5432_20241222/sabayon/24524r.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg" group-title="Acción",Godzilla Vs Kong (2021) [480p] [ESP]
@@ -238,9 +240,9 @@ https://archive.org/download/02_20251014_202510/RPM/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg" group-title="Acción",Kill Bill Vol. 2 (2004) [720p] [ESP]
 https://archive.org/download/00gt_20210720/k1llb12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
-https://archive.org/download/05_20260604/Servers/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
 https://archive.org/download/06_20251017/rpm/06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" group-title="Acción",Kill Bill: Todo el Sangriento Asunto (2025) [480p] [DUAL]
+https://archive.org/download/05_20260604/Servers/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5k3XRO7OoqEqUp2wg0syiOaRipK.jpg" group-title="Acción",Kill: Masacre En el Tren (2024) [480p] [DUAL]
 https://archive.org/download/05_20260501/upload/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AgDkW4oDYSWIvZPniSQiRDgL6jf.jpg" group-title="Acción",King's Man El Origen (2021) [1080p] [DUAL]
@@ -325,12 +327,22 @@ https://archive.org/download/02_20260502_20260502_2006/upload/06.mp4
 https://archive.org/download/04_20260404/up/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/udpVgRB3xz5ZN553apthn4TyT6G.jpg" group-title="Acción",Mad Max 2 (1981) [720p] [DUAL]
 https://archive.org/download/04_20260404/up/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/udpVgRB3xz5ZN553apthn4TyT6G.jpg" group-title="Acción",Mad Max 2 El Guerrero de la Carretera (1981) [720p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/008.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u9gVwCajHkJpVAaVRau2xSOeHcl.jpg" group-title="Acción",Mad Max 3 Más Allá de la Cúpula del Trueno (1985) [720p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/010.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u9gVwCajHkJpVAaVRau2xSOeHcl.jpg" group-title="Acción",Mad Max 3: Más Allá de la Cúpula del Trueno (1985) [720p] [DUAL]
 https://archive.org/download/04_20260404/up/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ixSuKuBnSfHmyzZbcWCywOKZ6Ho.jpg" group-title="Acción",Mad Max Furia En el Camino (2015) [272p] [UND]
 https://archive.org/download/029_20200428/030.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ixSuKuBnSfHmyzZbcWCywOKZ6Ho.jpg" group-title="Acción",Mad Max Furia En el Camino (2015) [480p] [DUAL]
 https://archive.org/download/04_20260404/up/04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ixSuKuBnSfHmyzZbcWCywOKZ6Ho.jpg" group-title="Acción",Mad Max Furia en el camino (2015) [720p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fUaujQcU0WYvuBQ9q2gEytKj1Ud.jpg" group-title="Acción",Mad Max Salvajes de Autopista (1979) [720p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg" group-title="Acción",Mad Max: Furiosa (2024) [720p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/L56pZmao0tTUD7sYQUa6MyO67g.jpg" group-title="Acción",Manhattan sin Salida (2019) [480p] [ESP]
 https://dl.dropbox.com/s/38lfemhgm0f04px/manhatansinsalida.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qGWgNZSsxSc1GWL9tUBaThV2MWr.jpg" group-title="Acción",Masacre En el Barrio Japonés (1991) [720p] [UND]
@@ -376,21 +388,21 @@ https://archive.org/download/01_20260701_20260701_1722/project/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/02_20260609/upload/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
-https://archive.org/download/01_20260630_20260630/regedit/01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
 https://archive.org/download/02_20260609/upload/03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Acción",Mortal Kombat 2 (2026) [720p] [DUAL]
+https://archive.org/download/01_20260630_20260630/regedit/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aq2vbzxcG5K3SSLReMqO5TettmE.jpg" group-title="Acción",Máquina de guerra (2026) [720p] [DUAL]
 https://archive.org/download/03_20260426_202604/Nuevos/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
-https://archive.org/download/08_20260421_202604/Linux/12.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
 https://archive.org/download/daemons_202509/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg" group-title="Acción",Nadie 2 (2025) [480p] [DUAL]
+https://archive.org/download/08_20260421_202604/Linux/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kowCKRIO1xws2USrgWaPYdTZzYO.jpg" group-title="Acción",Nine-Ring Golden Dagger (2025) [480p] [DUAL]
 https://archive.org/download/12_20260502_202605/upload/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rHjnkuwEdfh31X0E0MofBfMUgi1.jpg" group-title="Acción",Normal (2026) [720p] [DUAL]
-https://archive.org/download/003_20260930/Unix/007.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rHjnkuwEdfh31X0E0MofBfMUgi1.jpg" group-title="Acción",Normal (2026) [720p] [DUAL]
 https://archive.org/download/04_20260708_202607/Linux/04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rHjnkuwEdfh31X0E0MofBfMUgi1.jpg" group-title="Acción",Normal (2026) [720p] [DUAL]
+https://archive.org/download/003_20260930/Unix/007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8bfjeNVlyhYPMxEmeWeWVyAizoo.jpg" group-title="Acción",Oficina 749 (2024) [720p] [DUAL]
 https://archive.org/download/09_20260425/Linux/09.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg" group-title="Acción",One Mile Chapter One (2026) [720p] [DUAL]
@@ -1199,6 +1211,8 @@ https://archive.org/download/004_20260827/Linux/001.mkv
 https://archive.org/download/004_20260827/Linux/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mIgILPxEii0zabjYx7aFlMZe531.jpg" group-title="Comedia",American Pie presenta Las chicas mandan (2020) [1080p] [DUAL]
 https://archive.org/download/004_20260827/Linux/003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg" group-title="Comedia",Animales (2026) [1080p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lFKwVLk9lj5n3pD42WgDJFL6oUh.jpg" group-title="Comedia",Borrar Historial (2013) [1080p] [DUAL]
 https://archive.org/download/02_20260715_202607/daemons/08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2KoJzUrqIpczH2f1cKgCFbQoJDf.jpg" group-title="Comedia",Brillarás Para Siempre (2021) [720p] [DUAL]
@@ -1216,9 +1230,9 @@ https://archive.org/download/004_20260906/Unix/002.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6QG3MG4HkOrJPJFtIlwL6NLhVOS.jpg" group-title="Comedia",El arte de ser adulto (2020)
 https://www.dropbox.com/s/f096jhwm57xt6tt/thekingofstatenisland.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eB3ASwiM7SvLClJB5cuN9eTNcFe.jpg" group-title="Comedia",El descanso (2006) [720p] [DUAL]
-https://archive.org/download/02_20260419_20260419_2355/Debianitos/09.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eB3ASwiM7SvLClJB5cuN9eTNcFe.jpg" group-title="Comedia",El descanso (2006) [720p] [DUAL]
 https://archive.org/download/09_20260430_20260430_1951/editores/08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eB3ASwiM7SvLClJB5cuN9eTNcFe.jpg" group-title="Comedia",El descanso (2006) [720p] [DUAL]
+https://archive.org/download/02_20260419_20260419_2355/Debianitos/09.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="Comedia",El diablo viste a la moda (2006) [1080p] [DUAL]
 https://archive.org/download/06_20260630/project/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="Comedia",El diablo viste a la moda 2 (2026) [720p] [DUAL]
@@ -1437,6 +1451,8 @@ https://archive.org/download/3l-4rt-3-d-3l-d-14bl-0-1/champurrado/M1l4gr0%203n%2
 https://dl.dropbox.com/s/4nhsuuvg8xwmj4p/milf.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xwtwh7ywPfg8Pia0pGyQ5BK56bp.jpg" group-title="Comedia",Mujeres Arriba (2020) [720p] [ENG]
 https://dl.dropboxusercontent.com/s/oxpg0ixgh36e2k6/mujeres.arriba.2020.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2JW1Uhs12ZsnxHG8EUbK5uHNK1J.jpg" group-title="Comedia",No miren arriba (2021) [1080p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2qjmj0tYlKxq82mUKA2Xb6gqlYa.jpg" group-title="Comedia",No Te Metas con Zohan (2008) [256p] [UND]
 http://archive.org/download/nnndnsfkfjgjjdisdkfjsk/nnndnsfkfjgjjdisdkfjsk.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/XcZ5NzygPp54csxCnzvQKuxFL2.jpg" group-title="Comedia",Norbit (2007) [1080p] [DUAL]
@@ -1655,6 +1671,8 @@ https://archive.org/download/02_20260604/upload/01.mp4
 https://archive.org/download/h1erb4/4ft3rr.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oTCOZ8O0wHWQFUF8ZKsJmINtc4a.jpg" group-title="Drama",Akeelah contra todos (2006) [1080p] [ESP]
 https://archive.org/download/002_20260819_20260819_1814/Linux/008.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/totNLyku4VKrCoBgN6JXU4d6y1l.jpg" group-title="Drama",Al borde de la guerra (2026) [720p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/68HAj9IBobHQsO8SN9G8Nn06amE.jpg" group-title="Drama",Alcatraz: Fuga Imposible (1979) [720p] [DUAL]
 https://archive.org/download/10_20260430_20260430_1725/unix/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1wSyCFk53Xx7kVU76bLEDWk6BgA.jpg" group-title="Drama",Alucinaciones del pasado (1990) [720p] [DUAL]
@@ -1672,9 +1690,9 @@ https://archive.org/download/10_20260504_20260504/Linux/10.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zBVNawbcB9z3cQw3uOvQ6dTLBS2.jpg" group-title="Drama",Batman (2022) [358p] [ESP]
 https://archive.org/download/descarga_202101/dfdf/b4mm44n.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bg8Fi5Vt9DhtuzWmyUn9qkljblu.jpg" group-title="Drama",Blue Sun Palace (2025) [720p] [DUAL]
-https://archive.org/download/09_20260425/Linux/07.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bg8Fi5Vt9DhtuzWmyUn9qkljblu.jpg" group-title="Drama",Blue Sun Palace (2025) [720p] [DUAL]
 https://archive.org/download/11_20260419_20260419/Federratas/03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bg8Fi5Vt9DhtuzWmyUn9qkljblu.jpg" group-title="Drama",Blue Sun Palace (2025) [720p] [DUAL]
+https://archive.org/download/09_20260425/Linux/07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qhPv5QHEI1Rl8Rphxf93e7wUBEs.jpg" group-title="Drama",Brigada 49 (2004) [720p] [DUAL]
 https://archive.org/download/008_20260821/Edit/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qtDaBufk3MLmMCYV1W0N1MVBepn.jpg" group-title="Drama",Burning Hearts (2022) [720p] [DUAL]
@@ -1712,9 +1730,9 @@ https://archive.org/download/02_20260418_202604/Nuevos/03.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/uRBapeuwV8yy4in4BkETHBDmWkH.jpg" group-title="Drama",Dan Brown: Ángeles y Demonios (2009) [720p] [DUAL]
 https://archive.org/download/02_20260418_202604/Nuevos/02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b8gw9s7hWbcA0kuezuV10DKgjRP.jpg" group-title="Drama",De Amor y Otras Adicciones (2010) [1080p] [DUAL]
-https://archive.org/download/index_20260430_1627/unix/03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b8gw9s7hWbcA0kuezuV10DKgjRP.jpg" group-title="Drama",De Amor y Otras Adicciones (2010) [1080p] [DUAL]
 https://archive.org/download/07_20260502/upload/05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b8gw9s7hWbcA0kuezuV10DKgjRP.jpg" group-title="Drama",De Amor y Otras Adicciones (2010) [1080p] [DUAL]
+https://archive.org/download/index_20260430_1627/unix/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/19JQnXT21OtH24fBgexkDFVFEoS.jpg" group-title="Drama",Dead Man's Wire (2026) [1080p] [DUAL]
 https://archive.org/download/06_20260630/project/06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fBoR7WM0hwUQiMpE50hZgXo5XLM.jpg" group-title="Drama",Desastre en el ártico (2023) [480p] [DUAL]
@@ -1732,9 +1750,9 @@ https://archive.org/download/05_20260505_202605/Linux/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jhuwS5KzaB7jrX74YCm1iHTDntq.jpg" group-title="Drama",Django sin Cadenas (2012) [480p] [DUAL]
 https://archive.org/download/02_20260502_20260502/upload/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg" group-title="Drama",Doing Life (2026) [1080p] [DUAL]
-https://archive.org/download/ubuntu_202610/Linux/004.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg" group-title="Drama",Doing Life (2026) [1080p] [DUAL]
 https://archive.org/download/001_20261003_20261003_1847/Unix/002.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg" group-title="Drama",Doing Life (2026) [1080p] [DUAL]
+https://archive.org/download/ubuntu_202610/Linux/004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/axsydvlnKnIGnpBENqRrnq5lzZB.jpg" group-title="Drama",Dos fiscales (2025) [720p] [ESP]
 https://archive.org/download/005_20260803/Linux/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/88dzElDsn6TUvRjJNMcvZ4f5ShP.jpg" group-title="Drama",Dos Hermanas (2003) [DUAL] [1080p]
@@ -1764,9 +1782,9 @@ https://archive.org/download/002_20260819_20260819_1814/Linux/007.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nLIDouFvreSrs8xK62zuvpEPDw0.jpg" group-title="Drama",El descubrimiento (2017) [1080p] [DUAL]
 https://archive.org/download/008_20260729/Linux/007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fLrirs1Hoo0jq0dhTs7CMENvzTk.jpg" group-title="Drama",El Día que la Tierra se Detuvo (2008) [720p] [DUAL]
-https://archive.org/download/01_20251125_20251125_0530/Onifom/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fLrirs1Hoo0jq0dhTs7CMENvzTk.jpg" group-title="Drama",El Día que la Tierra se Detuvo (2008) [720p] [DUAL]
 https://archive.org/download/07_20260502_202605/upload/03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fLrirs1Hoo0jq0dhTs7CMENvzTk.jpg" group-title="Drama",El Día que la Tierra se Detuvo (2008) [720p] [DUAL]
+https://archive.org/download/01_20251125_20251125_0530/Onifom/03.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/3tSaiMvSZjogKCLovoJkifskR8Y.jpg" group-title="Drama",El entregador de la noche (2023) [720p] [DUAL]
 https://archive.org/download/11_20251104/Gedit/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/atwJGO4Ks8k9aUcGN968YFvnwbB.jpg" group-title="Drama",El Faro (2019) [720p] [ESP]
@@ -1784,9 +1802,9 @@ https://archive.org/download/08_20260522_202605/Freak/07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3MIurH7uaXGoEuOCXVoMZ3VGKMd.jpg" group-title="Drama",El Mago del Kremlin (2026) [720p] [DUAL]
 https://archive.org/download/01_20260607_20260607/upload/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/php54QmAjXe95WIWzklK2zHJtCN.jpg" group-title="Drama",El Manuscrito De Dante (2026) [720p] [DUAL]
-https://archive.org/download/03_20260628/edit/03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/php54QmAjXe95WIWzklK2zHJtCN.jpg" group-title="Drama",El Manuscrito De Dante (2026) [720p] [DUAL]
 https://archive.org/download/002_20260825/Linux/007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/php54QmAjXe95WIWzklK2zHJtCN.jpg" group-title="Drama",El Manuscrito De Dante (2026) [720p] [DUAL]
+https://archive.org/download/03_20260628/edit/03.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg" group-title="Drama",El Padrino Parte 1 (1972) [368p] [UND]
 https://dl.dropbox.com/s/bnpgfv9yzowzv5y/ppppp.avi
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg" group-title="Drama",El Padrino Parte 1 (1972) [720p] [UND]
@@ -1817,10 +1835,10 @@ https://archive.org/download/disco-duro_202112/extr40rd1n4.mp4
 https://archive.org/download/02_20260701/handbrake/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gA6gtBa0fWiC3KkEkyPAyhkoFlY.jpg" group-title="Drama",Feroz II (2004) [720p] [ESP]
 https://archive.org/download/02_20260715_202607/daemons/01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gpvlDdAfr3ImydsZxGnYM0bcrJg.jpg" group-title="Drama",Flags Of Our Fathers (2006) [720p] [ENG]
-https://archive.org/download/01_20260630_20260630/regedit/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gpvlDdAfr3ImydsZxGnYM0bcrJg.jpg" group-title="Drama",Flags of Our Fathers (2006) [720p] [ENG]
 https://archive.org/download/01_20260701_20260701_1722/project/02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gpvlDdAfr3ImydsZxGnYM0bcrJg.jpg" group-title="Drama",Flags Of Our Fathers (2006) [720p] [ENG]
+https://archive.org/download/01_20260630_20260630/regedit/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kLqt9zuZqxDqaRWdlY7nvWbTaCy.jpg" group-title="Drama",Flores En El Ático (2014) [400p] [UND]
 https://archive.org/download/011_20260919/Unix/008.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kLqt9zuZqxDqaRWdlY7nvWbTaCy.jpg" group-title="Drama",Flores En El Ático (2014) [480p] [ENG]
@@ -1868,13 +1886,13 @@ https://archive.org/download/02_20260604/upload/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg" group-title="Drama",Inmortal (2015) [720p] [DUAL]
 https://archive.org/download/03_20260522_20260522/Distros/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kKBHjBY9RLPyIJaycEdduPj0cjB.jpg" group-title="Drama",Inocencia Interrumpida (1999) [480p] [DUAL]
-https://archive.org/download/11_20260419_20260419/Federratas/04.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kKBHjBY9RLPyIJaycEdduPj0cjB.jpg" group-title="Drama",Inocencia Interrumpida (1999) [480p] [DUAL]
 https://archive.org/download/07_20260430_20260430_2109/editores/04.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/epEorIcbWjuLqd4dgRWYffpazIR.jpg" group-title="Drama",Invencible Un niño fuera de serie (2025) [720p] [DUAL]
-https://archive.org/download/006_20260826/GIT/005.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kKBHjBY9RLPyIJaycEdduPj0cjB.jpg" group-title="Drama",Inocencia Interrumpida (1999) [480p] [DUAL]
+https://archive.org/download/11_20260419_20260419/Federratas/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/epEorIcbWjuLqd4dgRWYffpazIR.jpg" group-title="Drama",Invencible Un niño fuera de serie (2025) [720p] [DUAL]
 https://archive.org/download/003_20260827_202608/Git/004.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/epEorIcbWjuLqd4dgRWYffpazIR.jpg" group-title="Drama",Invencible Un niño fuera de serie (2025) [720p] [DUAL]
+https://archive.org/download/006_20260826/GIT/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1UZS0CRRbCxTf9FPcXsmFqGcSES.jpg" group-title="Drama",Invocación (2025) [720p] [DUAL]
 https://archive.org/download/07_20260607/upload/08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/14AUhr2kryo1NZiFQ2HPkT2tKvg.jpg" group-title="Drama",Jack Reacher: Bajo la Mira (2012) [720p] [DUAL]
@@ -1898,9 +1916,9 @@ https://archive.org/download/carros_202101/14%20c4s4.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8lDIdAJb1IaC6qA48sTv62HlZZM.jpg" group-title="Drama",La caza (2012) [1080p] [DUAL]
 https://archive.org/download/001_20260820_20260820/Linux/004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7AXkSJ9zVSTL7vzTeBryx22kYDa.jpg" group-title="Drama",La chica de la aguja (2024) [720p] [DUAL]
-https://archive.org/download/04_20250819/text-editors/05.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7AXkSJ9zVSTL7vzTeBryx22kYDa.jpg" group-title="Drama",La chica de la aguja (2024) [720p] [DUAL]
 https://archive.org/download/09_20260430_20260430_1951/editores/03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7AXkSJ9zVSTL7vzTeBryx22kYDa.jpg" group-title="Drama",La chica de la aguja (2024) [720p] [DUAL]
+https://archive.org/download/04_20250819/text-editors/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mskEvxMmEjkQ7tiKzTn2PGc7dP.jpg" group-title="Drama",La cuidadora de la mansión Garret (2023) [1080p] [DUAL]
 https://archive.org/download/017_20260807/Unix/012.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mskEvxMmEjkQ7tiKzTn2PGc7dP.jpg" group-title="Drama",La cuidadora de la mansión Garret (2023) [720p] [DUAL]
@@ -1914,13 +1932,13 @@ https://archive.org/download/002_20261007_20261007_2047/Unix/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l0MP9swm7E4C9owBJvHl7NNeKFn.jpg" group-title="Drama",La mala noche (2018) [480p] [ESP]
 https://archive.org/download/05_20260502/upload/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rimW62jSFC5mF2DzIxSkiOPe5A3.jpg" group-title="Drama",La mano que mece la cuna (1992) [480p] [DUAL]
-https://archive.org/download/06_20251117_20251117/vim/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rimW62jSFC5mF2DzIxSkiOPe5A3.jpg" group-title="Drama",La mano que mece la cuna (1992) [480p] [DUAL]
 https://archive.org/download/09_20260430_20260430_1951/editores/06.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rimW62jSFC5mF2DzIxSkiOPe5A3.jpg" group-title="Drama",La mano que mece la cuna (2025) [720p] [DUAL]
-https://archive.org/download/09_20260430_20260430_1951/editores/07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rimW62jSFC5mF2DzIxSkiOPe5A3.jpg" group-title="Drama",La mano que mece la cuna (1992) [480p] [DUAL]
+https://archive.org/download/06_20251117_20251117/vim/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rimW62jSFC5mF2DzIxSkiOPe5A3.jpg" group-title="Drama",La mano que mece la cuna (2025) [720p] [DUAL]
 https://archive.org/download/01_20251125_20251125_0530/Onifom/05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rimW62jSFC5mF2DzIxSkiOPe5A3.jpg" group-title="Drama",La mano que mece la cuna (2025) [720p] [DUAL]
+https://archive.org/download/09_20260430_20260430_1951/editores/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4sLMTlmPwqwB6Ba1iWVld3v6wIZ.jpg" group-title="Drama",La Muerte Salvo Mi Vida (2021) [480p] [ESP]
 https://archive.org/download/00-sierte/l4mu3rt.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/s3jwAo3eqhfjcqwaztGXUfRk8aJ.jpg" group-title="Drama",La negociación (2026) [1080p] [DUAL]
@@ -1944,9 +1962,9 @@ https://archive.org/download/05_20260505_202605/Linux/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pYRGpN3HtAKVwdlJx6I2RQ7Ik9H.jpg" group-title="Drama",La Última Carta de Amor (2021) [720p] [ESP]
 https://archive.org/download/02sssd/ult1m4c4rt4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/audJM8LV4rJDD0Z7mvAGMS9KciG.jpg" group-title="Drama",La última chispa de esperanza (2023) [720p] [DUAL]
-https://archive.org/download/011_20260919/Unix/009.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/audJM8LV4rJDD0Z7mvAGMS9KciG.jpg" group-title="Drama",La última chispa de esperanza (2023) [720p] [DUAL]
 https://archive.org/download/002_20260917_202609/Unix/002.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/audJM8LV4rJDD0Z7mvAGMS9KciG.jpg" group-title="Drama",La última chispa de esperanza (2023) [720p] [DUAL]
+https://archive.org/download/011_20260919/Unix/009.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/aj0pgKR4dWlRRb1Q05JGQtwxHbj.jpg" group-title="Drama",Lamb (2015) [358p] [ESP]
 https://archive.org/download/00naran/fgtyko/l4m.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg" group-title="Drama",Las cartas de la vida (2026) [1080p] [DUAL]
@@ -1964,11 +1982,11 @@ https://archive.org/download/11_20260503_20260503/upload/10.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i6ONJaU8vASjpaSENS8LRMVSx4v.jpg" group-title="Drama",Licorice Pizza (2021) [358p] [ESP]
 https://archive.org/download/00naran/fgtyko/l1c0r1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5jDShbwEsILXa2AAmAbOLxyNwyq.jpg" group-title="Drama",Lords of Chaos (2018) [720p] [DUAL]
-https://archive.org/download/001_20260820_20260820/Linux/005.mkv
+https://archive.org/download/003_20260930/Unix/006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5jDShbwEsILXa2AAmAbOLxyNwyq.jpg" group-title="Drama",Lords of Chaos (2018) [720p] [DUAL]
 https://archive.org/download/001_20260929_202609/Up/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5jDShbwEsILXa2AAmAbOLxyNwyq.jpg" group-title="Drama",Lords of Chaos (2018) [720p] [DUAL]
-https://archive.org/download/003_20260930/Unix/006.mkv
+https://archive.org/download/001_20260820_20260820/Linux/005.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/junkuhpmus2ivvOrY7pAfQhLBnR.jpg" group-title="Drama",Los Cuatro Jinentes del Apocalipsis (2008) [1080p] [DUAL]
 https://archive.org/download/linux_20260716/Linux/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kUfNxdftpiADE92Ch2Z0IRZjwwm.jpg" group-title="Drama",Los Diez Mandamientos (1956) [416p] [UND]
@@ -2082,9 +2100,9 @@ https://archive.org/download/03_20260704/Linux/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nitJxV5GfaOB44VVOpVx2fOxnuT.jpg" group-title="Drama",The Godfather Parte 2 (1974) [720p] [ESP]
 https://archive.org/download/032_20200504/032.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3Px3gNmMbWBDQJGkrCMI4RUn08P.jpg" group-title="Drama",The Mad Game (2022) [720p] [DUAL]
-https://archive.org/download/05_20260705_202607/SERVERS/01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3Px3gNmMbWBDQJGkrCMI4RUn08P.jpg" group-title="Drama",The Mad Game (2022) [720p] [DUAL]
 https://archive.org/download/07_20260607/upload/06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3Px3gNmMbWBDQJGkrCMI4RUn08P.jpg" group-title="Drama",The Mad Game (2022) [720p] [DUAL]
+https://archive.org/download/05_20260705_202607/SERVERS/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qIvZJM4FduzTZ0P2qFK2gdcZ2vC.jpg" group-title="Drama",The Plague (2025) [720p] [DUAL]
 https://archive.org/download/005_20260803/Linux/008.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg" group-title="Drama",The Room (2019)
@@ -2108,9 +2126,9 @@ https://archive.org/download/03_20260601_20260601/Edit/06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rXoZYWd2G7pBh8N8Cp5ZO5Sjzbl.jpg" group-title="Drama",Trust (2025) [720p] [DUAL]
 https://archive.org/download/10_20260425_20260425/tex/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5DRlbS7a2D6lXx1OZo2egdheX6n.jpg" group-title="Drama",Turn Me On (2024) [720p] [DUAL]
-https://archive.org/download/01_20250808_20250808_1322/daemons/04.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5DRlbS7a2D6lXx1OZo2egdheX6n.jpg" group-title="Drama",Turn Me On (2024) [720p] [DUAL]
 https://archive.org/download/10_20260425_20260425/tex/04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5DRlbS7a2D6lXx1OZo2egdheX6n.jpg" group-title="Drama",Turn Me On (2024) [720p] [DUAL]
+https://archive.org/download/01_20250808_20250808_1322/daemons/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ODTuap8nZNMSDyWynCTID2lTCF.jpg" group-title="Drama",Un Amor Inesperado (Love Happens) (2009) [356p] [UND]
 https://archive.org/download/elbaile_202002/elbaile.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w5SJ8gYm9bxGupUxx3MdnJp4UZ.jpg" group-title="Drama",Un Cuento en el Bronx (1993) [480p] [ESP]
@@ -2122,9 +2140,9 @@ http://archive.org/download/kuhlman_1_20190504/2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uDZJph23idOLBmImnuaZBlF3TgP.jpg" group-title="Drama",Un sueño posible (2009) [720p] [ENG]
 https://dl.dropboxusercontent.com/s/ypwzz6z4ifg72m8/the%20blind%20side.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pxKbpqPVjRQj87G8Pd6sQsbmf4S.jpg" group-title="Drama",Una Mente Brillante (2001) [1080p] [DUAL]
-https://archive.org/download/linux_202610/Linux/009.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pxKbpqPVjRQj87G8Pd6sQsbmf4S.jpg" group-title="Drama",Una Mente Brillante (2001) [1080p] [DUAL]
 https://archive.org/download/02_20260617/upload/02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pxKbpqPVjRQj87G8Pd6sQsbmf4S.jpg" group-title="Drama",Una Mente Brillante (2001) [1080p] [DUAL]
+https://archive.org/download/linux_202610/Linux/009.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bf9ojBGbivquotOyAE2y669rYVO.jpg" group-title="Drama",Una Mujer sin Pasado (2026) [1080p] [DUAL]
 https://archive.org/download/004_20260830/Git/006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nCEQ9PWAuIdxj9AskLf6Gbec16d.jpg" group-title="Drama",Una Vida Por Delante (2005) [720p]
@@ -3829,6 +3847,8 @@ https://archive.org/download/002_20260909_20260909/Unix/005.mkv
 https://archive.org/download/002_20260909_20260909/Unix/006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q6Rmmz5MYWHBqqdxhW6nsj0vgts.jpg" group-title="Terror",¡Pooka! (2018) [320p] [UND]
 http://ia601500.us.archive.org/8/items/000_20191210/03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/fDYJh4EYnTevFe9eHOTlSBTeqpj.jpg" group-title="Terror",Un oscuro secreto (2025) [720p] [DUAL]
+https://archive.org/download/001_20261013_202610/Linux/009.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vJrlt9oldbblmnIlVwPe620vMiB.jpg" group-title="Western",Cometieron Dos Errores (1968)
 https://docentecoahuila-my.sharepoint.com/:v:/g/personal/franciscoorlando_robles_docentecoahuila_gob_mx/extym54v8c1ii7pfth-843gbebe_8sres8hvjby9mc6znw?download=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l33smCkbpVFvNxGLILrx1PEyxyw.jpg" group-title="Western",Django Imbatible (2024) [720p] [DUAL]
