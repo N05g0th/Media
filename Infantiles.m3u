@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rThEd8HVO0AceDcvu7OhhqZgbVE.jpg",Dragon Ball GT La Legendaria Esfera de Cuatro Estrellas (1997) [1080p] [DUAL]
-https://archive.org/download/001_20261015/Unix/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vH7avbxSgyTMVvwaevhL08yDOY.jpg",101 dálmatas (1961) [720p] [ENG]
 https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w6qp51WW5DsYcjc0elXnn6YGiRv.jpg",Agente 00-Gato (2019) [462p] [ESP]
@@ -63,6 +61,8 @@ https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F1
 https://archive.org/download/004_20260729/Linux/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zKtaELmdGWrRY2WoaFE9SBMdRue.jpg",Demon Slayer: Mugen Train La película (2020) [480p] [ESP]
 https://archive.org/download/ck-2_20210106/derteer/tr3n1n1f1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rThEd8HVO0AceDcvu7OhhqZgbVE.jpg",Dragon Ball GT La Legendaria Esfera de Cuatro Estrellas (1997) [1080p] [DUAL]
+https://archive.org/download/001_20261015/Unix/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3ipNfb1BIs6xGORZETfL2rYUy4w.jpg",Dragon Ball Z: El Hombre más Fuerte de este Mundo (1990) [480p] [DUAL]
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/2.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5oHgtFLCf8ZbC5Q3hgJ5fVhiE5W.jpg",Dragon Ball Z: El Poder Invencible (1993) [480p] [DUAL]
@@ -597,6 +597,12 @@ http://archive.org/download/img-20200521-172454-hdr/4pru3b4d31n7r0.mp4
 http://archive.org/download/5_20200304_20200304/6.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qgsQBpIZvcPvOan0Ycxy57dNa6v.jpg",Supermonstruos: Día de los Monstruos (2020) [720p] [ESP]
 https://archive.org/download/tutoriales_202506/TutorialesLinux/08.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hnJUhmknSFTmgA2pZHwId8ahBvq.jpg",Tadeo El explorador perdido (2012) [1080p] [DUAL]
+https://archive.org/download/001_20261016_20261016_1835/Unix/006.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zsaGcfQcGuRmSHfvQEbjj4gR9jP.jpg",Tadeo El explorador perdido 2 El secreto del Rey Midas (2017) [720p] [DUAL]
+https://archive.org/download/001_20261016_20261016_1835/Unix/007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sK5e1HbxVbvzUuobpVWtaItRSSJ.jpg",Tadeo El explorador perdido 3 La Maldición de la Momia (2022) [720p] [DUAL]
+https://archive.org/download/001_20261016_20261016_1835/Unix/008.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",Tadeo Jones y La Lámpara Maravillosa (2026) [720p] [DUAL]
 https://archive.org/download/001_20261013/Unix/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ufMZpIbrDpcUIBVYUUo4PKaMovC.jpg",The Amazing Digital Circus: El ultimo acto (2026) [1080p] [DUAL]
@@ -678,9 +684,9 @@ https://dl.dropbox.com/s/sp559kk66y5gqjr/un1d05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vSdpOU6rDK7IpmOD7iAvlZdMUCc.jpg",Up: Una Aventura de Altura (2009) [378p] [UND]
 http://archive.org/download/img029_202012/uuuup0.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5lHMB2jwlQV43RBfT5g3BRGN0Tm.jpg",Vecinos invasores (2006) [270p] [UND]
-https://archive.org/download/08_20260421_202604/Linux/09.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5lHMB2jwlQV43RBfT5g3BRGN0Tm.jpg",Vecinos invasores (2006) [270p] [UND]
 https://archive.org/download/ax_20200528/vi.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5lHMB2jwlQV43RBfT5g3BRGN0Tm.jpg",Vecinos invasores (2006) [270p] [UND]
+https://archive.org/download/08_20260421_202604/Linux/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e4YIxQEoz2lwZA3WLtFzAogxl44.jpg",Wallace y Gromit: La venganza se sirve con plumas (2024) [720p] [ESP]
 https://archive.org/download/tutoriales_202506/TutorialesLinux/06.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1K6YdJqNDjapI21ZNQMbD35blkw.jpg",Wifi Ralph (2018) [168p] [ESP]
