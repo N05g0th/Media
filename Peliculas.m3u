@@ -555,6 +555,8 @@ https://archive.org/download/dedede-92/sonic%202%20la%20pelicula.avi
 https://archive.org/download/descarga_202101/dfdf/s0n1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg" group-title="Acción",Sonic: La Película (2020) [720p] [ESP]
 https://archive.org/download/50-n-1-c/50N1C.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="Acción",Spider-Man (2002) [480p] [ESP]
+https://archive.org/download/desct_202107/h41.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z07KnqwHWDY3q5utu0xBLKo3UWo.jpg" group-title="Acción",Spider-Man 2 (2004) [480p] [ESP]
 https://archive.org/download/desct_202107/h42.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yqQRaD0uBWKLvSVe6LuMveb0ZLv.jpg" group-title="Acción",Spider-Man 3 (2007) [1080p] [UND]
@@ -563,6 +565,10 @@ https://archive.org/download/platillo/platillo.mkv
 https://archive.org/download/desct_202107/h43.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9OGkKMnYgSc0TzSIErcOOiKllrK.jpg" group-title="Acción",Spider-Man Sin camino a casa (2021) [720p] [DUAL]
 https://archive.org/download/linux_202610/Linux/007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="Acción",Spider-Man Un nuevo día (2026) [1080p] [DUAL]
+https://archive.org/download/001_20261016_20261016_1835/Unix/001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="Acción",Spider-Man Un nuevo día (2026) [720p] [DUAL]
+https://archive.org/download/brandy_20261005/Linux/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" group-title="Acción",Star Wars: Rogue One (2016) [720p] [DUAL]
 https://archive.org/download/11_20260503_20260503/upload/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg" group-title="Acción",Star Wars: The Mandalorian and Grogu | A Special Look (2026) [DUAL] [1080p]
@@ -650,9 +656,9 @@ https://ia801502.us.archive.org/34/items/5044448658339135791/1_50444486583391357
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tEQ22Cxe40ElF9mkodvM39opnWg.jpg" group-title="Acción",Volja Sinovljeva (2024) [720p] [DUAL]
 https://archive.org/download/002_20260922/Unix/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
-https://archive.org/download/06_20260426/manjaritos/09.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
 https://archive.org/download/03_20250627_202506/RPM/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2S3CTv5CyDb99mquNuptBvCVAHd.jpg" group-title="Acción",X (2022) [480p] [ENG]
+https://archive.org/download/06_20260426/manjaritos/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hj2mUTJktFXNA9cUtFptYiPXhEs.jpg" group-title="Acción",Xtremo (2021) [480p] [ESP]
 https://archive.org/download/dfrte/xtr3m.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg" group-title="Acción",Ángeles de Charlie (2019) [480p] [ESP]
@@ -1153,12 +1159,6 @@ https://archive.org/download/08_20260419/apt/07.mkv
 https://archive.org/download/12_20260503_20260503/upload/06.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5yprxs7ZyBr58RsTQJrKCVmqk8X.jpg" group-title="Ciencia ficción",Spectral (2016) [720p] [DUAL]
 https://archive.org/download/02_20251014_202510/RPM/04.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="Ciencia ficción",Spider-Man (2002) [480p] [ESP]
-https://archive.org/download/desct_202107/h41.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="Ciencia ficción",Spider-Man Un nuevo día (2026) [1080p] [DUAL]
-https://archive.org/download/001_20261016_20261016_1835/Unix/001.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="Ciencia ficción",Spider-Man Un nuevo día (2026) [720p] [DUAL]
-https://archive.org/download/brandy_20261005/Linux/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ffnScVI2qRV6dtF9AOULFshQEJ.jpg" group-title="Ciencia ficción",Sputnik: Extraño Pasajero (2020) [480p] [DUAL]
 https://archive.org/download/barco_202101/59utn1c.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg" group-title="Ciencia ficción",Superman (2025) [480p] [DUAL]
