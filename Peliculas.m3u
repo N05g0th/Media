@@ -1,4 +1,29 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/pZ7pceZrcJjAzlbYz71Z7GwJ7Id.jpg",Compulsion (2016) [720p] [DUAL]
+https://archive.org/download/001_20261024_20261024_2151/Unix/001.mkv
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",La manzana podrida (2026) [720p] [DUAL]
+https://archive.org/download/001_20261024_20261024_2151/Unix/002.mkv
+#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/crKwaK7mqHOOfcmaUEPiw87acit.jpg",Parto Maldito (2025) [1080p] [DUAL]
+https://archive.org/download/001_20261024_20261024_2151/Unix/003.mkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/1cpfjP0xeonz7L4ujR13aGHsc2Q.jpg",Criatura Infernal (2023) [720p] [DUAL]
+https://archive.org/download/001_20261024_20261024_2151/Unix/004.mkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/kg3ctDiTvz0rFL5UIlfsbR9RwEz.jpg",Pesadilla en la calle del infierno 4 El amo de los sueños (1988) [1080p] [DUAL]
+https://archive.org/download/001_20261024_20261024_2151/Unix/005.mkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/biokhQh3MSqBozc47Tl2jYcM0TI.jpg",Pesadilla en la calle del infierno 2 (1985) [1080p] [DUAL]
+https://archive.org/download/001_20261024_20261024_2151/Unix/006.mkv
+#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/pZ7pceZrcJjAzlbYz71Z7GwJ7Id.jpg",Compulsion (2016) [480p] [UND]
+https://archive.org/download/001_20261024_20261024_2151/Unix/001.mp4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",La manzana podrida (2026) [480p] [UND]
+https://archive.org/download/001_20261024_20261024_2151/Unix/002.mp4
+#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/crKwaK7mqHOOfcmaUEPiw87acit.jpg",Parto Maldito (2025) [480p] [UND]
+https://archive.org/download/001_20261024_20261024_2151/Unix/003.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/1cpfjP0xeonz7L4ujR13aGHsc2Q.jpg",Criatura Infernal (2023) [480p] [UND]
+https://archive.org/download/001_20261024_20261024_2151/Unix/004.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/kg3ctDiTvz0rFL5UIlfsbR9RwEz.jpg",Pesadilla en la calle del infierno 4 El amo de los sueños (1988) [480p] [UND]
+https://archive.org/download/001_20261024_20261024_2151/Unix/005.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/biokhQh3MSqBozc47Tl2jYcM0TI.jpg",Pesadilla en la calle del infierno 2 (1985) [480p] [UND]
+https://archive.org/download/001_20261024_20261024_2151/Unix/006.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg" group-title="Acción",300 (2007) [480p] [ENG]
 https://archive.org/download/09_20260501/upload/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mDxgQe2urgVZgf6PV9yW9zMoXap.jpg" group-title="Acción",40 Acres (2025) [720p] [DUAL]
