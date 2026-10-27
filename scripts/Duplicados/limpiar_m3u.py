@@ -36,4 +36,4 @@ def limpiar_m3u(archivo_entrada, archivo_salida):
     print(f"📊 URLs únicas conservadas: {len(urls_vistas)}")
 
 # Uso
-limpiar_m3u('pelis.txt', 'pelis_sin_duplicados.txt')
+limpiar_m3u('pelis.m3u', 'pelis_sin_duplicados.m3u')
