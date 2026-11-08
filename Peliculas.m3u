@@ -1,4 +1,17 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/sRxbUe5FB25Gde0e2FnwwSckpXb.jpg",La Odisea (2026) [1080p] [DUAL]
+https://archive.org/download/001_20261108/Unix/001.mkv
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/sRxbUe5FB25Gde0e2FnwwSckpXb.jpg",La Odisea (2026) [480p] [UND]
+https://archive.org/download/001_20261108/Unix/001.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",Impacto mortal (2026) [720p] [DUAL]
+https://archive.org/download/001_20261108/Unix/002.mkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",Impacto mortal (2026) [480p] [UND]
+https://archive.org/download/001_20261108/Unix/002.mp4
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/4sIRIKRO4QJgSQKb0ALTk7kUveU.jpg",Frecuencia explosiva (2026) [720p] [DUAL]
+https://archive.org/download/001_20261108/Unix/003.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/yUa5I0Wb4pVbKcrIRBYrLF4guje.jpg",La milicia (2026) [720p] [DUAL]
+https://archive.org/download/001_20261108/Unix/004.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg" group-title="Acción",300 (2007) [480p] [ENG]
 https://archive.org/download/09_20260501/upload/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mDxgQe2urgVZgf6PV9yW9zMoXap.jpg" group-title="Acción",40 Acres (2025) [720p] [DUAL]
