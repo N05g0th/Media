@@ -1731,6 +1731,8 @@ https://archive.org/download/003_20260804/Unix/005.mkv
 https://archive.org/download/04_20250613_20250613/c%2B%2B/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AqFRon8p9ffsxD55tp6gKi24cMc.jpg" group-title="Documental",Un hijo propio (2026) [1080p] [ESP]
 https://archive.org/download/unix_20260925/Unix/006.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg" group-title="Drama",Hannibal (2001) [1080p] [DUAL]
+https://archive.org/download/001_20261111_20261111_2132/Servers/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9t53ZxEyWW3hUhYX7TgaXM0FdsM.jpg" group-title="Drama",#Alive (2020) [DUAL] [720p]
 https://archive.org/download/001_20261102/Linux/004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kNXglfb4CT8pNQxVdqnYOeKyG3E.jpg" group-title="Drama",15 Asesinatos (2020) [480p] [DUAL]
@@ -2564,9 +2566,9 @@ https://archive.org/download/04_20250728_20250728_1905/Linux/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zDdmGyJ2uTYscOz1bVslQTPrp1a.jpg" group-title="Suspense",Avenida Cloverfield 10 (2016) [720p] [DUAL]
 https://archive.org/download/001_20261109_202611/Unix/007.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rCfVv40XBQ7SEUibGARr5AR9QtT.jpg" group-title="Suspense",Bajo Anestesia (2007) [720p] [DUAL]
-https://archive.org/download/02_20260624_20260624/edit/03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rCfVv40XBQ7SEUibGARr5AR9QtT.jpg" group-title="Suspense",Bajo Anestesia (2007) [720p] [DUAL]
 https://archive.org/download/03_20260627_202606/daemons/02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rCfVv40XBQ7SEUibGARr5AR9QtT.jpg" group-title="Suspense",Bajo Anestesia (2007) [720p] [DUAL]
+https://archive.org/download/02_20260624_20260624/edit/03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rCfVv40XBQ7SEUibGARr5AR9QtT.jpg" group-title="Suspense",Bajo anestesia (2007) [DUAL] [1080p]
 https://archive.org/download/Cakasawa/Linux/07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4BTPtaRLqFEvnaYYr6MAuWCoKSN.jpg" group-title="Suspense",Bajo el silencio del agua (2023) [720p] [DUAL]
@@ -2602,11 +2604,11 @@ https://archive.org/download/001_20261030_202610/Unix/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pZ7pceZrcJjAzlbYz71Z7GwJ7Id.jpg" group-title="Suspense",Compulsion (2016) [480p] [UND]
 https://archive.org/download/001_20261024_20261024_2151/Unix/001.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pZ7pceZrcJjAzlbYz71Z7GwJ7Id.jpg" group-title="Suspense",Compulsion (2016) [720p] [DUAL]
-https://archive.org/download/001_20261024_20261024_2151/Unix/001.mkv
+https://archive.org/download/001_20261013/Unix/007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pZ7pceZrcJjAzlbYz71Z7GwJ7Id.jpg" group-title="Suspense",Compulsion (2016) [720p] [DUAL]
 https://archive.org/download/001_20261018_20261018_1802/Unix/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pZ7pceZrcJjAzlbYz71Z7GwJ7Id.jpg" group-title="Suspense",Compulsion (2016) [720p] [DUAL]
-https://archive.org/download/001_20261013/Unix/007.mkv
+https://archive.org/download/001_20261024_20261024_2151/Unix/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dKUXpUryPHGnkFThqhXtad4O8jE.jpg" group-title="Suspense",Conexión peligrosa (2026) [720p] [DUAL]
 https://archive.org/download/003_20260911/Linux/004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/94Kaz00OQFnfHRpQAw8UX4gvUaR.jpg" group-title="Suspense",Criatura misteriosa (2020) [480p] [DUAL]
@@ -2655,6 +2657,8 @@ https://archive.org/download/02_20260701/handbrake/06.mkv
 https://dl.dropboxusercontent.com/s/o2sn84ya2fjdi8p/el%20portal%20del%20m%c3%a1s%20all%c3%a1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cmLD1G3r0Pj2zzylzlmwCGF4Qj4.jpg" group-title="Suspense",El secuestro de 1993 (2024) [720p] [DUAL]
 https://archive.org/download/007_20260728/up/003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jrzX7TCmoD5gedFeqb1iB9sBaSn.jpg" group-title="Suspense",El Silencio de los Inocentes (1991) [1080p] [DUAL]
+https://archive.org/download/001_20261111_20261111_2132/Servers/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jrzX7TCmoD5gedFeqb1iB9sBaSn.jpg" group-title="Suspense",El Silencio de los Inocentes (1991) [356p] [UND]
 http://ia601507.us.archive.org/0/items/ziduyaliri_mail-register_07/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jrzX7TCmoD5gedFeqb1iB9sBaSn.jpg" group-title="Suspense",El Silencio de los Inocentes (1991) [720p] [ENG]
@@ -2697,6 +2701,8 @@ https://dl.dropbox.com/s/funqz194sk2mj0x/goodland.2017.mp4
 https://archive.org/download/05_20260604/Servers/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg" group-title="Suspense",Hackers: Ningún Sistema Es Seguro (2014) [480p] [DUAL]
 https://archive.org/download/hacks_202006/hacks.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AfIIQ5lMbqpCa3UQCwHVieLRpyE.jpg" group-title="Suspense",Hannibal El origen del mal (2007) [720p] [DUAL]
+https://archive.org/download/001_20261111_20261111_2132/Servers/003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v54nv9QRQ6Cxvwe9D7SfWrEFlHp.jpg" group-title="Suspense",Harry Brown (2009) [720p] [ESP]
 https://archive.org/download/008_20260821/Edit/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eAf8Is1xX4gq4Jk14iFC1qhmT8R.jpg" group-title="Suspense",Harta (2025) [720p] [DUAL]
@@ -2706,15 +2712,15 @@ https://archive.org/download/02_20260714/media/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AhHDhqLU4817cPc6crmc45vCK55.jpg" group-title="Suspense",Hazte el muerto (2026) [720p] [DUAL]
 https://archive.org/download/001_20261107_202611/Unix/002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9KVkDMKC2AHsZa3uveAhundJEel.jpg" group-title="Suspense",Hell in Paradise (2025) [1080p] [DUAL]
-https://archive.org/download/001_20261024_20261024_1922/Unix/003.mkv
+https://archive.org/download/001_20261021_202610/Unix/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9KVkDMKC2AHsZa3uveAhundJEel.jpg" group-title="Suspense",Hell in Paradise (2025) [1080p] [DUAL]
 https://archive.org/download/001_20261024_202610/Linux/003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9KVkDMKC2AHsZa3uveAhundJEel.jpg" group-title="Suspense",Hell in Paradise (2025) [1080p] [DUAL]
-https://archive.org/download/001_20261021_202610/Unix/001.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9KVkDMKC2AHsZa3uveAhundJEel.jpg" group-title="Suspense",Hell in Paradise (2025) [480p] [UND]
-https://archive.org/download/001_20261024_20261024_1922/Unix/003.mp4
+https://archive.org/download/001_20261024_20261024_1922/Unix/003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9KVkDMKC2AHsZa3uveAhundJEel.jpg" group-title="Suspense",Hell in Paradise (2025) [480p] [UND]
 https://archive.org/download/001_20261024_202610/Linux/003.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9KVkDMKC2AHsZa3uveAhundJEel.jpg" group-title="Suspense",Hell in Paradise (2025) [480p] [UND]
+https://archive.org/download/001_20261024_20261024_1922/Unix/003.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg" group-title="Suspense",Heretic (2024) [480p] [UND]
 https://archive.org/download/05_20241210_202412/utp/7549.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wbM7cWkaHpUGiLkjd2ZaJiHLLCr.jpg" group-title="Suspense",Hurry Up Tomorrow: Más Allá de los Reflectores (2025) [480p] [DUAL]
@@ -2758,13 +2764,13 @@ https://archive.org/download/05_20260705_202607/SERVERS/06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6GWkGv9Dd6GeOBgqZjOa9ReUWHS.jpg" group-title="Suspense",La Invasión (2018) [720p] [DUAL]
 https://archive.org/download/11_20260503_20260503/upload/11.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bggTVSVG96J3EzUDfEw0fY674Sw.jpg" group-title="Suspense",La Isla Maldita (2004) [720p] [DUAL]
-https://archive.org/download/02_20260617/upload/01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bggTVSVG96J3EzUDfEw0fY674Sw.jpg" group-title="Suspense",La Isla Maldita (2004) [720p] [DUAL]
 https://archive.org/download/linux_202610/Linux/005.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8PBhufByqXi3zH9uF1dHeTlzgZ1.jpg" group-title="Suspense",La mujer del camarote 10 (2025) [720p] [DUAL]
-https://archive.org/download/05_20251015/deb/03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bggTVSVG96J3EzUDfEw0fY674Sw.jpg" group-title="Suspense",La Isla Maldita (2004) [720p] [DUAL]
+https://archive.org/download/02_20260617/upload/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8PBhufByqXi3zH9uF1dHeTlzgZ1.jpg" group-title="Suspense",La mujer del camarote 10 (2025) [720p] [DUAL]
 https://archive.org/download/linux_202604/unix/07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8PBhufByqXi3zH9uF1dHeTlzgZ1.jpg" group-title="Suspense",La mujer del camarote 10 (2025) [720p] [DUAL]
+https://archive.org/download/05_20251015/deb/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/umtfX1P3bzgl9fOSQL64DRY6juT.jpg" group-title="Suspense",La noche perdida (2018) [720p] [DUAL]
 https://archive.org/download/05_20260725/Linux/05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wlzOYuQ8uurwAeb0N64mcoMX0eE.jpg" group-title="Suspense",La Noche Siempre Llega (2025) [720p] [DUAL]
@@ -2816,9 +2822,9 @@ https://archive.org/download/001_20261024/Unix/003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mfxB4sW17t3yMdgxwCsCafGkrPk.jpg" group-title="Suspense",Los mensajeros (2007) [480p] [UND]
 https://archive.org/download/001_20261024/Unix/003.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mfxB4sW17t3yMdgxwCsCafGkrPk.jpg" group-title="Suspense",Los mensajeros (2007) [720p] [ESP]
-https://archive.org/download/12_20260425_202604/unix/08.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mfxB4sW17t3yMdgxwCsCafGkrPk.jpg" group-title="Suspense",Los mensajeros (2007) [720p] [ESP]
 https://archive.org/download/9_20250723_20250723/linux/12.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mfxB4sW17t3yMdgxwCsCafGkrPk.jpg" group-title="Suspense",Los mensajeros (2007) [720p] [ESP]
+https://archive.org/download/12_20260425_202604/unix/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lmTEYi3TszbIHUJjqHkRM3L4wbd.jpg" group-title="Suspense",Medianoche En el Switchgrass (2021) [720p] [ESP]
 https://archive.org/download/pacto1/m3d1an0.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vJgosLzzHbny5Kls82LnAA3iTfa.jpg" group-title="Suspense",Misdirection (2026) [720p] [DUAL]
@@ -2826,11 +2832,11 @@ https://archive.org/download/04_20260619/new/06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x3G3CCvLYy4EoLuhuUB9YlReFIN.jpg" group-title="Suspense",MK Ultra Controlando mentes (2022) [720p] [DUAL]
 https://archive.org/download/008_20260821/Edit/007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tmZXiSht2bFjowcS2fMeI6mFFC1.jpg" group-title="Suspense",Morirás en 6 horas (2024) [480p] [DUAL]
-https://archive.org/download/linux_202604/unix/11.mp4
+https://archive.org/download/06_20260426/manjaritos/11.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tmZXiSht2bFjowcS2fMeI6mFFC1.jpg" group-title="Suspense",Morirás en 6 horas (2024) [480p] [DUAL]
 https://archive.org/download/01_20250819_20250819_1912/linux/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tmZXiSht2bFjowcS2fMeI6mFFC1.jpg" group-title="Suspense",Morirás en 6 horas (2024) [480p] [DUAL]
-https://archive.org/download/06_20260426/manjaritos/11.mp4
+https://archive.org/download/linux_202604/unix/11.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i03AIO5p7XG14ZgZiv1LbgbgpJU.jpg" group-title="Suspense",Morirás en 6 horas (2024) [480p] [UND]
 https://archive.org/download/004_20260906/Unix/008.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i03AIO5p7XG14ZgZiv1LbgbgpJU.jpg" group-title="Suspense",Morirás en 6 horas (2024) [720p] [DUAL]
@@ -2860,15 +2866,15 @@ https://archive.org/download/017_20260807/Unix/013.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nsZaRoXLjVyP9TpksJbyqcL581m.jpg" group-title="Suspense",Operación Matar al Papa (2025) [1080p] [DUAL]
 https://archive.org/download/001_20261015/Unix/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3ALvmC25TzvLxzdI7AerT3P1SYw.jpg" group-title="Suspense",Parque de las almas (2022) [480p] [DUAL]
-https://archive.org/download/02_20260502_20260502/upload/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3ALvmC25TzvLxzdI7AerT3P1SYw.jpg" group-title="Suspense",Parque de las almas (2022) [480p] [DUAL]
 https://archive.org/download/07_20260501/upload/04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3ALvmC25TzvLxzdI7AerT3P1SYw.jpg" group-title="Suspense",Parque de las almas (2022) [480p] [DUAL]
+https://archive.org/download/02_20260502_20260502/upload/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/crKwaK7mqHOOfcmaUEPiw87acit.jpg" group-title="Suspense",Parto Maldito (2025) [1080p] [DUAL]
-https://archive.org/download/001_20261024_20261024_2151/Unix/003.mkv
+https://archive.org/download/001_20261021_202610/Unix/005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/crKwaK7mqHOOfcmaUEPiw87acit.jpg" group-title="Suspense",Parto Maldito (2025) [1080p] [DUAL]
 https://archive.org/download/06_20260630/project/05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/crKwaK7mqHOOfcmaUEPiw87acit.jpg" group-title="Suspense",Parto Maldito (2025) [1080p] [DUAL]
-https://archive.org/download/001_20261021_202610/Unix/005.mkv
+https://archive.org/download/001_20261024_20261024_2151/Unix/003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/crKwaK7mqHOOfcmaUEPiw87acit.jpg" group-title="Suspense",Parto Maldito (2025) [480p] [UND]
 https://archive.org/download/001_20261024_20261024_2151/Unix/003.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg" group-title="Suspense",Perdida (2014) [720p] [DUAL]
@@ -2883,10 +2889,10 @@ https://archive.org/download/index_20240823/cursos/02.mp4
 https://archive.org/download/05_20260605/samba/04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fqUakfM8wH4IWULIkhRyZqNZveD.jpg" group-title="Suspense",Príncipes salvajes (2024) [480p] [UND]
 https://archive.org/download/01_20240901_20240901_1848/bordados/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7tIgfsTWuzXKR2kLRUPrLRTbcuo.jpg" group-title="Suspense",Psicópata: el Asesino del Conejo Blanco (2026) [720p] [ESP]
-https://archive.org/download/02_20260526_202605/Linux/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7tIgfsTWuzXKR2kLRUPrLRTbcuo.jpg" group-title="Suspense",Psicópata: El Asesino del Conejo Blanco (2026) [720p] [ESP]
 https://archive.org/download/03_20260710_202607/project/01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7tIgfsTWuzXKR2kLRUPrLRTbcuo.jpg" group-title="Suspense",Psicópata: el Asesino del Conejo Blanco (2026) [720p] [ESP]
+https://archive.org/download/02_20260526_202605/Linux/01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tJ7piW0Awz9DJfJ2kgxWSpvL1qm.jpg" group-title="Suspense",Punto de Quiebra (2026) [720p] [UND]
 https://archive.org/download/001_20261111_20261111/Unix/007.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j3Q2MrpmaOrKfN2pInNvRNhYa4G.jpg" group-title="Suspense",Putin (2025) [480p] [DUAL]
@@ -2914,9 +2920,9 @@ https://archive.org/download/04_20260618/new/05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AnkEFuFG4M20Y3Ir06woW8eGMVp.jpg" group-title="Suspense",Siempre Fiel (2022) [480p] [UND]
 https://archive.org/download/11_20260503_20260503/upload/08.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3NE1VeWYVuc9zkR08Eg6JhEdnz1.jpg" group-title="Suspense",Sin Límites (2011) [720p] [DUAL]
-https://archive.org/download/07_20260430_20260430_2109/editores/08.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3NE1VeWYVuc9zkR08Eg6JhEdnz1.jpg" group-title="Suspense",Sin Límites (2011) [720p] [DUAL]
 https://archive.org/download/11_20260419_20260419/Federratas/05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3NE1VeWYVuc9zkR08Eg6JhEdnz1.jpg" group-title="Suspense",Sin Límites (2011) [720p] [DUAL]
+https://archive.org/download/07_20260430_20260430_2109/editores/08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rmx6bCD4w8Fanqat2kdv7zaHJad.jpg" group-title="Suspense",Sobrevivientes Después del Terremoto (2023) [480p] [DUAL]
 https://archive.org/download/12_20260503_20260503/upload/12.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg" group-title="Suspense",Soldado Universal (1992)
