@@ -881,12 +881,12 @@ https://archive.org/download/l732_20200213/L732.avi
 https://archive.org/download/001_20261108/Unix/001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sRxbUe5FB25Gde0e2FnwwSckpXb.jpg" group-title="Aventura",La Odisea (2026) [480p] [UND]
 https://archive.org/download/001_20261108/Unix/001.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kTQswP56kbVVux2duOVX8ssKiTh.jpg" group-title="Aventura",Las crónicas de Narnia El león la bruja y el ropero (2005) [720p] [DUAL]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5WNqb7C6EX5r752mKjnfzxGvWui.jpg" group-title="Aventura",Las Crónicas de Narnia: El león la bruja y el ropero (2005) [720p] [DUAL]
+https://archive.org/download/nar-02_202606/Nar/NAR01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kTQswP56kbVVux2duOVX8ssKiTh.jpg" group-title="Aventura",Las Crónicas de Narnia: El león la bruja y el ropero (2005) [720p] [DUAL]
 https://archive.org/download/alma-linux_20261116_2118/Servers/AlmaLinux.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5DjVX6Nqa6zvvY8AWpBxIuftLhw.jpg" group-title="Aventura",Las Crónicas de Narnia: el Príncipe Caspian (2008) [720p] [DUAL]
 https://archive.org/download/nar-02_202606/Nar/NAR02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5WNqb7C6EX5r752mKjnfzxGvWui.jpg" group-title="Aventura",las Crónicas de Narnia: la Bruja y el Ropero (2005) [720p] [DUAL]
-https://archive.org/download/nar-02_202606/Nar/NAR01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i1VNVBUkai81eRQTS16zXllnN52.jpg" group-title="Aventura",Las Crónicas de Narnia: la Travesía del Viajero del Alba (2010) [720p] [DUAL]
 https://archive.org/download/nar-02_202606/Nar/NAR03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg" group-title="Aventura",Lawrence de Arabia (1962) [720p] [DUAL]
@@ -908,9 +908,9 @@ https://archive.org/download/10_20260523_202605/BSD/05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9BekxLAAsW7V3VEEhwYgPPUWkcD.jpg" group-title="Aventura",Mundo Acuático (1995) [480p] [ESP]
 https://archive.org/download/003_20200426_202004/003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/auiwAi9mcSd9FAy2BZH4khBTwKZ.jpg" group-title="Aventura",Mundo Jurásico (2015) [480p] [ESP]
-http://archive.org/download/1_20190715_20190715_2033/4.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/auiwAi9mcSd9FAy2BZH4khBTwKZ.jpg" group-title="Aventura",Mundo Jurásico (2015) [480p] [ESP]
 http://archive.org/download/1_20190715_20190715_2033/5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/auiwAi9mcSd9FAy2BZH4khBTwKZ.jpg" group-title="Aventura",Mundo Jurásico (2015) [480p] [ESP]
+http://archive.org/download/1_20190715_20190715_2033/4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lTeTHvfUHEJDK7o3jg06lYi2bLR.jpg" group-title="Aventura",Parque Jurásico (1993) [272p] [UND]
 http://archive.org/download/1_20190715_20190715_2033/1.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2RvlEfcA1Kygqz3TtQSFmDCBFZt.jpg" group-title="Aventura",Parque Jurásico 2 el Mundo Perdido (1997) [320p] [UND]
